@@ -158,7 +158,7 @@ Most expensive auction sold,Most expensive auction sold,,332,-1,-1,0,140,0,0,1,9
 Gold looted,Gold looted,,333,-1,-1,0,140,0,0,1,3,136243,0,2753,0,0
 Most gold ever owned,Most gold ever owned,,334,-1,-1,0,140,0,0,1,14,136243,0,2,0,0
 Vanity pets owned,Vanity pets owned,,338,-1,-1,0,15219,0,0,1,1,136243,0,5294,0,0
-Bandages used,Bandages used,,344,-1,-1,0,145,0,0,9,1,136243,0,1930,0,0
+Bandages used,Bandages used,,344,-1,-1,0,145,0,0,1,1,136243,0,1930,0,0
 Health potions consumed,Health potions consumed,,345,-1,-1,0,145,0,0,9,4,136243,0,5882,0,0
 Beverages consumed,Beverages consumed,,346,-1,-1,0,145,0,0,1,16,136243,0,5924,0,0
 Food eaten,Food eaten,,347,-1,-1,0,145,0,0,9,19,136243,0,15901,0,0
@@ -553,12 +553,12 @@ Complete each of The Rokk's 4 cooking daily quests listed below.,Kickin' It Up a
 "Raise your reputation values in Warsong Gulch, Arathi Basin and Alterac Valley to Exalted.",The Justicar,Title Reward: Justicar,907,-1,1,0,95,0,20,0,33,134474,0,10705,0,0
 Complete 100 battlegrounds at max level.,Call to Arms!,,908,-1,1,0,95,0,10,128,34,236309,0,6308,0,0
 Complete 100 battlegrounds at max level.,Call to Arms!,,909,-1,0,0,95,0,10,128,35,236309,0,3839,0,0
-Honor the Elders which are located inside the dungeons.,Elders of the Dungeons,,910,-1,-1,0,160,0,10,0,14,135982,0,1292,0,0
+Honor the Elders which are located inside the dungeons.,Elders of the Dungeons,,910,-1,-1,0,160,0,10,0,15,135982,0,1292,0,0
 Honor the Elders which are located in Kalimdor.,Elders of Kalimdor,,911,-1,-1,0,160,0,10,0,12,135982,0,4636,0,0
 Honor the Elders which are located in Eastern Kingdoms,Elders of Eastern Kingdoms,,912,-1,-1,0,160,0,10,0,11,135982,0,5707,0,0
 Complete the Lunar Festival achievements listed below.,To Honor One's Elders,Title Reward: Elder,913,-1,-1,0,155,0,30,131072,1,236704,0,4941,0,0
-Honor the Elders which are located in the Horde capital cities.,Elders of the Horde,,914,-1,-1,0,160,0,10,0,16,135982,0,8370,0,0
-Honor the Elders which are located in the Alliance capital cities.,Elders of the Alliance,,915,-1,-1,0,160,0,10,0,15,135982,0,2550,0,0
+Honor the Elders which are located in the Horde capital cities.,Elders of the Horde,,914,-1,-1,0,160,0,10,0,17,135982,0,8370,0,0
+Honor the Elders which are located in the Alliance capital cities.,Elders of the Alliance,,915,-1,-1,0,160,0,10,0,16,135982,0,2550,0,0
 Gold earned from auctions,Gold earned from auctions,,919,-1,-1,0,140,0,0,1,5,136243,0,9121,0,0
 Gold from vendors,Gold from vendors,,921,-1,-1,0,140,0,0,1,10,136243,0,10416,0,0
 Mana potions consumed,Mana potions consumed,,922,-1,-1,0,145,0,0,1,7,136243,0,3886,0,0
@@ -800,7 +800,7 @@ Gain 25 crashes with your Crashin' Thrashin' Racer during the Feast of Winter Ve
 Defeat Hadronox in Azjol-Nerub on Heroic Difficulty before he webs the top doors and prevents more creatures from spawning.,Hadronox Denied,,1297,601,-1,0,14806,0,10,0,40,236465,0,10726,0,0
 Different bandage types used,Different bandage types used,,1298,-1,-1,0,145,0,0,33,3,136243,0,24827,344,0
 Health potion used most,Health potion used most,,1299,-1,-1,0,145,0,0,1,5,136243,0,24874,345,0
-Different health potions used,Different health potions used,,1300,-1,-1,0,145,0,0,33,6,136243,0,24922,345,0
+Different health potions used,Different health potions used,,1300,-1,-1,0,145,0,0,1,6,136243,0,24922,345,0
 Mana potion used most,Mana potion used most,,1301,-1,-1,0,145,0,0,17,8,136243,0,24974,922,0
 Different mana potions used,Different mana potions used,,1302,-1,-1,0,145,0,0,1,9,136243,0,25016,922,0
 Elixir consumed most,Elixir consumed most,,1303,-1,-1,0,145,0,0,17,11,136243,0,25075,923,0
@@ -4947,10 +4947,10 @@ Obtain the Cruel Gladiator's Storm Dragon from Legion Arena Season 3.,Cruel Glad
 Obtain the Ferocious Gladiator's Storm Dragon from Legion Arena Season 4.,Ferocious Gladiator's Storm Dragon,,11002,-1,-1,0,15269,1,0,145408,39,1503312,0,51217,0,0
 Win 100 Arena (3v3) or 40 Rated Battlegrounds in Legion Season 2.,Fearless Combatant,Reward: Vicious Saddle,11003,-1,0,0,15270,0,0,14336,201,463449,103533,58865,0,0
 Win 100 Arena (3v3) or 40 Rated Battlegrounds in Legion Season 2.,Fearless Combatant,Reward: Vicious Saddle,11004,-1,1,0,15270,0,0,14336,202,463448,103533,51223,0,0
-Win 100 Arena (3v3) or 40 Rated Battlegrounds in Legion Season 3.,Cruel Combatant,Reward: Vicious Saddle,11005,-1,0,0,15270,0,0,6144,376,463449,103533,51226,0,0
-Win 100 Arena (3v3) or 40 Rated Battlegrounds in Legion Season 3.,Cruel Combatant,Reward: Vicious Saddle,11008,-1,1,0,15270,0,0,6144,377,463448,103533,51229,0,0
-Win 100 Arena (3v3) or 40 Rated Battlegrounds in Legion Season 4.,Ferocious Combatant,Reward: Vicious Saddle,11009,-1,0,0,15270,0,0,6144,379,463449,103533,51232,0,0
-Win 100 Arena (3v3) or 40 Rated Battlegrounds in Legion Season 4.,Ferocious Combatant,Reward: Vicious Saddle,11010,-1,1,0,15270,0,0,6144,380,463448,103533,51235,0,0
+Win 100 Arena (3v3) or 40 Rated Battlegrounds in Legion Season 3.,Cruel Combatant,Reward: Vicious Saddle,11005,-1,0,0,15270,0,0,6144,375,463449,103533,51226,0,0
+Win 100 Arena (3v3) or 40 Rated Battlegrounds in Legion Season 3.,Cruel Combatant,Reward: Vicious Saddle,11008,-1,1,0,15270,0,0,6144,376,463448,103533,51229,0,0
+Win 100 Arena (3v3) or 40 Rated Battlegrounds in Legion Season 4.,Ferocious Combatant,Reward: Vicious Saddle,11009,-1,0,0,15270,0,0,6144,378,463449,103533,51232,0,0
+Win 100 Arena (3v3) or 40 Rated Battlegrounds in Legion Season 4.,Ferocious Combatant,Reward: Vicious Saddle,11010,-1,1,0,15270,0,0,6144,379,463448,103533,51235,0,0
 End Legion PvP season 1 in the top 0.5% of the arena ladder (requires 50 games won in Legion Season 1).,Gladiator: Legion Season 1,Title Reward: Gladiator,11011,-1,-1,0,15270,0,0,14336,166,236541,141843,0,0,0
 End Legion PvP season 1 in the top 0.1% of the arena ladder (requires 50 games won in Legion Season 1).,Vindictive Gladiator: Legion Season 1,Title Reward: Vindictive Gladiator,11012,-1,-1,0,15270,0,0,14336,159,236541,0,0,0,0
 End Legion PvP season 2 in the top 0.5% of the arena ladder (requires 50 games won in Legion Season 2).,Gladiator: Legion Season 2,Title Reward: Gladiator,11013,-1,-1,0,15270,0,0,14336,197,236537,141844,0,0,0
@@ -4990,14 +4990,14 @@ End Legion PvP season 3 in the top 3% of the rated battleground ladder (requires
 End Legion PvP season 3 in the top 3% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 3).,Guardian of the Alliance: Legion Season 3,Title Reward: Guardian of the Alliance,11047,-1,1,0,15270,0,0,14336,221,236662,0,0,0,0
 End Legion PvP season 3 in the top 35% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 3).,Soldier of the Horde: Legion Season 3,Title Reward: Soldier of the Horde,11048,-1,0,0,15270,0,0,14336,222,236611,0,0,0,0
 End Legion PvP season 3 in the top 35% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 3).,Soldier of the Alliance: Legion Season 3,Title Reward: Soldier of the Alliance,11049,-1,1,0,15270,0,0,14336,223,236610,0,0,0,0
-End Legion PvP season 4 in the top 35% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 4).,Soldier of the Alliance: Legion Season 4,Title Reward: Soldier of the Alliance,11050,-1,1,0,15270,0,0,14336,363,236610,0,0,0,0
-End Legion PvP season 4 in the top 35% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 4).,Soldier of the Horde: Legion Season 4,Title Reward: Soldier of the Horde,11051,-1,0,0,15270,0,0,14336,362,236611,0,0,0,0
-End Legion PvP season 4 in the top 3% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 4).,Guardian of the Alliance: Legion Season 4,Title Reward: Guardian of the Alliance,11052,-1,1,0,15270,0,0,14336,358,236662,0,0,0,0
-End Legion PvP season 4 in the top 3% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 4).,Guardian of the Horde: Legion Season 4,Title Reward: Guardian of the Horde,11053,-1,0,0,15270,0,0,14336,354,236663,0,0,0,0
-End Legion PvP season 4 in the top 10% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 4).,Defender of the Alliance: Legion Season 4,Title Reward: Defender of the Alliance,11054,-1,1,0,15270,0,0,14336,352,236645,0,0,0,0
-End Legion PvP season 4 in the top 10% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 4).,Defender of the Horde: Legion Season 4,Title Reward: Defender of the Horde,11055,-1,0,0,15270,0,0,14336,347,236646,0,0,0,0
-End Legion PvP season 4 in the top 0.5% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 4).,Hero of the Alliance: Ferocious,,11056,-1,1,0,15270,0,0,14336,333,236593,0,0,0,0
-End Legion PvP season 4 in the top 0.5% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 4).,Hero of the Horde: Ferocious,,11057,-1,0,0,15270,0,0,14336,320,236629,0,0,0,0
+End Legion PvP season 4 in the top 35% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 4).,Soldier of the Alliance: Legion Season 4,Title Reward: Soldier of the Alliance,11050,-1,1,0,15270,0,0,14336,362,236610,0,0,0,0
+End Legion PvP season 4 in the top 35% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 4).,Soldier of the Horde: Legion Season 4,Title Reward: Soldier of the Horde,11051,-1,0,0,15270,0,0,14336,361,236611,0,0,0,0
+End Legion PvP season 4 in the top 3% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 4).,Guardian of the Alliance: Legion Season 4,Title Reward: Guardian of the Alliance,11052,-1,1,0,15270,0,0,14336,357,236662,0,0,0,0
+End Legion PvP season 4 in the top 3% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 4).,Guardian of the Horde: Legion Season 4,Title Reward: Guardian of the Horde,11053,-1,0,0,15270,0,0,14336,353,236663,0,0,0,0
+End Legion PvP season 4 in the top 10% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 4).,Defender of the Alliance: Legion Season 4,Title Reward: Defender of the Alliance,11054,-1,1,0,15270,0,0,14336,351,236645,0,0,0,0
+End Legion PvP season 4 in the top 10% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 4).,Defender of the Horde: Legion Season 4,Title Reward: Defender of the Horde,11055,-1,0,0,15270,0,0,14336,346,236646,0,0,0,0
+End Legion PvP season 4 in the top 0.5% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 4).,Hero of the Alliance: Ferocious,,11056,-1,1,0,15270,0,0,14336,332,236593,0,0,0,0
+End Legion PvP season 4 in the top 0.5% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 4).,Hero of the Horde: Ferocious,,11057,-1,0,0,15270,0,0,14336,319,236629,0,0,0,0
 End Legion PvP season 4 in the top 3% of the arena ladder (requires 50 game won on your current faction in Legion Season 4).,Duelist: Legion Season 4,Title Reward: Duelist,11058,-1,-1,0,15270,0,0,14336,250,236540,0,0,0,0
 End Legion PvP season 4 in the top 10% of the arena ladder (requires 50 games won your current faction in Legion Season 4).,Rival: Legion Season 4,Title Reward: Rival,11059,-1,-1,0,15270,0,0,14336,246,236540,0,0,0,0
 End Legion PvP season 4 in the top 35% of the arena ladder (requires 50 games won your current faction in Legion Season 4).,Challenger: Legion Season 4,Title Reward: Challenger,11060,-1,-1,0,15270,0,0,2048,242,236540,0,0,0,0
@@ -5159,11 +5159,11 @@ Reach Prestige Level 7.,Slayin' to Seven,,11470,-1,-1,11469,15279,0,0,2048,84,15
 Reach Prestige Level 8.,"Don't Hate, Grind to Eight",,11471,-1,-1,11470,15279,0,0,2048,85,1523631,0,56425,0,0
 Reach Prestige Level 9.,"Hell, It's About Nine",,11472,-1,-1,11471,15279,0,0,2048,86,1596892,0,56427,0,0
 ,7.0 WQ Unlock <DND>,,11473,-1,-1,0,15252,0,0,1179648,50,136243,0,56429,0,0
-Complete the achievements listed below.,"Free For All, More For Me",Reward: Prestigious War Mount,11474,-1,-1,0,15283,0,20,143360,26,236361,0,56431,0,0
-Complete Operation Murloc Freedom 20 times.,Mission Accomplished,,11475,-1,-1,0,15283,0,10,0,29,1450884,0,56436,0,0
-Complete Bareback Brawl 20 times.,Saddle Sore,,11476,-1,-1,0,15283,0,10,0,30,877477,0,56439,0,0
-Complete Black Rook Rumble 20 times.,Off the Top Rook,,11477,-1,-1,0,15283,0,10,0,31,1417423,0,56441,0,0
-Complete Darkbrul Arena 20 times.,The Darkbrul-oh,,11478,-1,-1,0,15283,0,10,0,32,1322281,0,56443,0,0
+Complete the achievements listed below.,"Free For All, More For Me",Reward: Prestigious War Mount,11474,-1,-1,0,15283,0,20,143360,29,236361,0,56431,0,0
+Complete Operation Murloc Freedom 20 times.,Mission Accomplished,,11475,-1,-1,0,15283,0,10,0,32,1450884,0,56436,0,0
+Complete Bareback Brawl 20 times.,Saddle Sore,,11476,-1,-1,0,15283,0,10,0,33,877477,0,56439,0,0
+Complete Black Rook Rumble 20 times.,Off the Top Rook,,11477,-1,-1,0,15283,0,10,0,34,1417423,0,56441,0,0
+Complete Darkbrul Arena 20 times.,The Darkbrul-oh,,11478,-1,-1,0,15283,0,10,0,35,1322281,0,56443,0,0
 "Explore the Broken Shore, revealing the covered areas of the world map.",Explore Broken Shore,,11543,-1,-1,0,15257,0,10,2097152,8,1536896,0,58969,0,0
 "Repel Legion assaults against Azsuna, Highmountain, Stormheim, and Val'sharah.",Defender of the Broken Isles,,11544,-1,-1,0,15252,0,10,0,38,1380867,0,58906,0,0
 Earn Revered status with the Armies of Legionfall.,Legionfall Commander,,11545,-1,-1,0,15258,0,5,0,5,1585421,0,58034,0,0
@@ -5183,7 +5183,7 @@ Obtain 10 stacks of Vested Interest in the Brawler's Guild.,Educated Guesser,,11
 Defeat 10 bosses using random brawl mode in the Brawler's Guild during the Broken Isles campaign.,I Am Thrall's Complete Lack Of Surprise (Season 3),,11572,-1,-1,0,15234,0,0,2048,72,236554,0,57119,0,0
 Defeat all rumbles in the Brawler's Guild.,Rumble Club,,11573,-1,-1,0,15416,0,5,0,13,1129627,0,57121,0,0
 Reach 2000 in any Rated PvP Bracket during Legion Season 1,Vindictive Elite,,11578,-1,-1,0,15270,0,0,2048,187,1581796,0,57242,0,0
-Reach 2000 in any Rated PvP Bracket during Legion Season 2,Fearless Elite,,11579,-1,-1,0,15270,0,0,2048,372,1582140,0,57285,0,0
+Reach 2000 in any Rated PvP Bracket during Legion Season 2,Fearless Elite,,11579,-1,-1,0,15270,0,0,2048,371,1582140,0,57285,0,0
 "Defeat Helya in Trial of Valor on Mythic difficulty, before the opening of the Tomb of Sargeras.",Cutting Edge: Helya,,11580,1648,-1,11581,15271,0,0,6144,54,1530370,0,57174,0,0
 "Defeat Helya in Trial of Valor on Heroic difficulty or higher, before the opening of the Tomb of Sargeras.",Ahead of the Curve: Helya,,11581,1648,-1,0,15271,0,0,6144,53,1530370,0,57177,0,0
 Hidden Achievement to be used to disable Artifact Knowledge Work Orders at 25 sent.,7.1 - Max Work Orders for Artifact Knowledge (Do Not Localize),,11601,-1,-1,0,15268,0,0,1048576,58,136243,0,57422,0,0
@@ -5229,8 +5229,8 @@ Reach Prestige Level 17.,Going On Seventeen,,11692,-1,-1,11691,15279,0,0,2048,94
 Reach Prestige Level 18.,Eighteen and Over,,11693,-1,-1,11692,15279,0,0,2048,95,1713478,0,58325,0,0
 Reach Prestige Level 19.,"Hell, It's About Nineteen",,11694,-1,-1,11693,15279,0,0,2048,96,1713479,0,58327,0,0
 Defeat the Demonic Inquisition in Tomb of Sargeras while every party member is at maximum Torment on Normal difficulty or higher.,Grin and Bear It,,11696,1676,-1,0,15255,0,10,0,66,1546411,0,59158,0,0
-Reach 2000 in any Rated PvP Bracket during Legion Season 3,Cruel Elite,,11697,-1,-1,0,15270,0,0,6144,374,1582141,0,58355,0,0
-Reach 2000 in any Rated PvP Bracket during Legion Season 4,Ferocious Elite,,11698,-1,-1,0,15270,0,0,14336,378,1582142,0,58359,0,0
+Reach 2000 in any Rated PvP Bracket during Legion Season 3,Cruel Elite,,11697,-1,-1,0,15270,0,0,6144,373,1582141,0,58355,0,0
+Reach 2000 in any Rated PvP Bracket during Legion Season 4,Ferocious Elite,,11698,-1,-1,0,15270,0,0,14336,377,1582142,0,58359,0,0
 "Summon Elder Murk-Eye using a Mrgrglhjorn, then defeat him and Harjatan in Tomb of Sargeras on Normal difficulty or higher.",Grand Fin-ale,,11699,1676,-1,0,15255,0,10,0,67,134169,0,58353,0,0
 Defeat Mephistroth within the Cathedral of Eternal Night.,Cathedral of Eternal Night,,11700,1677,-1,0,15254,0,10,0,33,1378283,0,58373,0,0
 Defeat Mephistroth in Cathedral of Eternal Night on Heroic difficulty or higher.,Heroic: Cathedral of Eternal Night,,11701,1677,-1,11700,15254,0,10,0,34,136149,0,58375,0,0
@@ -5432,19 +5432,19 @@ End Legion PvP season 5 in the top 0.1% of the arena ladder (requires 150 games 
 Defeat each of the following Legion Generals by completing each of the Greater Invasion Point scenarios.,Invasion Obliteration,,12026,-1,-1,0,15257,0,10,0,27,1394890,0,61020,0,0
 Slay each of the demonic commanders that can control the Invasion Points.,Envision Invasion Eradication,,12028,-1,-1,0,15257,0,10,0,26,1378284,0,61027,0,0
 "Defeat Kin'garoth with 9 Diabolic Bombs active in Antorus, the Burning Throne on Normal difficulty or higher.",The World Revolves Around Me,,12030,1712,-1,0,15255,0,10,0,95,1392544,0,61045,0,0
-Win 100 Arena (3v3) or 40 Rated Battlegrounds in Legion Season 5.,Fierce Combatant,Reward: Vicious Saddle,12031,-1,0,0,15270,0,0,6144,370,463449,103533,61050,0,0
-Win 100 Arena (3v3) or 40 Rated Battlegrounds in Legion Season 5.,Fierce Combatant,Reward: Vicious Saddle,12032,-1,1,0,15270,0,0,6144,371,463448,103533,61053,0,0
+Win 100 Arena (3v3) or 40 Rated Battlegrounds in Legion Season 5.,Fierce Combatant,Reward: Vicious Saddle,12031,-1,0,0,15270,0,0,6144,369,463449,103533,61050,0,0
+Win 100 Arena (3v3) or 40 Rated Battlegrounds in Legion Season 5.,Fierce Combatant,Reward: Vicious Saddle,12032,-1,1,0,15270,0,0,6144,370,463448,103533,61053,0,0
 End Legion PvP season 5 in the top 3% of the arena ladder (requires 50 games won your current faction in Legion Season 5).,Duelist: Legion Season 5,Title Reward: Duelist,12034,-1,-1,0,15270,0,0,14336,251,236540,0,0,0,0
 End Legion PvP season 5 in the top 10% of the arena ladder (requires 50 games won your current faction in Legion Season 5).,Rival: Legion Season 5,Title Reward: Rival,12035,-1,-1,0,15270,0,0,14336,247,236540,0,0,0,0
 End Legion PvP season 5 in the top 35% of the arena ladder (requires 50 games won your current faction in Legion Season 5).,Challenger: Legion Season 5,Title Reward: Challenger,12036,-1,-1,0,15270,0,0,2048,243,236540,0,0,0,0
-End Legion PvP season 5 in the top 0.5% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 5).,Hero of the Alliance: Fierce,,12037,-1,1,0,15270,0,0,14336,334,236593,0,0,0,0
-End Legion PvP season 5 in the top 3% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 5).,Guardian of the Alliance: Legion Season 5,Title Reward: Guardian of the Alliance,12038,-1,1,0,15270,0,0,14336,355,236662,0,0,0,0
-End Legion PvP season 5 in the top 10% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 5).,Defender of the Alliance: Legion Season 5,Title Reward: Defender of the Alliance,12039,-1,1,0,15270,0,0,14336,353,236645,0,0,0,0
-End Legion PvP season 5 in the top 35% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 5).,Soldier of the Alliance: Legion Season 5,Title Reward: Soldier of the Alliance,12040,-1,1,0,15270,0,0,14336,367,236610,0,0,0,0
-End Legion PvP season 5 in the top 0.5% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 5).,Hero of the Horde: Fierce,,12041,-1,0,0,15270,0,0,14336,321,236629,0,0,0,0
-End Legion PvP season 5 in the top 3% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 5).,Guardian of the Horde: Legion Season 5,Title Reward: Guardian of the Horde,12042,-1,0,0,15270,0,0,14336,356,236663,0,0,0,0
-End Legion PvP season 5 in the top 10% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 5).,Defender of the Horde: Legion Season 5,Title Reward: Defender of the Horde,12043,-1,0,0,15270,0,0,14336,346,236646,0,0,0,0
-End Legion PvP season 5 in the top 35% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 5).,Soldier of the Horde: Legion Season 5,Title Reward: Soldier of the Horde,12044,-1,0,0,15270,0,0,14336,364,236611,0,0,0,0
+End Legion PvP season 5 in the top 0.5% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 5).,Hero of the Alliance: Fierce,,12037,-1,1,0,15270,0,0,14336,333,236593,0,0,0,0
+End Legion PvP season 5 in the top 3% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 5).,Guardian of the Alliance: Legion Season 5,Title Reward: Guardian of the Alliance,12038,-1,1,0,15270,0,0,14336,354,236662,0,0,0,0
+End Legion PvP season 5 in the top 10% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 5).,Defender of the Alliance: Legion Season 5,Title Reward: Defender of the Alliance,12039,-1,1,0,15270,0,0,14336,352,236645,0,0,0,0
+End Legion PvP season 5 in the top 35% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 5).,Soldier of the Alliance: Legion Season 5,Title Reward: Soldier of the Alliance,12040,-1,1,0,15270,0,0,14336,366,236610,0,0,0,0
+End Legion PvP season 5 in the top 0.5% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 5).,Hero of the Horde: Fierce,,12041,-1,0,0,15270,0,0,14336,320,236629,0,0,0,0
+End Legion PvP season 5 in the top 3% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 5).,Guardian of the Horde: Legion Season 5,Title Reward: Guardian of the Horde,12042,-1,0,0,15270,0,0,14336,355,236663,0,0,0,0
+End Legion PvP season 5 in the top 10% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 5).,Defender of the Horde: Legion Season 5,Title Reward: Defender of the Horde,12043,-1,0,0,15270,0,0,14336,345,236646,0,0,0,0
+End Legion PvP season 5 in the top 35% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 5).,Soldier of the Horde: Legion Season 5,Title Reward: Soldier of the Horde,12044,-1,0,0,15270,0,0,14336,363,236611,0,0,0,0
 End Legion PvP season 5 in the top 0.5% of the arena ladder (requires 150 games won your current faction in Legion Season 5).,Gladiator: Legion Season 5,Title Reward: Gladiator,12045,-1,-1,0,15270,0,0,14336,239,236540,141847,0,0,0
 "Defeat the Coven of Shivarra in Antorus, the Burning Throne on Normal difficulty or higher while at least one of each Torment survives.",Remember the Titans,,12046,1712,-1,0,15255,0,10,0,97,254117,0,61061,0,0
 "Defeat the Felhounds of Sargeras in Antorus, the Burning Throne on Normal difficulty or higher with both Felhounds afflicted with 5 stacks of Fel Imbuement.",Hounds Good To Me,,12065,1712,-1,0,15255,0,10,0,90,135800,0,61126,0,0
@@ -5468,7 +5468,7 @@ Kill 10 enemies while Fel Infused from a single lightning strike on Argus.,Infus
 Score at least 600 points in the Norwington Estate horse show in Tiragarde Sound.,The Reining Champion,,12087,-1,1,0,15284,0,5,0,45,2143091,0,61546,0,0
 Defeat the following corrupted pets on Argus.,Anomalous Animals of Argus,,12088,-1,-1,0,15119,0,10,131072,65,1602317,0,61565,0,0
 Defeat the corrupted pets of Argus with all Aquatic pets.,Aquatic Assault,,12089,-1,-1,0,15119,0,5,131072,66,463493,0,61584,0,0
-Reach 2000 in any Rated PvP Bracket during Legion Season 5,Fierce Elite,,12090,-1,-1,0,15270,0,0,14336,375,1582142,0,61586,0,0
+Reach 2000 in any Rated PvP Bracket during Legion Season 5,Fierce Elite,,12090,-1,-1,0,15270,0,0,14336,374,1582142,0,61586,0,0
 Defeat the corrupted pets of Argus with all Beast pets.,Beast Blitz,,12091,-1,-1,0,15119,0,5,131072,67,1120424,0,61608,0,0
 Defeat the corrupted pets of Argus with all Critter pets.,Critical Critters,,12092,-1,-1,0,15119,0,5,131072,68,254858,0,61627,0,0
 Defeat the corrupted pets of Argus with all Dragonkin pets.,Draconic Destruction,,12093,-1,-1,0,15119,0,5,131072,69,368365,0,61646,0,0
@@ -5502,7 +5502,7 @@ Reach Prestige Level 21.,Twenty-One Arms Salute,,12109,-1,-1,12108,15279,0,0,204
 ,"Argus the Unmaker kills (Raid Finder Antorus, the Burning Throne)",,12127,1712,-1,0,15264,0,0,1,193,136243,0,61955,0,0
 "Defeat the Antoran High Command in Antorus, the Burning Throne while placing three or fewer Felshield Emitters.",This is the War Room!,,12129,1712,-1,0,15255,0,10,0,91,135796,0,61983,0,0
 End Legion PvP season 6 in the top 0.1% of the arena ladder (requires 150 games won your current faction in Legion Season 6).,Dominant Gladiator: Legion Season 6,Title Reward: Dominant Gladiator,12134,-1,-1,0,15270,0,0,14336,226,236540,0,0,0,0
-Reach 2000 in any Rated PvP Bracket during Legion Season 6,Dominant Elite,,12135,-1,-1,0,15270,0,0,14336,373,1582142,0,63058,0,0
+Reach 2000 in any Rated PvP Bracket during Legion Season 6,Dominant Elite,,12135,-1,-1,0,15270,0,0,14336,372,1582142,0,63058,0,0
 Win 100 Arena (3v3) or 40 Rated Battlegrounds in Legion Season 6.,Dominant Combatant,Reward: Vicious Saddle,12136,-1,0,0,15279,0,0,6144,103,463449,103533,62078,0,0
 Win 100 Arena (3v3) or 40 Rated Battlegrounds in Legion Season 6.,Dominant Combatant,Reward: Vicious Saddle,12137,-1,1,0,15279,0,0,6144,106,463448,103533,62081,0,0
 Obtain the Dominant Gladiator's Storm Dragon from Legion Arena Season 6.,Dominant Gladiator's Storm Dragon,,12139,-1,-1,0,15269,1,0,145408,41,1503314,0,62087,0,0
@@ -5512,14 +5512,14 @@ End Legion PvP season 7 in the top 0.5% of the arena ladder (requires 150 games 
 End Legion PvP season 6 in the top 35% of the arena ladder (requires 50 games won your current faction in Legion Season 6).,Challenger: Legion Season 6,Title Reward: Challenger,12169,-1,-1,0,15270,0,0,2048,244,236540,0,0,0,0
 End Legion PvP season 6 in the top 10% of the arena ladder (requires 50 games won your current faction in Legion Season 6).,Rival: Legion Season 6,Title Reward: Rival,12170,-1,-1,0,15270,0,0,14336,248,236540,0,0,0,0
 End Legion PvP season 6 in the top 3% of the arena ladder (requires 50 games won your current faction in Legion Season 6).,Duelist: Legion Season 6,Title Reward: Duelist,12171,-1,-1,0,15270,0,0,14336,252,236540,0,0,0,0
-End Legion PvP season 6 in the top 0.5% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 6).,Hero of the Horde: Dominant,,12172,-1,0,0,15270,0,0,14336,322,236629,0,0,0,0
-End Legion PvP season 6 in the top 0.5% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 6).,Hero of the Alliance: Dominant,,12173,-1,1,0,15270,0,0,14336,335,236593,0,0,0,0
-End Legion PvP season 6 in the top 10% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 6).,Defender of the Horde: Legion Season 6,Title Reward: Defender of the Horde,12174,-1,0,0,15270,0,0,14336,349,236646,0,0,0,0
-End Legion PvP season 6 in the top 10% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 6).,Defender of the Alliance: Legion Season 6,Title Reward: Defender of the Alliance,12175,-1,1,0,15270,0,0,14336,348,236645,0,0,0,0
-End Legion PvP season 6 in the top 3% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 6).,Guardian of the Horde: Legion Season 6,Title Reward: Guardian of the Horde,12176,-1,0,0,15270,0,0,14336,357,236663,0,0,0,0
-End Legion PvP season 6 in the top 3% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 6).,Guardian of the Alliance: Legion Season 6,Title Reward: Guardian of the Alliance,12177,-1,1,0,15270,0,0,14336,359,236662,0,0,0,0
-End Legion PvP season 6 in the top 35% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 6).,Soldier of the Horde: Legion Season 6,Title Reward: Soldier of the Horde,12178,-1,0,0,15270,0,0,14336,365,236611,0,0,0,0
-End Legion PvP season 6 in the top 35% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 6).,Soldier of the Alliance: Legion Season 6,Title Reward: Soldier of the Alliance,12179,-1,1,0,15270,0,0,14336,368,236610,0,0,0,0
+End Legion PvP season 6 in the top 0.5% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 6).,Hero of the Horde: Dominant,,12172,-1,0,0,15270,0,0,14336,321,236629,0,0,0,0
+End Legion PvP season 6 in the top 0.5% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 6).,Hero of the Alliance: Dominant,,12173,-1,1,0,15270,0,0,14336,334,236593,0,0,0,0
+End Legion PvP season 6 in the top 10% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 6).,Defender of the Horde: Legion Season 6,Title Reward: Defender of the Horde,12174,-1,0,0,15270,0,0,14336,348,236646,0,0,0,0
+End Legion PvP season 6 in the top 10% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 6).,Defender of the Alliance: Legion Season 6,Title Reward: Defender of the Alliance,12175,-1,1,0,15270,0,0,14336,347,236645,0,0,0,0
+End Legion PvP season 6 in the top 3% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 6).,Guardian of the Horde: Legion Season 6,Title Reward: Guardian of the Horde,12176,-1,0,0,15270,0,0,14336,356,236663,0,0,0,0
+End Legion PvP season 6 in the top 3% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 6).,Guardian of the Alliance: Legion Season 6,Title Reward: Guardian of the Alliance,12177,-1,1,0,15270,0,0,14336,358,236662,0,0,0,0
+End Legion PvP season 6 in the top 35% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 6).,Soldier of the Horde: Legion Season 6,Title Reward: Soldier of the Horde,12178,-1,0,0,15270,0,0,14336,364,236611,0,0,0,0
+End Legion PvP season 6 in the top 35% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 6).,Soldier of the Alliance: Legion Season 6,Title Reward: Soldier of the Alliance,12179,-1,1,0,15270,0,0,14336,367,236610,0,0,0,0
 Reach Prestige Level 22.,Catching Twenty-Two,,12180,-1,-1,12109,15279,0,0,2048,99,1713482,0,62123,0,0
 Reach Prestige Level 23.,Protocol 2.3,,12181,-1,-1,12180,15279,0,0,2048,100,1713483,0,62125,0,0
 Reach Prestige Level 24.,Demonic Double Dozen,,12182,-1,-1,12181,15279,0,0,14336,101,1713484,0,62127,0,0
@@ -5529,15 +5529,15 @@ End Legion PvP season 7 in the top 0.1% of the arena ladder (requires 150 games 
 End Legion PvP season 7 in the top 3% of the arena ladder (requires 50 games won your current faction in Legion Season 7).,Duelist: Legion Season 7,Title Reward: Duelist,12186,-1,-1,0,15270,0,0,14336,253,236540,0,0,0,0
 End Legion PvP season 7 in the top 35% of the arena ladder (requires 50 games won your current faction in Legion Season 7).,Challenger: Legion Season 7,Title Reward: Challenger,12187,-1,-1,0,15270,0,0,2048,245,236540,0,0,0,0
 End Legion PvP season 7 in the top 10% of the arena ladder (requires 50 games won your current faction in Legion Season 7).,Rival: Legion Season 7,Title Reward: Rival,12188,-1,-1,0,15270,0,0,14336,249,236540,0,0,0,0
-End Legion PvP season 7 in the top 35% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 7).,Soldier of the Alliance: Legion Season 7,Title Reward: Soldier of the Alliance,12189,-1,1,0,15270,0,0,14336,369,236610,0,0,0,0
-End Legion PvP season 7 in the top 35% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 7).,Soldier of the Horde: Legion Season 7,Title Reward: Soldier of the Horde,12190,-1,0,0,15270,0,0,14336,366,236611,0,0,0,0
-End Legion PvP season 7 in the top 3% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 7).,Guardian of the Alliance: Legion Season 7,Title Reward: Guardian of the Alliance,12191,-1,1,0,15270,0,0,14336,361,236662,0,0,0,0
-End Legion PvP season 7 in the top 3% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 7).,Guardian of the Horde: Legion Season 7,Title Reward: Guardian of the Horde,12192,-1,0,0,15270,0,0,14336,360,236663,0,0,0,0
-End Legion PvP season 7 in the top 10% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 7).,Defender of the Horde: Legion Season 7,Title Reward: Defender of the Horde,12194,-1,0,0,15270,0,0,14336,350,236646,0,0,0,0
-End Legion PvP season 7 in the top 10% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 7).,Defender of the Alliance: Legion Season 7,Title Reward: Defender of the Alliance,12195,-1,1,0,15270,0,0,14336,351,236645,0,0,0,0
-End Legion PvP season 7 in the top 0.5% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 7).,Hero of the Horde: Demonic,,12196,-1,0,0,15270,0,0,14336,323,236629,0,0,0,0
-End Legion PvP season 7 in the top 0.5% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 7).,Hero of the Alliance: Demonic,,12197,-1,1,0,15270,0,0,14336,336,236593,0,0,0,0
-Reach 2000 in any Rated PvP Bracket during Legion Season 7,Demonic Elite,,12198,-1,-1,0,15270,0,0,14336,384,1582142,0,62152,0,0
+End Legion PvP season 7 in the top 35% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 7).,Soldier of the Alliance: Legion Season 7,Title Reward: Soldier of the Alliance,12189,-1,1,0,15270,0,0,14336,368,236610,0,0,0,0
+End Legion PvP season 7 in the top 35% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 7).,Soldier of the Horde: Legion Season 7,Title Reward: Soldier of the Horde,12190,-1,0,0,15270,0,0,14336,365,236611,0,0,0,0
+End Legion PvP season 7 in the top 3% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 7).,Guardian of the Alliance: Legion Season 7,Title Reward: Guardian of the Alliance,12191,-1,1,0,15270,0,0,14336,360,236662,0,0,0,0
+End Legion PvP season 7 in the top 3% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 7).,Guardian of the Horde: Legion Season 7,Title Reward: Guardian of the Horde,12192,-1,0,0,15270,0,0,14336,359,236663,0,0,0,0
+End Legion PvP season 7 in the top 10% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 7).,Defender of the Horde: Legion Season 7,Title Reward: Defender of the Horde,12194,-1,0,0,15270,0,0,14336,349,236646,0,0,0,0
+End Legion PvP season 7 in the top 10% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 7).,Defender of the Alliance: Legion Season 7,Title Reward: Defender of the Alliance,12195,-1,1,0,15270,0,0,14336,350,236645,0,0,0,0
+End Legion PvP season 7 in the top 0.5% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 7).,Hero of the Horde: Demonic,,12196,-1,0,0,15270,0,0,14336,322,236629,0,0,0,0
+End Legion PvP season 7 in the top 0.5% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 7).,Hero of the Alliance: Demonic,,12197,-1,1,0,15270,0,0,14336,335,236593,0,0,0,0
+Reach 2000 in any Rated PvP Bracket during Legion Season 7,Demonic Elite,,12198,-1,-1,0,15270,0,0,14336,383,1582142,0,62152,0,0
 Win 100 Arena (3v3) or 40 Rated Battlegrounds in Legion Season 7.,Demonic Combatant,Reward: Vicious Saddle,12199,-1,0,0,15279,0,0,6144,104,463449,103533,62156,0,0
 Win 100 Arena (3v3) or 40 Rated Battlegrounds in Legion Season 7.,Demonic Combatant,Reward: Vicious Saddle,12200,-1,1,0,15279,0,0,6144,105,463448,103533,62159,0,0
 Owner of the Battle for Azeroth Collector's Edition Seabraid Stallion mount.,Collector's Edition: Seabraid Stallion,,12229,-1,1,0,15268,1,0,133120,34,1720723,0,62215,0,0
@@ -5727,17 +5727,17 @@ Complete the introduction quests to Zandalar.,Welcome to Zandalar,,12555,-1,0,0,
 "Explore Zuldazar, revealing the covered areas of the world map.",Explore Zuldazar,,12559,-1,-1,0,15298,0,10,2097152,10,2065640,0,69026,0,0
 "Explore Vol'dun, revealing the covered areas of the world map.",Explore Vol'dun,,12560,-1,-1,0,15298,0,10,2097152,12,2065632,0,68889,0,0
 "Explore Nazmir, revealing the covered areas of the world map.",Explore Nazmir,,12561,-1,-1,0,15298,0,10,2097152,11,2032229,0,68785,0,0
-"With a bounty on your head while within War Mode, get 10 honorable kills without dying.",The Horde Slayer,,12567,-1,1,0,15270,0,0,2048,381,464078,0,67813,0,0
-"With a bounty on your head while within War Mode, get 10 honorable kills without dying.",The Alliance Slayer,,12568,-1,0,0,15270,0,0,2048,382,464076,0,67815,0,0
-Loot 10 bounties from slain players while within War Mode.,Bounty Hunting,,12571,-1,-1,0,15283,0,10,0,34,1029718,0,67911,0,0
-Open a War Supply Crate from an air supply drop while within War Mode.,War Supplied,,12572,-1,-1,0,15283,0,10,0,33,132763,0,67909,0,0
-"While within a 2-5 player party, complete the following:",Band of Brothers,,12573,-1,-1,0,15283,0,15,0,35,2125376,0,67921,0,0
-Earn 1000 honor in Nazmir while in War Mode.,Tour of Duty: Nazmir,,12574,-1,-1,0,15283,0,10,0,36,2125381,0,67065,0,0
-Earn 1000 honor in Zuldazar while in War Mode.,Tour of Duty: Zuldazar,,12575,-1,-1,0,15283,0,10,0,37,2125385,0,67069,0,0
-Earn 1000 honor in Vol'dun while in War Mode.,Tour of Duty: Vol'dun,,12576,-1,-1,0,15283,0,10,0,38,2125384,0,67071,0,0
-Earn 1000 honor in Tiragarde Sound while in War Mode.,Tour of Duty: Tiragarde Sound,,12577,-1,-1,0,15283,0,10,0,41,2125383,0,67067,0,0
-Earn 1000 honor in Stormsong Valley while in War Mode.,Tour of Duty: Stormsong Valley,,12578,-1,-1,0,15283,0,10,0,42,2125382,0,67063,0,0
-Earn 1000 honor in Drustvar while in War Mode.,Tour of Duty: Drustvar,,12579,-1,-1,0,15283,0,10,0,43,2125380,0,67054,0,0
+"With a bounty on your head while within War Mode, get 10 honorable kills without dying.",The Horde Slayer,,12567,-1,1,0,15270,0,0,2048,380,464078,0,67813,0,0
+"With a bounty on your head while within War Mode, get 10 honorable kills without dying.",The Alliance Slayer,,12568,-1,0,0,15270,0,0,2048,381,464076,0,67815,0,0
+Loot 10 bounties from slain players while within War Mode.,Bounty Hunting,,12571,-1,-1,0,15283,0,10,0,37,1029718,0,67911,0,0
+Open a War Supply Crate from an air supply drop while within War Mode.,War Supplied,,12572,-1,-1,0,15283,0,10,0,36,132763,0,67909,0,0
+"While within a 2-5 player party, complete the following:",Band of Brothers,,12573,-1,-1,0,15283,0,15,0,38,2125376,0,67921,0,0
+Earn 1000 honor in Nazmir while in War Mode.,Tour of Duty: Nazmir,,12574,-1,-1,0,15283,0,10,0,39,2125381,0,67065,0,0
+Earn 1000 honor in Zuldazar while in War Mode.,Tour of Duty: Zuldazar,,12575,-1,-1,0,15283,0,10,0,40,2125385,0,67069,0,0
+Earn 1000 honor in Vol'dun while in War Mode.,Tour of Duty: Vol'dun,,12576,-1,-1,0,15283,0,10,0,41,2125384,0,67071,0,0
+Earn 1000 honor in Tiragarde Sound while in War Mode.,Tour of Duty: Tiragarde Sound,,12577,-1,-1,0,15283,0,10,0,44,2125383,0,67067,0,0
+Earn 1000 honor in Stormsong Valley while in War Mode.,Tour of Duty: Stormsong Valley,,12578,-1,-1,0,15283,0,10,0,45,2125382,0,67063,0,0
+Earn 1000 honor in Drustvar while in War Mode.,Tour of Duty: Drustvar,,12579,-1,-1,0,15283,0,10,0,46,2125380,0,67054,0,0
 Complete the introduction to Kul Tiras.,Come Sail Away,,12582,-1,1,0,15284,0,10,0,1,464160,0,66806,0,0
 Defeat the following monstrous creatures on Kul Tiras and Zandalar.,Unbound Monstrosities,,12587,-1,-1,0,15286,0,10,0,2,132160,0,66830,0,0
 Sample all of the edible plants within Nazmir.,Eat Your Greens,,12588,-1,-1,0,15298,0,5,0,39,134181,0,66859,0,0
@@ -5753,8 +5753,8 @@ Win 10 Island Expeditions in PvP.,Bayside Brawler,,12597,-1,-1,0,15307,0,10,0,51
 Light the ceremonial fires within the temple using the Shrine's Breath in Shrine of the Storm on Mythic difficulty.,Breath of the Shrine,,12600,1864,-1,0,15285,0,10,0,36,135777,0,67050,0,0
 Defeat Lord Stormsong without coming into contact with any Awoken Void in Shrine of the Storm on Mythic difficulty.,The Void Lies Sleeping,,12601,1864,-1,0,15285,0,10,0,37,2011125,0,67052,0,0
 Defeat Vol'zith the Whisperer while all party members are afflicted with Maddening Dreams in Shrine of the Storm on Mythic difficulty.,Trust No One,,12602,1864,-1,0,15285,0,10,0,38,2011153,0,67056,0,0
-Complete the World PvP achievements listed below.,Conqueror of Azeroth,Title: Conqueror of Azeroth,12604,-1,0,0,15283,0,20,131072,44,2125379,163577,67087,0,0
-Complete the World PvP achievements listed below.,Conqueror of Azeroth,Title: Conqueror of Azeroth,12605,-1,1,0,15283,0,20,131072,45,2125378,163577,67932,0,0
+Complete the World PvP achievements listed below.,Conqueror of Azeroth,Title: Conqueror of Azeroth,12604,-1,0,0,15283,0,20,131072,47,2125379,163577,67087,0,0
+Complete the World PvP achievements listed below.,Conqueror of Azeroth,Title: Conqueror of Azeroth,12605,-1,1,0,15283,0,20,131072,48,2125378,163577,67932,0,0
 ,8.0 WQ Unlock - Alliance <DND>,,12608,-1,-1,0,15284,0,0,1179648,83,136243,0,67103,0,0
 ,8.0 WQ Unlock - Horde <DND>,,12609,-1,-1,0,15284,0,0,1179648,84,136243,0,67106,0,0
 ,Mephistroth kills (Heroic Cathedral of Eternal Night),,12610,1677,-1,0,15264,0,0,1,32,136243,0,67112,0,0
@@ -5894,14 +5894,14 @@ Discover the hidden treasures of Tiragarde Sound.,Treasures of Tiragarde Sound,,
 Discover the hidden treasures of Stormsong Valley.,Treasures of Stormsong Valley,,12853,-1,-1,0,15298,0,10,0,22,1518643,0,68002,0,0
 "Defeat Mogul Razdunk without being struck by Gatling Gun, Micro Missiles, Big Red Rocket, or a direct hit from Drill Smash in The MOTHERLODE!! on Mythic difficulty.",Ready for Raiding VI,,12854,-1,-1,0,15285,0,10,0,50,2011128,0,69671,0,0
 Defeat the Coin-Operated Crowd Pummeler after defeating Ledley the Bold in The MOTHERLODE!! on Mythic difficulty.,Pitch Invasion,,12855,-1,-1,0,15285,0,10,0,51,660531,0,68023,0,0
-Participate in a duel in the Dueler's Guild.,The First Rule of Dueler's Guild,,12856,-1,-1,0,15283,0,5,0,46,603532,0,68032,0,0
-Win a duel in the Dueler's Guild.,Trial by Combat,,12857,-1,-1,12856,15283,0,5,0,47,136005,0,68034,0,0
-Win 5 duels in the Dueler's Guild.,Slugfest,,12858,-1,-1,12857,15283,0,5,0,48,133816,0,68029,0,0
-Win 3 consecutive duels without leaving the Dueler's Guild.,Prize Fighter,,12859,-1,-1,0,15283,0,5,0,51,1322721,0,68036,0,0
-Win 25 duels in the Dueler's Guild.,Contender,,12860,-1,-1,12858,15283,0,5,0,49,236327,0,68038,0,0
-Complete the following Dueler's Guild achievements listed below.,Master of Duels,Title Reward: Contender,12861,-1,-1,0,15283,0,10,131072,52,132269,0,68040,0,0
-Defeat each class in duels in the Dueler's Guild.,Thirty Six and Two,,12862,-1,-1,0,15283,0,10,65536,53,236333,0,68043,0,0
-Win 50 duels in the Dueler's Guild.,Dueling Master,Reward: Dueler's Tabard,12863,-1,-1,12860,15283,0,5,0,50,132147,163055,68057,0,0
+Participate in a duel in the Dueler's Guild.,The First Rule of Dueler's Guild,,12856,-1,-1,0,15283,0,5,0,49,603532,0,68032,0,0
+Win a duel in the Dueler's Guild.,Trial by Combat,,12857,-1,-1,12856,15283,0,5,0,50,136005,0,68034,0,0
+Win 5 duels in the Dueler's Guild.,Slugfest,,12858,-1,-1,12857,15283,0,5,0,51,133816,0,68029,0,0
+Win 3 consecutive duels without leaving the Dueler's Guild.,Prize Fighter,,12859,-1,-1,0,15283,0,5,0,54,1322721,0,68036,0,0
+Win 25 duels in the Dueler's Guild.,Contender,,12860,-1,-1,12858,15283,0,5,0,52,236327,0,68038,0,0
+Complete the following Dueler's Guild achievements listed below.,Master of Duels,Title Reward: Contender,12861,-1,-1,0,15283,0,10,131072,55,132269,0,68040,0,0
+Defeat each class in duels in the Dueler's Guild.,Thirty Six and Two,,12862,-1,-1,0,15283,0,10,65536,56,236333,0,68043,0,0
+Win 50 duels in the Dueler's Guild.,Dueling Master,Reward: Dueler's Tabard,12863,-1,-1,12860,15283,0,5,0,53,132147,163055,68057,0,0
 Raise 80 reputations to Exalted.,80 Exalted Reputations,Title Reward: The Admired,12864,-1,-1,11177,201,0,10,143488,15,236688,0,75708,0,0
 Raise 90 reputations to Exalted.,90 Exalted Reputations,,12865,-1,-1,12864,201,0,10,143488,16,236688,0,75534,0,0
 Raise 100 reputations to Exalted.,100 Exalted Reputations,Rewards: Pureheart Courser Mount and Esteemed Title,12866,-1,-1,12865,201,0,20,143488,17,236688,163982,72237,0,0
@@ -5979,8 +5979,8 @@ Earn the rank of Challenger during Battle for Azeroth Season 1.,Challenger: Batt
 Earn the rank of Rival during Battle for Azeroth Season 1.,Rival: Battle for Azeroth Season 1,Title Reward: Rival,12960,-1,-1,0,15270,0,0,14336,254,236540,0,70740,0,0
 Win 50 3v3 games while at Elite rank during Battle for Azeroth Season 1.,Gladiator: Battle for Azeroth Season 1,Reward: Gladiator Mount and Gladiator Title,12961,-1,-1,0,15270,0,0,14336,311,236540,156879,68994,0,0
 Earn the rank of Duelist during Battle for Azeroth Season 1.,Duelist: Battle for Azeroth Season 1,Title Reward: Duelist,12962,-1,-1,0,15270,0,0,14336,267,236540,0,70736,0,0
-End Battle for Azeroth Season 1 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Battle for Azeroth Season 1).,Hero of the Alliance: Dread,,12963,-1,1,0,15270,0,0,14336,337,236593,0,0,0,0
-End Battle for Azeroth Season 1 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Battle for Azeroth Season 1).,Hero of the Horde: Dread,,12964,-1,0,0,15270,0,0,14336,324,236629,0,0,0,0
+End Battle for Azeroth Season 1 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Battle for Azeroth Season 1).,Hero of the Alliance: Dread,,12963,-1,1,0,15270,0,0,14336,336,236593,0,0,0,0
+End Battle for Azeroth Season 1 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Battle for Azeroth Season 1).,Hero of the Horde: Dread,,12964,-1,0,0,15270,0,0,14336,323,236629,0,0,0,0
 Explore the regions of Kul Tiras and Zandalar.,Battle for Azeroth Explorer,,12988,-1,-1,0,97,0,25,131072,9,456568,0,68480,0,0
 Complete the Kul Tiras and Zandalar achievements listed below.,"Battle for Azeroth Pathfinder, Part One",Reward: Increased Mount Speed in Kul Tiras and Zandalar,12989,-1,-1,0,15298,0,25,393216,1,237383,0,68499,0,0
 Fish up a Great Sea Ray from the oceans around Kul Tiras or Zandalar.,Catchin' Some Rays,,12990,-1,-1,0,171,0,10,131072,74,1418615,0,68507,0,0
@@ -6162,8 +6162,8 @@ Earn the rank of Rival during Battle for Azeroth Season 2.,Rival: Battle for Aze
 Earn the allegiance of the Vol'dun vulpera and welcome them into the Horde.,Allied Races: Vulpera,Reward: Vulpera Race Unlocked,13206,-1,-1,0,201,0,10,131072,43,3208033,0,71330,0,0
 Complete the quest below.,Allied Races: Vulpera (Hidden Character Achievement),Reward: Vulpera Race Unlocked,13207,-1,-1,0,81,0,0,1048580,123,2057295,0,71333,0,0
 Earn the rank of Duelist during Battle for Azeroth Season 2.,Duelist: Battle for Azeroth Season 2,Title Reward: Duelist,13209,-1,-1,0,15270,0,0,14336,268,236540,0,71340,0,0
-End Battle for Azeroth Season 2 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Battle for Azeroth Season 2).,Hero of the Alliance: Sinister,,13210,-1,1,0,15270,0,0,14336,338,236593,0,0,0,0
-End Battle for Azeroth Season 2 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Battle for Azeroth Season 2).,Hero of the Horde: Sinister,,13211,-1,0,0,15270,0,0,14336,325,236629,0,0,0,0
+End Battle for Azeroth Season 2 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Battle for Azeroth Season 2).,Hero of the Alliance: Sinister,,13210,-1,1,0,15270,0,0,14336,337,236593,0,0,0,0
+End Battle for Azeroth Season 2 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Battle for Azeroth Season 2).,Hero of the Horde: Sinister,,13211,-1,0,0,15270,0,0,14336,324,236629,0,0,0,0
 Win 50 3v3 games while at Elite rank during Battle for Azeroth Season 2.,Gladiator: Battle for Azeroth Season 2,Reward: Gladiator Title and Mount,13212,-1,-1,0,15270,0,0,14336,312,236540,156880,72393,0,0
 ,Sinister Combatant,,13227,-1,0,0,15270,0,0,1179648,3,236538,165020,71376,0,0
 ,Sinister Combatant,,13228,-1,1,0,15270,0,0,1179648,48,236538,165019,71378,0,0
@@ -6218,7 +6218,7 @@ Defeat Stormwall Blockade in Battle of Dazar'alor on Mythic difficulty.,Mythic: 
 Defeat Lady Jaina Proudmoore in Battle of Dazar'alor on Mythic difficulty.,Mythic: Lady Jaina Proudmoore,Title Reward: Hero of Dazar'alor,13314,2070,-1,0,15286,0,10,4096,36,2484334,0,72222,0,0
 Complete the Battle of Dazar'alor raid achievements listed below.,Glory of the Dazar'alor Raider,Mount Reward: Dazar'alor Windreaver,13315,-1,-1,0,168,0,25,143360,48,2065640,166539,72224,0,0
 "Defeat the Champion of the Light in the Battle of Dazar'alor after stealing 3 shinies from each of the Crusaders, Disciples and Champion of the Light on Normal Difficulty or higher.",Can I Get a Hek Hek Hek Yeah?,,13316,2070,-1,0,15286,0,10,0,38,2399239,0,72226,0,0
-Loot the Secret Supply Chests in Kul Tiras and Zandalar during an active Assault while in War Mode.,Supplied and Ready,,13317,-1,-1,0,15283,0,5,0,28,1542856,0,72230,0,0
+Loot the Secret Supply Chests in Kul Tiras and Zandalar during an active Assault while in War Mode.,Supplied and Ready,,13317,-1,-1,0,15283,0,5,0,31,1542856,0,72230,0,0
 "Defeat the bosses of Battle of Dazar'alor on Normal difficulty or higher, while in a guild group.",Battle of Dazar'alor Guild Run,,13319,2070,0,0,15300,0,10,28672,2,2065640,0,72239,0,0
 "Defeat the bosses of Battle of Dazar'alor on Normal difficulty or higher, while in a guild group.",Battle of Dazar'alor Guild Run,,13320,2070,1,0,15300,0,10,28672,3,2065640,0,72249,0,0
 Defeat Lady Jaina Proudmoore in Battle of Dazar'alor on Mythic difficulty while in a guild group.,Mythic: Lady Jaina Proudmoore Guild Run,,13321,2070,-1,0,15300,0,10,61440,8,2484334,0,72479,0,0
@@ -6279,8 +6279,8 @@ Defeat the Opulence in Battle of Dazar'alor after /praising a Singing Sunflower 
 Defeat Grong in the Battle of Dazar'alor after destroying 6 Barrels on Normal Difficulty or higher.,Barrel of Monkeys,,13383,2070,-1,0,15286,0,10,0,39,877482,0,72383,0,0
 "Complete the quest ""Express Delivery"" in the Alliance War Campaign.",Kul Tirans Don't Look at Explosions,,13384,-1,1,0,15284,0,10,0,26,2447785,0,72395,0,0
 Collect an armor set from the Battle of Dazar'alor.,Daz'aling Attire,,13385,-1,-1,0,15259,0,10,131072,40,2065640,0,72398,0,0
-Complete all six Alliance Assaults in War Mode.,Frontline Veteran,,13387,-1,1,0,15283,0,10,0,54,1044536,0,72404,0,0
-Complete all six Horde Assaults in War Mode.,Frontline Veteran,,13388,-1,0,0,15283,0,10,0,55,1044536,0,72411,0,0
+Complete all six Alliance Assaults in War Mode.,Frontline Veteran,,13387,-1,1,0,15283,0,10,0,57,1044536,0,72404,0,0
+Complete all six Horde Assaults in War Mode.,Frontline Veteran,,13388,-1,0,0,15283,0,10,0,58,1044536,0,72411,0,0
 Achieve victory in an expedition to Jorundall on any difficulty.,Jorundall,,13389,-1,-1,0,15307,0,10,0,29,236783,0,72418,0,0
 Achieve victory in an expedition to Jorundall on Heroic difficulty or higher.,Heroic: Jorundall,,13394,-1,-1,13389,15307,0,10,0,30,236783,0,72420,0,0
 Achieve victory in an expedition to Jorundall on Mythic difficulty.,Mythic: Jorundall,,13395,-1,-1,13394,15307,0,10,0,31,236783,0,72422,0,0
@@ -6290,8 +6290,8 @@ Achieve victory in an expedition to Havenswood on Mythic difficulty.,Mythic: Hav
 Achieve victory in an expedition to Jorundall in PvP.,Jorundall Justice,,13399,-1,-1,0,15307,0,10,0,32,236783,0,72434,0,0
 Achieve victory in an expedition to Havenswood in PvP.,Havenswood Hero,,13400,-1,-1,0,15307,0,10,0,36,236766,0,72436,0,0
 Defeat High Tinker Mekkatorque in the Battle of Dazar'alor after defeating the Blingtron MK2 on Normal Difficulty or higher.,I Got Next!,,13401,2070,-1,0,15286,0,10,0,44,1005279,0,75506,0,0
-Kill 50 Horde players during an Assault on Kul Tiras or Zandalar.,Frontline Slayer,,13402,-1,1,0,15283,0,5,128,56,132346,0,72440,0,0
-Kill 50 Alliance players during an Assault on Kul Tiras or Zandalar.,Frontline Slayer,,13403,-1,0,0,15283,0,5,0,57,132346,0,72442,0,0
+Kill 50 Horde players during an Assault on Kul Tiras or Zandalar.,Frontline Slayer,,13402,-1,1,0,15283,0,5,128,59,132346,0,72440,0,0
+Kill 50 Alliance players during an Assault on Kul Tiras or Zandalar.,Frontline Slayer,,13403,-1,0,0,15283,0,5,0,60,132346,0,72442,0,0
 ,The Restless Cabal kills (Raid Finder Crucible of Storms),,13404,2096,-1,0,15409,0,0,1,115,136243,0,72444,0,0
 ,The Restless Cabal kills (Normal Crucible of Storms),,13405,2096,-1,0,15409,0,0,1,116,136243,0,72446,0,0
 ,The Restless Cabal kills (Heroic Crucible of Storms),,13406,2096,-1,0,15409,0,0,1,117,136243,0,72448,0,0
@@ -6312,22 +6312,22 @@ Defeat the Restless Cabal in Crucible of Storms on Mythic difficulty.,Mythic: Th
 "Among the first one hundred Horde guilds worldwide to defeat Uu'nat, Harbinger of the Void on Mythic difficulty.","Hall of Fame: Uu'nat, Harbinger of the Void (Horde)",Title Reward: Famed Slayer of the Harbinger,13424,2096,-1,0,15093,0,0,4258304,34,2828147,0,72487,0,0
 Defeat King Rastakhan with all Phantoms still alive on Normal difficulty or higher.,"We Got Spirit, How About You?",,13425,2070,-1,0,15286,0,10,0,43,237542,0,72513,0,0
 "Kill 20 sin'dorei with a single cast of Rising Tide during the Nazmir Assault World Quest ""Cleansing Tide.""",Come On and Slam,,13426,-1,1,0,15284,0,5,0,21,1320371,0,72515,0,0
-Kill 5 players of the opposite faction while you are under the effects of an Unstable Azerite Flare.,Azerfighter,,13429,-1,-1,0,15283,0,5,0,27,2065603,0,72517,0,0
+Kill 5 players of the opposite faction while you are under the effects of an Unstable Azerite Flare.,Azerfighter,,13429,-1,-1,0,15283,0,5,0,30,2065603,0,72517,0,0
 "Fish up the De Lurker Be'loa, then defeat the Stormwall Blockade on Normal Difficulty or higher.",De Lurker Be'loa,,13430,2070,-1,0,15286,0,10,0,45,236436,0,72519,0,0
 Hatch the cloud serpent egg during the Jadefire Masters encounter in the Battle of Dazar'alor on Normal difficulty or higher.,Hidden Dragon,,13431,2070,-1,0,15286,0,10,0,40,651735,0,72521,0,0
 Collect any armor set from Battle for Azeroth PvP Season 2 or the Darkshore Warfront.,"Tall, Dark, and Sinister",,13433,-1,-1,0,15259,0,10,131072,69,456569,0,72525,0,0
 "Complete the Drustvar Assault World Quest ""Lights Out"" with a single Doomsoul.",Doomsoul Surprise,,13435,-1,0,0,15284,0,5,0,24,1032479,0,72527,0,0
 "Complete a digsite while dressed like a vulpera during the Vol'dun Assault World Quest ""Vulpera for a Day.""",Scavenge like a Vulpera,,13437,-1,0,0,15284,0,5,0,25,2178487,0,72529,0,0
-"Slay a Burly Deckhand without losing your Extra Buff Peon during the Zuldazar Assault world quest ""Crate n' Barrel"" in War Mode.",Boxing Match,,13438,-1,0,0,15283,0,5,0,58,999951,0,72531,0,0
-"Slay an Extra Buff Peon without losing your Burly Deckhand during the Zuldazar Assault world quest ""Crate n' Barrel"" in War Mode.",Boxing Match,,13439,-1,1,0,15283,0,5,0,59,236452,0,72533,0,0
+"Slay a Burly Deckhand without losing your Extra Buff Peon during the Zuldazar Assault world quest ""Crate n' Barrel"" in War Mode.",Boxing Match,,13438,-1,0,0,15283,0,5,0,61,999951,0,72531,0,0
+"Slay an Extra Buff Peon without losing your Burly Deckhand during the Zuldazar Assault world quest ""Crate n' Barrel"" in War Mode.",Boxing Match,,13439,-1,1,0,15283,0,5,0,62,236452,0,72533,0,0
 "Slay 6 enemies while on the assault world quest ""Stack on the Tank"".",Pushing the Payload,,13440,-1,1,0,15284,0,5,0,22,2102434,0,72535,0,0
 "Slay 6 enemies while on the assault world quest ""Get On The Payload"".",Pushing the Payload,,13441,-1,0,0,15284,0,5,0,23,132244,0,72538,0,0
 "Complete all Battle for Azeroth Season Two dungeons at Mythic Level 10 or higher, within the time limit.",Battle for Azeroth Keystone Conqueror: Season Two,,13448,-1,-1,0,15272,0,0,2048,51,618858,0,0,0,0
 "Complete all Battle for Azeroth Season Two dungeons at Mythic Level 15 or higher, within the time limit.",Battle for Azeroth Keystone Master: Season Two,,13449,-1,-1,13448,15272,0,0,2048,52,618859,0,0,0,0
 Obtain the Fierce Gladiator's Storm Dragon from Legion Arena Season 5.,Fierce Gladiator's Storm Dragon,,13450,-1,-1,0,15269,1,0,145408,40,1503313,0,78322,0,0
 Earn the rank of Elite during Battle for Azeroth Season 2.,Elite: Battle for Azeroth Season 2,Title Reward: the Elite,13451,-1,-1,0,15270,0,0,14336,277,236540,0,78325,0,0
-,Vicious Saddle (1),,13452,-1,1,15599,15270,0,0,1179648,54,1379171,103533,78329,0,0
-,Vicious Saddle (1),,13453,-1,0,15598,15270,0,0,1179648,11,1379171,103533,78331,0,0
+,Vicious Saddle (1),,13452,-1,1,15943,15270,0,0,1179648,56,1379171,103533,78329,0,0
+,Vicious Saddle (1),,13453,-1,0,15942,15270,0,0,1179648,11,1379171,103533,78331,0,0
 Earn the rank of Elite during Battle for Azeroth Season 1.,Elite: Battle for Azeroth Season 1,Title Reward: the Elite,13465,-1,-1,0,15270,0,0,14336,276,236540,0,78400,0,0
 Complete the Tides of Vengeance war campaign.,Tides of Vengeance,,13466,-1,0,0,15284,0,10,0,28,2565244,0,78415,0,0
 Complete the Tides of Vengeance war campaign.,Tides of Vengeance,,13467,-1,1,0,15284,0,10,0,31,2565243,0,78420,0,0
@@ -6385,9 +6385,9 @@ Complete all quests from the visitors in Mechagon.,Outside Influences,,13556,-1,
 Earn Exalted Status with the Rustbolt Resistance.,Rustbolt Rebellion,,13557,-1,-1,0,15305,0,5,0,16,2915722,0,80088,0,0
 Earn Exalted Status with the Waveblade Ankoan.,Waveblade Ankoan,,13558,-1,1,0,15305,0,5,0,14,2909045,0,80090,0,0
 Earn Exalted Status with the Unshackled.,The Unshackled,,13559,-1,0,0,15305,0,5,0,15,2821782,0,80092,0,0
-Win the Battle for Nazjatar.,For Nazjatar!,,13568,-1,-1,0,15283,0,10,0,60,1391616,0,0,0,0
-Earn 1000 honor in Nazjatar while in War Mode.,Tour of Duty: Nazjatar,,13569,-1,-1,0,15283,0,10,0,39,2909745,0,80136,0,0
-Earn 1000 honor in Mechagon while in War Mode.,Tour of Duty: Mechagon,,13570,-1,-1,0,15283,0,10,0,40,2915721,0,80138,0,0
+Win the Battle for Nazjatar.,For Nazjatar!,,13568,-1,-1,0,15283,0,10,0,63,1391616,0,0,0,0
+Earn 1000 honor in Nazjatar while in War Mode.,Tour of Duty: Nazjatar,,13569,-1,-1,0,15283,0,10,0,42,2909745,0,80136,0,0
+Earn 1000 honor in Mechagon while in War Mode.,Tour of Duty: Mechagon,,13570,-1,-1,0,15283,0,10,0,43,2915721,0,80138,0,0
 Collect an armor set from The Eternal Palace.,Under the Seams,,13571,-1,-1,0,15259,0,10,131072,41,3012072,0,80203,0,0
 Unlock the Heart Forge in the repaired Chamber of Heart,The Heart Forge,,13572,-1,-1,0,15417,0,10,0,3,2032224,0,80257,0,0
 Help Kua'fon earn his wings by completing the following quest.,How to Ptrain Your Pterrordax,,13573,-1,0,13030,15284,0,5,0,63,1624586,0,80259,0,0
@@ -6433,7 +6433,7 @@ Collect any armor set from Battle for Azeroth PvP Season 3.,"Never Lose, Never C
 ,Queen Azshara kills (Heroic Eternal Palace),,13618,2164,-1,0,15409,0,0,1,153,136243,0,80397,0,0
 ,Queen Azshara kills (Mythic Eternal Palace),,13619,2164,-1,0,15409,0,0,1,154,136243,0,80399,0,0
 ,King Mechagon kills (Mythic Operation: Mechagon),,13620,2097,-1,0,15409,0,0,1,28,136243,0,80401,0,0
-Complete the World PVP activities listed below.,Fighting on Two Fronts,,13623,-1,-1,0,15283,0,5,0,61,136001,0,80457,0,0
+Complete the World PVP activities listed below.,Fighting on Two Fronts,,13623,-1,-1,0,15283,0,5,0,64,136001,0,80457,0,0
 Prevent the destruction of all non-robotic life on Azeroth on Mythic difficulty in Operation: Mechagon.,Keep DPS-ing and Nobody Explodes,,13624,-1,-1,0,15285,0,10,0,61,133711,0,80462,0,0
 Defeat the following mechanized minions on Mechagon Island.,Mighty Minions of Mechagon,,13625,-1,-1,0,15119,0,10,131072,89,2126356,0,80464,0,0
 Defeat the following deep sea terrors of Nazjatar.,Nautical Nuisances of Nazjatar,,13626,-1,-1,0,15119,0,10,131072,90,2530489,0,80473,0,0
@@ -6451,8 +6451,8 @@ Complete the Nazjatar achievements listed below.,Undersea Usurper,"Title Reward:
 Earn the rank of Combatant during Battle for Azeroth Season 3.,Combatant: Battle for Azeroth Season 3,Title Reward: Combatant,13639,-1,-1,0,15270,0,0,2048,287,236540,0,80507,0,0
 Earn the rank of Rival during Battle for Azeroth Season 3.,Rival: Battle for Azeroth Season 3,Title Reward: Rival,13641,-1,-1,0,15270,0,0,14336,256,236540,0,80511,0,0
 Earn the rank of Duelist during Battle for Azeroth Season 3.,Duelist: Battle for Azeroth Season 3,Title Reward: Duelist,13642,-1,-1,0,15270,0,0,14336,269,236540,0,80515,0,0
-End Battle for Azeroth Season 3 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Battle for Azeroth Season 3).,Hero of the Alliance: Notorious,,13643,-1,1,0,15270,0,0,14336,339,236593,0,0,0,0
-End Battle for Azeroth Season 3 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Battle for Azeroth Season 3).,Hero of the Horde: Notorious,,13644,-1,0,0,15270,0,0,14336,326,236629,0,0,0,0
+End Battle for Azeroth Season 3 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Battle for Azeroth Season 3).,Hero of the Alliance: Notorious,,13643,-1,1,0,15270,0,0,14336,338,236593,0,0,0,0
+End Battle for Azeroth Season 3 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Battle for Azeroth Season 3).,Hero of the Horde: Notorious,,13644,-1,0,0,15270,0,0,14336,325,236629,0,0,0,0
 Gain 4800 experience with your Unshackled allies.,Nautical Battlefield Training,,13645,-1,0,0,15298,0,10,0,57,2735989,0,81793,0,0
 Win 50 3v3 games while at Elite rank during Battle for Azeroth Season 3.,Gladiator: Battle for Azeroth Season 3,Reward: Gladiator Title and Mount,13647,-1,-1,0,15270,0,0,14336,313,236540,156881,80521,0,0
 Earn the rank of Elite during Battle for Azeroth Season 3.,Elite: Battle for Azeroth Season 3,Title Reward: the Elite,13676,-1,-1,0,15270,0,0,14336,278,236540,0,80551,0,0
@@ -6487,7 +6487,7 @@ Obtain a slimy companion pet in Nazjatar.,From The Belly Of The Jelly,,13715,-1,
 Defeat Za'qul in the Eternal Palace after killing ten Twinklehoof Bovine on Normal difficulty or higher.,Lactose Intolerant,,13716,2164,-1,0,15286,0,10,0,68,136072,0,81017,0,0
 Defeat the following bosses in The Eternal Palace.,The Grand Reception,,13718,2164,-1,0,15286,0,10,0,52,3012072,0,81013,0,0
 Defeat the following bosses in The Eternal Palace.,Depths of the Devoted,,13719,2164,-1,0,15286,0,10,0,53,3012069,0,81026,0,0
-Loot 25 War Supply Chests in Nazjatar while an Assassin.,Supplying the Assassins,,13720,-1,-1,0,15283,0,10,0,62,1542856,0,81019,0,0
+Loot 25 War Supply Chests in Nazjatar while an Assassin.,Supplying the Assassins,,13720,-1,-1,0,15283,0,10,0,65,1542856,0,81019,0,0
 Shoo away 100 Bloodfin Tadpoles in Nazjatar.,Terror of the Tadpoles,,13722,-1,-1,0,15298,0,5,0,73,3004140,0,81023,0,0
 Defeat the Tussle Tonks in Operation: Mechagon after Deuce Mecha-Buffer has been hit with a Piston Smasher on Mythic Difficulty.,"M.C., Hammered",,13723,2097,-1,0,15285,0,10,0,59,1405803,0,82020,0,0
 Defeat Orgozoa in the Hatchery in The Eternal Palace after incubating a baby Zoatroid on Normal Difficulty or higher.,A Smack of Jellyfish,,13724,2164,-1,0,15286,0,10,0,66,2563958,0,81861,0,0
@@ -6620,8 +6620,8 @@ Earn the rank of Challenger during Battle for Azeroth Season 4.,Challenger: Batt
 Earn the rank of Combatant during Battle for Azeroth Season 4.,Combatant: Battle for Azeroth Season 4,Title Reward: Combatant,13962,-1,-1,0,15270,0,0,2048,288,236540,0,82641,0,0
 Earn the rank of Rival during Battle for Azeroth Season 4.,Rival: Battle for Azeroth Season 4,Title Reward: Rival,13963,-1,-1,0,15270,0,0,14336,257,236540,0,82637,0,0
 Earn the rank of Duelist during Battle for Azeroth Season 4.,Duelist: Battle for Azeroth Season 4,Title Reward: Duelist,13964,-1,-1,0,15270,0,0,14336,270,236540,0,82633,0,0
-End Battle for Azeroth Season 4 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Battle for Azeroth Season 4).,Hero of the Horde: Corrupted,,13965,-1,0,0,15270,0,0,14336,327,236629,0,0,0,0
-End Battle for Azeroth Season 4 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Battle for Azeroth Season 4).,Hero of the Alliance: Corrupted,,13966,-1,1,0,15270,0,0,14336,340,236593,0,0,0,0
+End Battle for Azeroth Season 4 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Battle for Azeroth Season 4).,Hero of the Horde: Corrupted,,13965,-1,0,0,15270,0,0,14336,326,236629,0,0,0,0
+End Battle for Azeroth Season 4 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Battle for Azeroth Season 4).,Hero of the Alliance: Corrupted,,13966,-1,1,0,15270,0,0,14336,339,236593,0,0,0,0
 Win 50 3v3 games while at Elite rank during Battle for Azeroth Season 4.,Gladiator: Battle for Azeroth Season 4,Reward: Gladiator Title and Mount,13967,-1,-1,0,15270,0,0,14336,314,236540,156884,82631,0,0
 Earn the rank of Elite during Battle for Azeroth Season 4.,Elite: Battle for Azeroth Season 4,Title Reward: the Elite,13989,-1,-1,0,15270,0,0,14336,279,236540,0,82627,0,0
 "Defeat Shad'har the Insatiable in Ny'alotha, the Waking City after having everyone /pet him on Normal difficulty or higher.","You Can Pet the Dog, But...",,13990,-1,-1,0,15286,0,10,0,87,1100177,0,82759,0,0
@@ -6762,7 +6762,7 @@ Complete 25 victories in Deepwind Gorge while controlling the Market base.,Marke
 Drink the Stormstout Brew found in Deepwind Gorge and get 150 honorable kills while under its affects.,Cruisin' for a Brewsin',,14187,2245,-1,0,15218,0,20,0,6,606544,0,83817,0,0
 Eat cooked food or feasts to become Well Fed before the Deepwind Gorge battle begins in 50 matches.,Well Gorged,,14188,2245,-1,0,15218,0,20,0,5,571692,0,83819,0,0
 ,Joined Shadowy Figures <DND>,,14189,-1,-1,0,15117,0,0,1179648,42,136243,0,83823,0,0
-"While an Assassin within War Mode, slay your own faction to gain 10 honorable kills without dying.",Servant of N'Zoth,Title Reward: Servant of N'Zoth,14191,-1,-1,0,15270,0,0,2048,383,3004126,0,84564,0,0
+"While an Assassin within War Mode, slay your own faction to gain 10 honorable kills without dying.",Servant of N'Zoth,Title Reward: Servant of N'Zoth,14191,-1,-1,0,15270,0,0,2048,382,3004126,0,84564,0,0
 "Defeat the following bosses in Ny'alotha, the Waking City.",Vision of Destiny,,14193,2217,-1,0,15286,0,10,0,94,3194609,0,84588,0,0
 "Defeat the following bosses in Ny'alotha, the Waking City.",Halls of Devotion,,14194,2217,-1,0,15286,0,10,0,95,3194611,0,84592,0,0
 "Defeat the following bosses in Ny'alotha, the Waking City.",Gift of Flesh,,14195,2217,-1,0,15286,0,10,0,96,3194607,0,84597,0,0
@@ -7011,13 +7011,13 @@ Defeat Ingra Maloch after defeating an Overgrown Hydra in the Mists of Tirna Sci
 "Defeat Glimmerdust, As Jaina at the Star Lake Amphitheater in Ardenweald.","Glimmerdust, As Jaina",,14508,-1,-1,0,15436,0,0,1048576,68,1354190,0,87154,0,0
 "Defeat Astra, As Azshara at the Star Lake Amphitheater in Ardenweald.","Astra, As Azshara",,14509,-1,-1,0,15436,0,0,1048576,69,1354190,0,87156,0,0
 "Defeat Dreamweaver, As N'Zoth at the Star Lake Amphitheater in Ardenweald.","Dreamweaver, As N'Zoth",,14510,-1,-1,0,15436,0,0,1048576,70,1354190,0,87158,0,0
-Earn 1000 honor in Ardenweald while in War Mode.,Tour of Duty: Ardenweald,,14511,-1,-1,0,15283,0,10,0,19,3551336,0,87162,0,0
-Earn 1000 honor in Revendreth while in War Mode.,Tour of Duty: Revendreth,,14512,-1,-1,0,15283,0,10,0,20,3614361,0,87164,0,0
-Earn 1000 honor in Maldraxxus while in War Mode.,Tour of Duty: Maldraxxus,,14513,-1,-1,0,15283,0,10,0,21,3551338,0,87166,0,0
-Earn 1000 honor in Bastion while in War Mode.,Tour of Duty: Bastion,,14514,-1,-1,0,15283,0,10,0,18,3551337,0,87168,0,0
-Complete the World PVP World Quests in Shadowlands below.,Zo'Sorg's Bidding,,14515,-1,-1,0,15283,0,5,0,16,3547163,0,87170,0,0
-Complete each of the following World PVP World Quests 20 times in Shadowlands below.,Impressing Zo'Sorg,,14516,-1,-1,0,15283,0,20,0,17,3527519,0,87175,0,0
-Kill 20 Enemy Players who follow each of the following Covenants.,Covenant Combat,,14519,-1,-1,0,15283,0,10,0,24,136001,0,87188,0,0
+Earn 1000 honor in Ardenweald while in War Mode.,Tour of Duty: Ardenweald,,14511,-1,-1,0,15283,0,10,0,22,3551336,0,87162,0,0
+Earn 1000 honor in Revendreth while in War Mode.,Tour of Duty: Revendreth,,14512,-1,-1,0,15283,0,10,0,23,3614361,0,87164,0,0
+Earn 1000 honor in Maldraxxus while in War Mode.,Tour of Duty: Maldraxxus,,14513,-1,-1,0,15283,0,10,0,24,3551338,0,87166,0,0
+Earn 1000 honor in Bastion while in War Mode.,Tour of Duty: Bastion,,14514,-1,-1,0,15283,0,10,0,21,3551337,0,87168,0,0
+Complete the World PVP World Quests in Shadowlands below.,Zo'Sorg's Bidding,,14515,-1,-1,0,15283,0,5,0,19,3547163,0,87170,0,0
+Complete each of the following World PVP World Quests 20 times in Shadowlands below.,Impressing Zo'Sorg,,14516,-1,-1,0,15283,0,20,0,20,3527519,0,87175,0,0
+Kill 20 Enemy Players who follow each of the following Covenants.,Covenant Combat,,14519,-1,-1,0,15283,0,10,0,27,136001,0,87188,0,0
 Shared Achievement for unlocking Torghast. Hidden.,Torghast: Into Torghast,,14521,-1,-1,0,15440,0,0,3276804,57,136243,0,87217,0,0
 ,9.0 Shadowlands - Expansion Quest Launch - Intro - TSH - DEPRECATED 10.0.2 [DNT],,14522,-1,-1,0,92,0,0,18087940,59,136243,0,87219,0,0
 "Defeat Huntsman Altimor after walking Margore, Bargast, and Hecutis to the corners of The Kennels in Castle Nathria on Normal difficulty or higher.",Taking Care of Business,,14523,2296,-1,0,15438,0,10,0,15,3614364,0,87288,0,0
@@ -7113,8 +7113,8 @@ Earn the rank of Duelist during Shadowlands Season 1.,Duelist: Shadowlands Seaso
 Win 50 3v3 games while at Elite rank during Shadowlands Season 1.,Gladiator: Shadowlands Season 1,Reward: Gladiator Mount and Gladiator Title,14689,-1,-1,0,15270,0,0,14336,315,236542,183937,87843,0,0
 End Shadowlands PvP Season 1 in the top 0.1% of the 3v3 arena ladder (requires 150 games won on your current faction in Shadowlands Season 1).,Sinful Gladiator: Shadowlands Season 1,Title Reward: Sinful Gladiator,14690,-1,-1,0,15270,0,0,14336,232,236540,0,0,0,0
 Earn the rank of Elite during Shadowlands Season 1.,Elite: Shadowlands Season 1,Title Reward: the Elite,14691,-1,-1,0,15270,0,0,14336,280,236542,0,87845,0,0
-End Shadowlands Season 1 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Shadowlands Season 1).,Hero of the Alliance: Sinful,,14692,-1,1,0,15270,0,0,14336,341,236593,0,0,0,0
-End Shadowlands Season 1 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Shadowlands Season 1).,Hero of the Horde: Sinful,,14693,-1,0,0,15270,0,0,14336,328,236629,0,0,0,0
+End Shadowlands Season 1 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Shadowlands Season 1).,Hero of the Alliance: Sinful,,14692,-1,1,0,15270,0,0,14336,340,236593,0,0,0,0
+End Shadowlands Season 1 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Shadowlands Season 1).,Hero of the Horde: Sinful,,14693,-1,0,0,15270,0,0,14336,327,236629,0,0,0,0
 Defeat the following bosses on any difficulty.,Castle Nathria,,14715,-1,-1,0,15438,0,10,0,1,3614361,0,87900,0,0
 Defeat the following bosses on Heroic difficulty.,Heroic: Castle Nathria,,14717,-1,-1,14715,15438,0,10,0,2,3614361,0,87911,0,0
 Defeat the following bosses on Mythic difficulty.,Mythic: Castle Nathria,,14718,-1,-1,14717,15438,0,10,0,3,3614361,0,87922,0,0
@@ -7317,8 +7317,8 @@ Earn the rank of Duelist during Shadowlands Season 2.,Duelist: Shadowlands Seaso
 Win 50 3v3 games while at Elite rank during Shadowlands Season 2.,Gladiator: Shadowlands Season 2,Reward: Gladiator Mount and Gladiator Title,14972,-1,-1,0,15270,0,0,14336,316,236542,186177,91116,0,0
 End Shadowlands PvP Season 2 in the top 0.1% of the 3v3 arena ladder (requires 150 games won on your current faction in Shadowlands Season 2).,Unchained Gladiator: Shadowlands Season 2,Title Reward: Unchained Gladiator,14973,-1,-1,0,15270,0,0,14336,233,236540,0,0,0,0
 Earn the rank of Elite during Shadowlands Season 2.,Elite: Shadowlands Season 2,Title Reward: the Elite,14974,-1,-1,0,15270,0,0,14336,281,236542,0,91118,0,0
-End Shadowlands Season 2 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Shadowlands Season 2).,Hero of the Alliance: Unchained,,14975,-1,1,0,15270,0,0,14336,342,236593,0,0,0,0
-End Shadowlands Season 2 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Shadowlands Season 2).,Hero of the Horde: Unchained,,14976,-1,0,0,15270,0,0,14336,329,236629,0,0,0,0
+End Shadowlands Season 2 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Shadowlands Season 2).,Hero of the Alliance: Unchained,,14975,-1,1,0,15270,0,0,14336,341,236593,0,0,0,0
+End Shadowlands Season 2 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Shadowlands Season 2).,Hero of the Horde: Unchained,,14976,-1,0,0,15270,0,0,14336,328,236629,0,0,0,0
 Defeat The Tarragrue after entering the mists and reuniting Moriaz with Buttons in the Sanctum of Domination on Normal difficulty or higher.,"Name A Better Duo, I'll Wait",,14998,2450,-1,0,15438,0,10,0,41,135451,0,91166,0,0
 Obtain the Unchained Gladiator's Soul Eater from Shadowlands Season 2.,Unchained Gladiator's Soul Eater,,14999,-1,-1,0,15269,1,0,145408,48,3593819,0,91170,0,0
 Complete all four covenant assaults in the Maw.,United Front,,15000,-1,-1,0,15422,0,10,0,1,236352,0,91173,0,0
@@ -7392,7 +7392,7 @@ Defeat Soulrender Dormazain after /taunting Garrosh Hellscream before combat beg
 "Defeat the P.O.S.T. Master after passing all Unstable Goods to at least one other player before delivery in Tazavesh, the Veiled Market on Mythic difficulty.",Quality Control,,15106,2441,-1,0,15428,0,10,0,36,1506461,0,91926,0,0
 Complete the following special encounters in Korthia and the Maw.,Conquering Korthia,,15107,-1,-1,0,15422,0,10,0,7,3605497,0,91928,0,0
 Defeat Kel'Thuzad after thawing the Remnant's heart in the Sanctum of Domination on Normal difficulty or higher.,Together Forever,,15108,2450,-1,0,15438,0,10,0,49,1390944,0,91938,0,0
-"Defeat Zo'phex the Sentinel while covered in 4 different blended substances in Tazavesh, the Veiled Market on Mythic difficulty.",Will it Blend?,,15109,2441,-1,0,15428,0,10,0,37,3889765,0,91945,0,0
+"Defeat Zo'phex the Sentinel while all party members are covered in 4 different blended substances in Tazavesh, the Veiled Market on Mythic difficulty.",Will it Blend?,,15109,2441,-1,0,15428,0,10,0,37,3889765,0,91945,0,0
 Collect an armor set from Sanctum of Domination.,Dominating the Catwalk,,15110,-1,-1,0,15259,0,10,131072,44,4062765,0,91984,0,0
 ,<Hidden> Tazavesh Intro Complete,,15111,-1,-1,0,15422,0,0,1179652,65,136243,0,91986,0,0
 Defeat The Tarragrue in the Sanctum of Domination on Mythic difficulty.,Mythic: The Tarragrue,,15112,2450,-1,0,15438,0,10,4096,31,4062739,0,92010,0,0
@@ -7467,10 +7467,10 @@ Defeat the following bosses in the Sanctum of Domination on Normal difficulty or
 Defeat the following bosses in the Sanctum of Domination on Heroic difficulty or higher while in a guild group.,Heroic: Sanctum of Domination Guild Run,,15183,2450,-1,0,15442,0,10,94208,5,4062765,0,92241,0,0
 Defeat Sylvanas Windrunner in the Sanctum of Donination on Mythic difficulty while in a guild group.,Mythic: Sylvanas Windrunner Guild Run,,15184,2450,-1,0,15442,0,10,94208,6,4062738,0,92252,0,0
 "Defeat So'leah in Tazavesh, the Veiled Market on Mythic difficulty while in a guild group.","Mythic: Tazavesh, the Veiled Market Guild Run",,15185,2441,-1,0,15429,0,10,81920,9,3601562,0,92254,0,0
-Hidden account-wide tracking achievement for Archivists' Codex Tier 2.,The Archivists' Codex Tier 2 [DNT],,15186,-1,-1,0,15439,0,5,3278848,9,2178528,0,92256,0,0
-Hidden account-wide tracking achievement for Archivists' Codex Tier 3.,The Archivists' Codex Tier 3 [DNT],,15187,-1,-1,0,15439,0,5,3278848,10,2178528,0,92258,0,0
-Hidden account-wide tracking achievement for Archivists' Codex Tier 4.,The Archivists' Codex Tier 4 [DNT],,15188,-1,-1,0,15439,0,5,3278848,11,2178528,0,92260,0,0
-Hidden account-wide tracking achievement for Archivists' Codex Tier 5.,The Archivists' Codex Tier 5 [DNT],,15189,-1,-1,0,15439,0,5,3278848,12,2178528,0,92262,0,0
+Hidden account-wide tracking achievement for Archivists' Codex Tier 2.,The Archivists' Codex Tier 2 [DNT],,15186,-1,-1,0,15439,0,0,3278848,9,2178528,0,92256,0,0
+Hidden account-wide tracking achievement for Archivists' Codex Tier 3.,The Archivists' Codex Tier 3 [DNT],,15187,-1,-1,0,15439,0,0,3278848,10,2178528,0,92258,0,0
+Hidden account-wide tracking achievement for Archivists' Codex Tier 4.,The Archivists' Codex Tier 4 [DNT],,15188,-1,-1,0,15439,0,0,3278848,11,2178528,0,92260,0,0
+Hidden account-wide tracking achievement for Archivists' Codex Tier 5.,The Archivists' Codex Tier 5 [DNT],,15189,-1,-1,0,15439,0,0,3278848,12,2178528,0,92262,0,0
 "Tickle the following broker rats in Tazavesh, the Veiled Market on Mythic Difficulty.",Mischief!,,15190,2441,-1,0,15428,0,10,0,4,3856133,0,92280,0,0
 "Wielder of Rae'shalare, Death's Whisper.","Rae'shalare, Death's Whisper",,15191,-1,-1,0,15271,0,0,2048,24,3597361,0,92287,0,0
 ,<Hidden> 9.1 Flying Unlock [DNT],,15192,-1,-1,0,15422,0,0,1048580,50,136243,0,92290,0,0
@@ -7545,7 +7545,7 @@ Achieve a Flawless run on layer 16 in The Upper Reaches.,Flawless: The Upper Rea
 "Achieve a Flawless run on layer 16 in each wing of Torghast, Tower of the Damned.",Flawless Master (Layer 16),Mount Reward: Colossal Soulshredder Mawrat,15322,-1,-1,0,15440,0,20,131072,35,3731619,188736,94238,0,0
 Owner of the Sarge mount from the Hearthstone: Mercenaries promotion.,Sarge's Tale,,15323,-1,-1,0,15268,0,0,133120,45,4178535,0,94249,0,0
 Complete the following Torghast Achievements:,Tower Ranger,Title Reward: Tower Ranger,15324,-1,-1,0,15440,0,20,131072,127,3642306,0,94268,0,0
-Complete the following questlines in the Forbidden Reach.,"Dracthyr, Awaken",,15325,-1,1,0,15455,0,10,131072,7,4616660,0,94275,0,0
+Complete the following questlines in the Forbidden Reach.,"Dracthyr, Awaken",,15325,-1,1,0,15455,0,10,131072,9,4616660,0,94275,0,0
 End Shadowlands Mythic+ Season 2 with a Mythic+ Rating in the top 0.1% for your faction.,Tormented Hero: Shadowlands Season 2,Title Reward: Tormented Hero,15327,-1,-1,0,15272,0,0,14336,1,618859,0,95383,0,0
 Discover the hidden treasures of Zereth Mortis.,Treasures of Zereth Mortis,,15331,-1,-1,0,15436,0,10,0,23,4263293,0,94298,0,0
 Complete all of the Zereth Mortis achievements listed below.,From A to Zereth,Mount Reward: Cryptic Aurelid,15336,-1,-1,0,15422,0,25,131072,6,4226233,187673,94326,0,0
@@ -7559,8 +7559,8 @@ Earn the rank of Duelist during Shadowlands Season 3.,Duelist: Shadowlands Seaso
 Win 50 3v3 games while at Elite rank during Shadowlands Season 3.,Gladiator: Shadowlands Season 3,Reward: Gladiator Mount and Gladiator Title,15352,-1,-1,0,15270,0,0,14336,317,236542,189507,94416,0,0
 End Shadowlands PvP Season 3 in the top 0.1% of the 3v3 arena ladder (requires 150 games won on your current faction in Shadowlands Season 3).,Cosmic Gladiator: Shadowlands Season 3,Title Reward: Cosmic Gladiator,15353,-1,-1,0,15270,0,0,14336,234,236540,0,0,0,0
 Earn the rank of Elite during Shadowlands Season 3.,Elite: Shadowlands Season 3,Title Reward: the Elite,15354,-1,-1,0,15270,0,0,14336,282,236542,0,94418,0,0
-End Shadowlands Season 3 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Shadowlands Season 3).,Hero of the Alliance: Cosmic,,15355,-1,1,0,15270,0,0,14336,343,236593,0,0,0,0
-End Shadowlands Season 3 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Shadowlands Season 3).,Hero of the Horde: Cosmic,,15356,-1,0,0,15270,0,0,14336,330,236629,0,0,0,0
+End Shadowlands Season 3 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Shadowlands Season 3).,Hero of the Alliance: Cosmic,,15355,-1,1,0,15270,0,0,14336,342,236593,0,0,0,0
+End Shadowlands Season 3 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Shadowlands Season 3).,Hero of the Horde: Cosmic,,15356,-1,0,0,15270,0,0,14336,329,236629,0,0,0,0
 Earn the rank of Rival II during Shadowlands Season 3.,Rival II: Shadowlands Season 3,,15378,-1,-1,0,15270,0,0,14336,264,236542,0,94475,0,0
 Earn the rank of Challenger II during Shadowlands Season 3.,Challenger II: Shadowlands Season 3,,15379,-1,-1,0,15270,0,0,14336,308,236542,0,94483,0,0
 Earn the rank of Combatant II during Shadowlands Season 3.,Combatant II: Shadowlands Season 3,,15380,-1,-1,0,15270,0,0,2048,295,236543,0,94479,0,0
@@ -7570,7 +7570,7 @@ Defeat Halondrus the Reclaimer after collecting six strange artifacts and defeat
 Explore the regions of the Shadowlands.,Shadowlands Explorer,,15388,-1,-1,0,97,0,25,131072,18,3847780,0,94494,0,0
 Complete the following special encounters in Zereth Mortis.,Adventurer of Zereth Mortis,,15391,-1,-1,0,15436,0,10,0,10,3751725,0,94514,0,0
 Complete the following special rare encounters in Zereth Mortis.,Dune Dominance,Arsenal: Weapons of Glorious Domination,15392,-1,-1,0,15436,0,10,0,13,796638,0,94536,0,0
-Complete the following questlines in the Ohn'ahran Plains.,Ohn'a'Roll,,15394,-1,-1,0,15455,0,10,0,35,4672498,0,137509,0,0
+Complete the following questlines in the Ohn'ahran Plains.,Ohn'a'Roll,,15394,-1,-1,0,15455,0,10,0,39,4672498,0,137509,0,0
 ,Fae's Giving [DNT],,15395,-1,-1,0,14981,0,0,1048580,14,250626,0,94556,0,0
 Defeat Rygelon with all players under the effects of Herald of the Cosmos in the Sepulcher of the First Ones on Normal Difficulty or higher.,We Are All Made of Stars,,15396,-1,-1,0,15438,0,10,0,79,254087,0,94558,0,0
 "Defeat Dausegne, the Fallen Oracle, while a player is carrying the Afterlife Core in the Sepulcher of the First Ones on Normal difficulty or higher.",Four Ring Circus,,15397,2481,-1,0,15438,0,10,0,73,4287471,0,94568,0,0
@@ -7715,7 +7715,7 @@ Complete the Return to Lordaeron storyline.,Return to Lordaeron,"Reward: 'Of Lor
 Witness the 2022 WoW Esports Finals!,Fearless Spectator,Title Reward: Fearless Spectator,15594,-1,-1,0,15268,0,0,133120,54,236380,0,95502,0,0
 Complete the Return to Lordaeron storyline.,Return to Lordaeron (Hidden Character Achievement),,15596,-1,-1,0,15422,0,0,1048580,3,135003,0,95504,0,0
 ,Eternal Combatant,,15598,-1,0,0,15270,0,0,1179648,9,236538,187642,95519,0,0
-,Eternal Combatant,,15599,-1,1,0,15270,0,0,1179648,55,236538,187644,95517,0,0
+,Eternal Combatant,,15599,-1,1,0,15270,0,0,1179648,54,236538,187644,95517,0,0
 Earn the rank of Challenger I during Shadowlands Season 4.,Challenger I: Shadowlands Season 4,Title Reward: Challenger,15600,-1,-1,0,15270,0,0,14336,305,236542,0,95521,0,0
 Earn the rank of Challenger II during Shadowlands Season 4.,Challenger II: Shadowlands Season 4,,15601,-1,-1,0,15270,0,0,14336,309,236542,0,95525,0,0
 Earn the rank of Rival I during Shadowlands Season 4.,Rival I: Shadowlands Season 4,Title Reward: Rival,15602,-1,-1,0,15270,0,0,14336,261,236542,0,95529,0,0
@@ -7723,18 +7723,17 @@ Earn the rank of Rival II during Shadowlands Season 4.,Rival II: Shadowlands Sea
 Earn the rank of Duelist during Shadowlands Season 4.,Duelist: Shadowlands Season 4,Title Reward: Duelist,15604,-1,-1,0,15270,0,0,14336,274,236542,0,95537,0,0
 Win 50 3v3 games while at Elite rank during Shadowlands Season 4.,Gladiator: Shadowlands Season 4,Reward: Gladiator Mount and Gladiator Title,15605,-1,-1,0,15270,0,0,14336,318,236542,191290,95541,0,0
 End Shadowlands PvP Season 4 in the top 0.1% of the 3v3 arena ladder (requires 150 games won on your current faction in Shadowlands Season 4).,Eternal Gladiator: Shadowlands Season 4,Title Reward: Eternal Gladiator,15606,-1,-1,0,15270,0,0,14336,235,236540,0,0,0,0
-End Shadowlands Season 4 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Shadowlands Season 4).,Hero of the Horde: Eternal,,15607,-1,0,0,15270,0,0,14336,331,236629,0,0,0,0
-End Shadowlands Season 4 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Shadowlands Season 4).,Hero of the Alliance: Eternal,,15608,-1,1,0,15270,0,0,14336,344,236593,0,0,0,0
+End Shadowlands Season 4 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Shadowlands Season 4).,Hero of the Horde: Eternal,,15607,-1,0,0,15270,0,0,14336,330,236629,0,0,0,0
+End Shadowlands Season 4 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Shadowlands Season 4).,Hero of the Alliance: Eternal,,15608,-1,1,0,15270,0,0,14336,343,236593,0,0,0,0
 Earn the rank of Combatant I during Shadowlands Season 4.,Combatant I: Shadowlands Season 4,Title Reward: Combatant,15609,-1,-1,0,15270,0,0,2048,292,236543,0,95543,0,0
 Earn the rank of Combatant II during Shadowlands Season 4.,Combatant II: Shadowlands Season 4,,15610,-1,-1,0,15270,0,0,2048,296,236543,0,95547,0,0
 Obtain the Eternal Gladiator's Soul Eater from Shadowlands Season 4.,Eternal Gladiator's Soul Eater,,15612,-1,-1,0,15269,1,0,145408,50,3593821,0,95551,0,0
-Complete the following questlines in the Forbidden Reach.,"Dracthyr, Awaken",,15638,-1,0,0,15455,0,10,131072,31,4616660,0,95596,0,0
+Complete the following questlines in the Forbidden Reach.,"Dracthyr, Awaken",,15638,-1,0,0,15455,0,10,131072,33,4616660,0,95596,0,0
 Earn the rank of Elite during Shadowlands Season 4.,Elite: Shadowlands Season 4,Title Reward: the Elite,15639,-1,-1,0,15270,0,0,14336,283,236542,0,95606,0,0
 Owner of the Amalgam of Rage mount from the Diablo IV promotion.,Return to Darkness,,15640,-1,-1,0,15268,0,0,133120,47,4396090,0,95612,0,0
-Collect 1250 unique pets.,Many More Mini Minions,Pet Reward: Crystalline Mini-Monster,15641,-1,-1,12958,15118,0,10,143360,16,132599,191941,134003,0,0
-Collect 1500 unique pets.,Proven Pet Parent,Pet Reward: Secretive Frogduck,15642,-1,-1,15641,15118,0,10,143360,17,132599,191936,134005,0,0
-Collect 1750 unique pets.,What Can I Say? They Love Me.,Pet Reward: Violet Violence,15643,-1,-1,15642,15118,0,10,143360,18,132599,191932,134007,0,0
-Collect 2000 unique pets.,Good Things Come in Small Packages,Pet Reward: Mister Muskoxeles,15644,-1,-1,15643,15118,0,10,143360,19,132599,191946,134009,0,0
+Collect 1200 unique pets.,Many More Mini Minions,Pet Reward: Crystalline Mini-Monster,15641,-1,-1,12958,15118,0,10,143360,16,132599,191941,134003,0,0
+Collect 1400 unique pets.,Proven Pet Parent,Pet Reward: Secretive Frogduck,15642,-1,-1,15641,15118,0,10,143360,17,132599,191936,134005,0,0
+Collect 1600 unique pets.,What Can I Say? They Love Me.,Pet Reward: Violet Violence,15643,-1,-1,15642,15118,0,10,143360,18,132599,191932,134007,0,0
 "Proud owner of the 2022 Vintage Winter Veil gift, Falling Star Catcher.",To Catch Falling Stars,,15645,-1,-1,0,15274,0,0,2048,22,133202,0,134047,0,0
 Reach Renown level 80 with each of the four Covenants.,Re-Re-Re-Renowned,,15646,-1,-1,15241,15441,0,10,229376,16,3726261,0,134055,0,0
 Complete all four Covenant campaigns.,Dead Men Tell Some Tales,,15647,-1,-1,14790,15422,0,10,131072,31,3726261,0,134068,0,0
@@ -7747,10 +7746,10 @@ Defeat So'leah in So'leah's Gambit on Mythic Keystone difficulty.,Mythic: So'lea
 Leave the Shadowlands better than it was when you entered by completing the following achievements.,Back from the Beyond,Title Reward: Veilstrider,15654,-1,-1,0,81,0,0,229376,121,236798,0,134118,0,0
 ,Dragon Isles Blacksmithing 25 (DNT),,15655,-1,-1,0,169,0,0,9437188,7,136243,0,134147,0,0
 ,Dragon Isles Blacksmithing 50 (DNT),,15656,-1,-1,0,169,0,0,9437188,9,136243,0,134149,0,0
-,Dragon Isles Blacksmithing 100 (DNT),,15657,-1,-1,0,169,0,0,9437188,14,136243,0,134153,0,0
+,Dragon Isles Blacksmithing 75 (DNT),,15657,-1,-1,0,169,0,0,9437188,14,136243,0,134153,0,0
 ,Dragon Isles Alchemy 25 (DNT),,15658,-1,-1,0,169,0,0,9437188,2,136243,0,134155,0,0
 ,Dragon Isles Alchemy 50 (DNT),,15659,-1,-1,0,169,0,0,9437188,4,136243,0,134157,0,0
-,Dragon Isles Alchemy 100 (DNT),,15660,-1,-1,0,169,0,0,9437188,6,136243,0,134161,0,0
+,Dragon Isles Alchemy 75 (DNT),,15660,-1,-1,0,169,0,0,9437188,6,136243,0,134161,0,0
 Defeat the following bosses on any difficulty while Nathria is a Fated raid.,Fate of Nathria,,15663,-1,-1,0,81,0,0,0,104,3614361,0,134237,0,0
 Defeat the following bosses on Heroic difficulty while Nathria is a Fated raid.,Heroic: Fate of Nathria,,15664,-1,-1,0,81,0,0,0,105,3614361,0,134248,0,0
 Defeat the following bosses on Mythic difficulty while Nathria is a Fated raid.,Mythic: Fate of Nathria,,15665,-1,-1,0,81,0,0,0,148,3614361,0,134259,0,0
@@ -7859,9 +7858,9 @@ Complete The Azure Span Sprint Advanced.,The Azure Span Sprint Advanced: Bronze,
 Get Silver ranked time for The Azure Span Sprint Advanced.,The Azure Span Sprint Advanced: Silver,,15792,-1,-1,15791,15462,0,0,1048576,116,1002575,0,0,0,0
 Get Gold ranked time for The Azure Span Sprint Advanced.,The Azure Span Sprint Advanced: Gold,,15793,-1,-1,15792,15462,0,0,1048576,117,1002573,0,0,0,0
 Unlock the Renewed Proto-Drake.,A New Friend,,15794,-1,-1,0,15455,0,10,393216,1,4622499,0,135717,0,0
-Unlock the Windborne Velocidrake.,Together in the Skies,,15795,-1,-1,0,15455,0,10,131072,3,4622500,0,138126,0,0
-Unlock the Cliffside Wylderdrake.,Cliffside Companion,,15796,-1,-1,0,15455,0,10,131072,5,4622502,0,138130,0,0
-Unlock the Highland Drake.,An Azure Ally,,15797,-1,-1,0,15455,0,10,393216,4,4622497,0,138128,0,0
+Unlock the Windborne Velocidrake.,Together in the Skies,,15795,-1,-1,0,15455,0,10,131072,5,4622500,0,138126,0,0
+Unlock the Cliffside Wylderdrake.,Cliffside Companion,,15796,-1,-1,0,15455,0,10,131072,7,4622502,0,138130,0,0
+Unlock the Highland Drake.,An Azure Ally,,15797,-1,-1,0,15455,0,10,393216,6,4622497,0,138128,0,0
 Complete The Azure Span Slalom.,The Azure Span Slalom: Bronze,,15799,-1,-1,0,15462,0,0,1048576,118,1002572,0,0,0,0
 Get Silver ranked time for The Azure Span Slalom.,The Azure Span Slalom: Silver,,15800,-1,-1,15799,15462,0,0,1048576,119,1002575,0,0,0,0
 Get Gold ranked time for The Azure Span Slalom.,The Azure Span Slalom: Gold,,15801,-1,-1,15800,15462,0,0,1048576,120,1002573,0,0,0,0
@@ -7909,32 +7908,32 @@ Get Silver ranked time for Thaldraszus Tyrhold Trial Advanced.,Tyrhold Trial Adv
 Get Gold ranked time for Thaldraszus Tyrhold Trial Advanced.,Tyrhold Trial Advanced: Gold,,15860,-1,-1,15859,15462,0,0,1048576,159,1002573,0,0,0,0
 ,Dragon Isles Enchanting 25 (DNT),,15861,-1,-1,0,169,0,0,9437188,16,136243,0,134163,0,0
 ,Dragon Isles Enchanting 50 (DNT),,15862,-1,-1,0,169,0,0,9437188,18,136243,0,134165,0,0
-,Dragon Isles Enchanting 100 (DNT),,15863,-1,-1,0,169,0,0,9437188,19,136243,0,134169,0,0
+,Dragon Isles Enchanting 75 (DNT),,15863,-1,-1,0,169,0,0,9437188,19,136243,0,134169,0,0
 ,Dragon Isles Engineering 25 (DNT),,15864,-1,-1,0,169,0,0,9437188,21,136243,0,134171,0,0
 ,Dragon Isles Engineering 50 (DNT),,15865,-1,-1,0,169,0,0,9437188,23,136243,0,134173,0,0
-,Dragon Isles Engineering 100 (DNT),,15866,-1,-1,0,169,0,0,9437188,28,136243,0,134177,0,0
+,Dragon Isles Engineering 75 (DNT),,15866,-1,-1,0,169,0,0,9437188,28,136243,0,134177,0,0
 ,Dragon Isles Herbalism 25 (DNT),,15867,-1,-1,0,169,0,0,9437188,30,136243,0,134179,0,0
 ,Dragon Isles Herbalism 50 (DNT),,15868,-1,-1,0,169,0,0,9437188,31,136243,0,134181,0,0
-,Dragon Isles Herbalism 100 (DNT),,15869,-1,-1,0,169,0,0,9437188,33,136243,0,134185,0,0
+,Dragon Isles Herbalism 75 (DNT),,15869,-1,-1,0,169,0,0,9437188,33,136243,0,134185,0,0
 ,Dragon Isles Inscription 25 (DNT),,15870,-1,-1,0,169,0,0,9437188,35,136243,0,134187,0,0
 ,Dragon Isles Inscription 50 (DNT),,15871,-1,-1,0,169,0,0,9437188,37,136243,0,134189,0,0
-,Dragon Isles Inscription 100 (DNT),,15872,-1,-1,0,169,0,0,9437188,40,136243,0,134193,0,0
+,Dragon Isles Inscription 75 (DNT),,15872,-1,-1,0,169,0,0,9437188,40,136243,0,134193,0,0
 ,Dragon Isles Jewelcrafting 25 (DNT),,15873,-1,-1,0,169,0,0,9437188,41,136243,0,134195,0,0
 ,Dragon Isles Jewelcrafting 50 (DNT),,15874,-1,-1,0,169,0,0,9437188,43,136243,0,134197,0,0
-,Dragon Isles Jewelcrafting 100 (DNT),,15875,-1,-1,0,169,0,0,9437188,48,136243,0,134201,0,0
+,Dragon Isles Jewelcrafting 75 (DNT),,15875,-1,-1,0,169,0,0,9437188,48,136243,0,134201,0,0
 ,Dragon Isles Leatherworking 25 (DNT),,15876,-1,-1,0,169,0,0,9437188,50,136243,0,134203,0,0
 ,Dragon Isles Leatherworking 50 (DNT),,15877,-1,-1,0,169,0,0,9437188,52,136243,0,134205,0,0
-,Dragon Isles Leatherworking 75 (DNT),,15878,-1,-1,0,169,0,0,9437188,53,136243,0,137085,0,0
+,Dragon Isles Leatherworking 60 (DNT),,15878,-1,-1,0,169,0,0,9437188,53,136243,0,137085,0,0
 ,Dragon Isles Mining 25 (DNT),,15879,-1,-1,0,169,0,0,9437188,57,136243,0,134211,0,0
 ,Dragon Isles Mining 50 (DNT),,15880,-1,-1,0,169,0,0,9437188,60,136243,0,134213,0,0
-,Dragon Isles Mining 100 (DNT),,15881,-1,-1,0,169,0,0,9437188,61,136243,0,134217,0,0
+,Dragon Isles Mining 75 (DNT),,15881,-1,-1,0,169,0,0,9437188,61,136243,0,134217,0,0
 ,Dragon Isles Skinning 25 (DNT),,15882,-1,-1,0,169,0,0,9437188,63,136243,0,134219,0,0
 ,Dragon Isles Skinning 50 (DNT),,15883,-1,-1,0,169,0,0,9437188,65,136243,0,134221,0,0
-,Dragon Isles Skinning 100 (DNT),,15884,-1,-1,0,169,0,0,9437188,68,136243,0,134225,0,0
+,Dragon Isles Skinning 75 (DNT),,15884,-1,-1,0,169,0,0,9437188,68,136243,0,134225,0,0
 ,Dragon Isles Tailoring 25 (DNT),,15885,-1,-1,0,169,0,0,9437188,69,136243,0,134227,0,0
 ,Dragon Isles Tailoring 50 (DNT),,15886,-1,-1,0,169,0,0,9437188,72,136243,0,134229,0,0
-,Dragon Isles Tailoring 100 (DNT),,15887,-1,-1,0,169,0,0,9437188,75,136243,0,134233,0,0
-Collect 40 fish during one session of Ruriq's River Rapids Ride.,River Rapids Wrangler,Toy Reward: Tuskarr Dinghy,15889,-1,-1,0,15455,0,5,0,36,134325,0,136487,0,0
+,Dragon Isles Tailoring 75 (DNT),,15887,-1,-1,0,169,0,0,9437188,75,136243,0,134233,0,0
+Collect 40 fish during one session of Ruriq's River Rapids Ride.,River Rapids Wrangler,Toy Reward: Tuskarr Dinghy,15889,-1,-1,0,15455,0,5,0,40,134325,0,136487,0,0
 Place a flag on 10 of tallest peaks in the Dragon Isles.,Dragonscale Expedition: The Highest Peaks,,15890,-1,-1,0,15465,0,5,0,19,1723999,0,136485,0,0
 Complete Thaldraszus Cliffside Circuit.,Cliffside Circuit: Bronze,,15891,-1,-1,0,15462,0,0,1048576,160,1002572,0,0,0,0
 Get Silver ranked time for Thaldraszus Cliffside Circuit.,Cliffside Circuit: Silver,,15892,-1,-1,15891,15462,0,0,1048576,161,1002575,0,0,0,0
@@ -7960,27 +7959,27 @@ Get Gold ranked time for Thaldraszus Caverns Criss-Cross.,Caverns Criss-Cross: G
 Complete Thaldraszus Caverns Criss-Cross Advanced.,Caverns Criss-Cross Advanced: Bronze,,15912,-1,-1,0,15462,0,0,1048576,181,1002572,0,0,0,0
 Get Silver ranked time for Thaldraszus Caverns Criss-Cross Advanced.,Caverns Criss-Cross Advanced: Silver,,15913,-1,-1,15912,15462,0,0,1048576,182,1002575,0,0,0,0
 Get Gold ranked time for Thaldraszus Caverns Criss-Cross Advanced.,Caverns Criss-Cross Advanced: Gold,,15914,-1,-1,15913,15462,0,0,1048576,183,1002573,0,0,0,0
-Complete all normal races in Waking Shores.,Waking Shores: Bronze,,15915,-1,-1,0,15462,0,10,0,4,1002572,0,136654,0,0
-Obtain silver in all normal races in Waking Shores.,Waking Shores: Silver,Drake Customization: Renewed Proto-Drake - Red Hair,15916,-1,-1,15915,15462,0,10,0,5,1002575,0,136663,0,0
-Obtain gold in all normal races in Waking Shores.,Waking Shores: Gold,,15917,-1,-1,15916,15462,0,10,0,6,1002573,0,136672,0,0
-Complete all normal races in Ohn'ahran Plains.,Ohn'ahran Plains: Bronze,,15918,-1,-1,0,15462,0,10,0,10,1002572,0,136708,0,0
-Obtain silver in all normal races in Ohn'ahran Plains.,Ohn'ahran Plains: Silver,Drake Customization: Windborne Velocidrake - Red Hair,15919,-1,-1,15918,15462,0,10,0,11,1002575,0,136715,0,0
-Obtain gold in all normal races in Ohn'ahran Plains.,Ohn'ahran Plains: Gold,,15920,-1,-1,15919,15462,0,10,0,12,1002573,0,136722,0,0
-Complete all normal races in Azure Span.,Azure Span: Bronze,,15921,-1,-1,0,15462,0,10,0,16,1002572,0,136744,0,0
-Obtain silver in all normal races in Azure Span.,Azure Span: Silver,Drake Customization: Highland Drake - Brown Hair,15922,-1,-1,15921,15462,0,10,0,17,1002575,0,136751,0,0
-Obtain gold in all normal races in Azure span.,Azure Span: Gold,,15923,-1,-1,15922,15462,0,10,0,18,1002573,0,136758,0,0
+Complete all normal races in the Waking Shores.,Waking Shores: Bronze,,15915,-1,-1,0,15462,0,10,0,4,1002572,0,136654,0,0
+Obtain silver in all normal races in the Waking Shores.,Waking Shores: Silver,Drake Customization: Renewed Proto-Drake - Red Hair,15916,-1,-1,15915,15462,0,10,0,5,1002575,0,136663,0,0
+Obtain gold in all normal races in the Waking Shores.,Waking Shores: Gold,,15917,-1,-1,15916,15462,0,10,0,6,1002573,0,136672,0,0
+Complete all normal races in the Ohn'ahran Plains.,Ohn'ahran Plains: Bronze,,15918,-1,-1,0,15462,0,10,0,10,1002572,0,136708,0,0
+Obtain silver in all normal races in the Ohn'ahran Plains.,Ohn'ahran Plains: Silver,Drake Customization: Windborne Velocidrake - Red Hair,15919,-1,-1,15918,15462,0,10,0,11,1002575,0,136715,0,0
+Obtain gold in all normal races in the Ohn'ahran Plains.,Ohn'ahran Plains: Gold,,15920,-1,-1,15919,15462,0,10,0,12,1002573,0,136722,0,0
+Complete all normal races in the Azure Span.,Azure Span: Bronze,,15921,-1,-1,0,15462,0,10,0,16,1002572,0,136744,0,0
+Obtain silver in all normal races in the Azure Span.,Azure Span: Silver,Drake Customization: Highland Drake - Brown Hair,15922,-1,-1,15921,15462,0,10,0,17,1002575,0,136751,0,0
+Obtain gold in all normal races in the Azure Span.,Azure Span: Gold,,15923,-1,-1,15922,15462,0,10,0,18,1002573,0,136758,0,0
 Complete all normal races in Thaldraszus.,Thaldraszus: Bronze,,15924,-1,-1,0,15462,0,10,0,22,1002572,0,136786,0,0
 Obtain silver in all normal races in Thaldraszus.,Thaldraszus: Silver,Drake Customization: Cliffside Wylderdrake - Blonde Hair,15925,-1,-1,15924,15462,0,10,0,23,1002575,0,136793,0,0
 Obtain gold in all normal races in Thaldraszus.,Thaldraszus: Gold,,15926,-1,-1,15925,15462,0,10,0,24,1002573,0,136800,0,0
-Complete all advanced races in Waking Shores.,Waking Shores Advanced: Bronze,,15927,-1,-1,0,15462,0,10,0,7,1002572,0,136681,0,0
-Obtain silver in all advanced races in Waking Shores.,Waking Shores Advanced: Silver,Drake Customization: Renewed Proto-Drake - Gold and Red Armor,15928,-1,-1,15927,15462,0,10,0,8,1002575,0,136690,0,0
-Obtain gold in all advanced races in Waking Shores.,Waking Shores Advanced: Gold,,15929,-1,-1,15928,15462,0,10,0,9,1002573,0,136699,0,0
-Complete all advanced races in Ohn'ahran Plains.,Ohn'ahran Plains Advanced: Bronze,,15930,-1,-1,0,15462,0,10,0,13,1002572,0,136729,0,0
-Obtain silver in all advanced races in Ohn'ahran Plains.,Ohn'ahran Plains Advanced: Silver,Drake Customization: Windborne Velocidrake - Gold and Red Armor,15931,-1,-1,15930,15462,0,10,0,14,1002575,0,136734,0,0
-Obtain gold in all advanced races in Ohn'ahran Plains.,Ohn'ahran Plains Advanced: Gold,,15932,-1,-1,15931,15462,0,10,0,15,1002573,0,136739,0,0
-Complete all advanced races in Azure Span.,Azure Span Advanced: Bronze,,15933,-1,-1,0,15462,0,10,0,19,1002572,0,136765,0,0
-Obtain silver in all advanced races in Azure Span.,Azure Span Advanced: Silver,Drake Customization: Highland Drake - Gold and Red Armor,15934,-1,-1,15933,15462,0,10,0,20,1002575,0,136772,0,0
-Obtain gold in all advanced races in Azure span.,Azure Span Advanced: Gold,,15935,-1,-1,15934,15462,0,10,0,21,1002573,0,136779,0,0
+Complete all advanced races in the Waking Shores.,Waking Shores Advanced: Bronze,,15927,-1,-1,0,15462,0,10,0,7,1002572,0,136681,0,0
+Obtain silver in all advanced races in the Waking Shores.,Waking Shores Advanced: Silver,Drake Customization: Renewed Proto-Drake - Gold and Red Armor,15928,-1,-1,15927,15462,0,10,0,8,1002575,0,136690,0,0
+Obtain gold in all advanced races in the Waking Shores.,Waking Shores Advanced: Gold,,15929,-1,-1,15928,15462,0,10,0,9,1002573,0,136699,0,0
+Complete all advanced races in the Ohn'ahran Plains.,Ohn'ahran Plains Advanced: Bronze,,15930,-1,-1,0,15462,0,10,0,13,1002572,0,136729,0,0
+Obtain silver in all advanced races in the Ohn'ahran Plains.,Ohn'ahran Plains Advanced: Silver,Drake Customization: Windborne Velocidrake - Gold and Red Armor,15931,-1,-1,15930,15462,0,10,0,14,1002575,0,136734,0,0
+Obtain gold in all advanced races in the Ohn'ahran Plains.,Ohn'ahran Plains Advanced: Gold,,15932,-1,-1,15931,15462,0,10,0,15,1002573,0,136739,0,0
+Complete all advanced races in the Azure Span.,Azure Span Advanced: Bronze,,15933,-1,-1,0,15462,0,10,0,19,1002572,0,136765,0,0
+Obtain silver in all advanced races in the Azure Span.,Azure Span Advanced: Silver,Drake Customization: Highland Drake - Gold and Red Armor,15934,-1,-1,15933,15462,0,10,0,20,1002575,0,136772,0,0
+Obtain gold in all advanced races in the Azure Span.,Azure Span Advanced: Gold,,15935,-1,-1,15934,15462,0,10,0,21,1002573,0,136779,0,0
 Complete all advanced races in Thaldraszus.,Thaldraszus Advanced: Bronze,,15936,-1,-1,0,15462,0,10,0,25,1002572,0,136807,0,0
 Obtain silver in all advanced races in Thaldraszus.,Thaldraszus Advanced: Silver,Drake Customization: Cliffside Wylderdrake - Gold and Orange Armor,15937,-1,-1,15936,15462,0,10,0,26,1002575,0,136814,0,0
 Obtain gold in all advanced races in Thaldraszus.,Thaldraszus Advanced: Gold,,15938,-1,-1,15937,15462,0,10,0,27,1002573,0,136821,0,0
@@ -7988,16 +7987,16 @@ Complete all races in the Dragon Isles.,Dragon Racing Completionist,Transmog Rew
 Obtain silver in all races in the Dragon Isles.,Dragon Racing Completionist: Silver,Pet Reward: Bronze Racing Enthusiast,15940,-1,-1,15939,15462,0,20,0,2,1100022,0,136837,0,0
 Obtain gold in all races in the Dragon Isles.,Dragon Racing Completionist: Gold,Title Reward: Isles Racer,15941,-1,-1,15940,15462,0,20,0,3,1100022,0,136846,0,0
 ,Crimson Combatant,,15942,-1,0,0,15270,0,0,1179648,10,236538,201788,136870,0,0
-,Crimson Combatant,,15943,-1,1,0,15270,0,0,1179648,56,236538,201789,136872,0,0
+,Crimson Combatant,,15943,-1,1,0,15270,0,0,1179648,55,236538,201789,136872,0,0
 End Dragonflight PvP Season 1 in the top 0.1% of the 3v3 arena ladder (requires 150 games won on your current faction in Dragonflight Season 1).,Crimson Gladiator: Dragonflight Season 1,Title Reward: Crimson Gladiator,15951,-1,-1,0,15270,0,0,14336,236,236540,0,0,0,0
 Earn the rank of Rival I during Dragonflight Season 1.,Rival I: Dragonflight Season 1,Title Reward: Rival,15952,-1,-1,0,15270,0,0,14336,262,236542,0,136882,0,0
 Earn the rank of Rival II during Dragonflight Season 1.,Rival II: Dragonflight Season 1,,15953,-1,-1,0,15270,0,0,14336,266,236542,0,136886,0,0
 Earn the rank of Duelist during Dragonflight Season 1.,Duelist: Dragonflight Season 1,Title Reward: Duelist,15954,-1,-1,0,15270,0,0,14336,275,236542,0,136892,0,0
 Earn the rank of Challenger I during Dragonflight Season 1.,Challenger I: Dragonflight Season 1,Title Reward: Challenger,15955,-1,-1,0,15270,0,0,14336,306,236542,0,136874,0,0
 Earn the rank of Challenger II during Dragonflight Season 1.,Challenger II: Dragonflight Season 1,,15956,-1,-1,0,15270,0,0,14336,310,236542,0,136878,0,0
-Win 50 3v3 games while at Elite rank during Dragonflight Season 1.,Gladiator: Dragonflight Season 1,"Reward: Gladiator Mount, Gladiator Title, Drakewatcher Manuscript",15957,-1,-1,0,15270,0,0,14336,319,236542,202086,136890,0,0
-End Dragonflight Season 1 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Dragonflight Season 1).,Hero of the Horde: Crimson,,15958,-1,0,0,15270,0,0,14336,332,236629,0,0,0,0
-End Dragonflight Season 1 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Dragonflight Season 1).,Hero of the Alliance: Crimson,,15959,-1,1,0,15270,0,0,14336,345,236593,0,0,0,0
+Win 50 3v3 games while at Elite rank during Dragonflight Season 1.,Gladiator: Dragonflight Season 1,"Reward: Gladiator Mount, Gladiator Title, Drakewatcher Manuscript",15957,-1,-1,0,165,0,0,12288,220,236542,202086,136890,0,0
+End Dragonflight Season 1 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Dragonflight Season 1).,Hero of the Horde: Crimson,,15958,-1,0,0,15270,0,0,14336,331,236629,0,0,0,0
+End Dragonflight Season 1 in the top 0.5% of the rated battleground ladder (requires 50 games won on your current faction in Dragonflight Season 1).,Hero of the Alliance: Crimson,,15959,-1,1,0,15270,0,0,14336,344,236593,0,0,0,0
 Earn the rank of Combatant I during Dragonflight Season 1.,Combatant I: Dragonflight Season 1,Title Reward: Combatant,15960,-1,-1,0,15270,0,0,2048,293,236543,0,136896,0,0
 Earn the rank of Combatant II during Dragonflight Season 1.,Combatant II: Dragonflight Season 1,,15961,-1,-1,0,15270,0,0,2048,297,236543,0,136900,0,0
 Earn the rank of Elite during Dragonflight Season 1.,Elite: Dragonflight Season 1,Title Reward: the Elite,15984,-1,-1,0,15270,0,0,14336,284,236542,0,136946,0,0
@@ -8056,7 +8055,7 @@ Collect the dragon glyph near The Azure Archives.,Dragon Glyphs: Azure Archives,
 Collect the dragon glyph near the Ruins of Karnthar.,Dragon Glyphs: Ruins of Karnthar,,16066,-1,-1,0,15462,0,0,1179648,215,4728198,0,0,0,0
 Collect the dragon glyph near the Lost Ruins.,Dragon Glyphs: Lost Ruins,,16067,-1,-1,0,15462,0,0,1179648,216,4728198,0,0,0,0
 Collect the dragon glyph near Brackenhide Hollow.,Dragon Glyphs: Brackenhide Hollow,,16068,-1,-1,0,15462,0,0,1179648,217,4728198,0,0,0,0
-Collect the dragon glyph near Creektooth Den.,Dragon Glyphs: Creektooth Den,,16069,-1,-1,0,15462,0,0,1179648,218,4728198,0,0,0,0
+Collect the dragon glyph near Drake Eye's Pond,Dragon Glyphs: Drake Eye's Pond,,16069,-1,-1,0,15462,0,0,1179648,218,4728198,0,0,0,0
 Collect the dragon glyph near Imbu.,Dragon Glyphs: Imbu,,16070,-1,-1,0,15462,0,0,1179648,219,4728198,0,0,0,0
 Collect the dragon glyph near Zelthrak Outpost.,Dragon Glyphs: Zelthrak Outpost,,16071,-1,-1,0,15462,0,0,1179648,220,4728198,0,0,0,0
 Collect the dragon glyph southeast of Rhonin's Shield.,Dragon Glyphs: Rhonin's Shield,,16072,-1,-1,0,15462,0,0,1179648,221,4728198,0,0,0,0
@@ -8095,94 +8094,94 @@ Collect the dragon glyph near Algeth'ar Academy.,Dragon Glyphs: Algeth'ar Academ
 Collect the dragon glyph near the Veiled Ossuary.,Dragon Glyphs: Veiled Ossuary,,16105,-1,-1,0,15462,0,0,1179648,231,4728198,0,0,0,0
 Collect the dragon glyph near the Vault of the Incarnates.,Dragon Glyphs: Vault of the Incarnates,,16106,-1,-1,0,15462,0,0,1179648,232,4728198,0,0,0,0
 Collect the dragon glyph atop Thaldraszus Apex.,Dragon Glyphs: Thaldraszus Apex,,16107,-1,-1,0,15462,0,0,1179648,233,4728198,0,0,0,0
-,Dragon Isles Leatherworking 100 (DNT),,16109,-1,-1,0,169,0,0,9437188,55,136243,0,134209,0,0
+,Dragon Isles Leatherworking 75 (DNT),,16109,-1,-1,0,169,0,0,9437188,55,136243,0,134209,0,0
 Learn five hyena facts from Gwybod in a single visit to Brackenhide Hollow on Mythic Difficulty.,Subscribed to Hyena Facts,,16110,2520,-1,0,15467,0,10,0,29,4066925,0,138863,0,0
-,<Hidden> 10.0 Professions Onboarding Skip Unlock [DNT],,16111,-1,-1,0,15455,0,0,3276804,30,136243,0,137150,0,0
-,<DNT> Iskaara Tuskarr Rank 01,,16137,-1,-1,0,15466,0,0,3145728,300,136243,0,137166,0,0
-,<DNT> Iskaara Tuskarr Rank 02,,16138,-1,-1,0,15466,0,0,3145728,301,136243,0,137168,0,0
-,<DNT> Iskaara Tuskarr Rank 03,,16139,-1,-1,0,15466,0,0,3145728,302,136243,0,137170,0,0
-,<DNT> Iskaara Tuskarr Rank 04,,16140,-1,-1,0,15466,0,0,3145728,303,136243,0,137172,0,0
-,<DNT> Iskaara Tuskarr Rank 05,,16141,-1,-1,0,15466,0,0,3145728,304,136243,0,137174,0,0
-,<DNT> Iskaara Tuskarr Rank 06,,16142,-1,-1,0,15466,0,0,3145728,305,136243,0,137176,0,0
-,<DNT> Iskaara Tuskarr Rank 07,,16143,-1,-1,0,15466,0,0,3145728,306,136243,0,137178,0,0
-,<DNT> Iskaara Tuskarr Rank 08,,16144,-1,-1,0,15466,0,0,3145728,307,136243,0,137180,0,0
-,<DNT> Iskaara Tuskarr Rank 09,,16145,-1,-1,0,15466,0,0,3145728,308,136243,0,137182,0,0
-,<DNT> Iskaara Tuskarr Rank 10,,16146,-1,-1,0,15466,0,0,3145728,309,136243,0,137184,0,0
-,<DNT> Iskaara Tuskarr Rank 11,,16147,-1,-1,0,15466,0,0,3145728,310,136243,0,137186,0,0
-,<DNT> Iskaara Tuskarr Rank 12,,16148,-1,-1,0,15466,0,0,3145728,311,136243,0,137188,0,0
-,<DNT> Iskaara Tuskarr Rank 13,,16149,-1,-1,0,15466,0,0,3145728,312,136243,0,137190,0,0
-,<DNT> Iskaara Tuskarr Rank 14,,16150,-1,-1,0,15466,0,0,3145728,313,136243,0,137192,0,0
-,<DNT> Iskaara Tuskarr Rank 15,,16151,-1,-1,0,15466,0,0,3145728,314,136243,0,137194,0,0
-,<DNT> Iskaara Tuskarr Rank 16,,16152,-1,-1,0,15466,0,0,3145728,315,136243,0,137196,0,0
-,<DNT> Iskaara Tuskarr Rank 17,,16153,-1,-1,0,15466,0,0,3145728,316,136243,0,137198,0,0
-,<DNT> Iskaara Tuskarr Rank 18,,16154,-1,-1,0,15466,0,0,3145728,317,136243,0,137200,0,0
-,<DNT> Iskaara Tuskarr Rank 19,,16155,-1,-1,0,15466,0,0,3145728,318,136243,0,137202,0,0
-,<DNT> Iskaara Tuskarr Rank 20,,16156,-1,-1,0,15466,0,0,3145728,319,136243,0,137204,0,0
-,<DNT> Iskaara Tuskarr Rank 21,,16157,-1,-1,0,15466,0,0,3145728,320,136243,0,137206,0,0
-,<DNT> Iskaara Tuskarr Rank 22,,16158,-1,-1,0,15466,0,0,3145728,321,136243,0,137208,0,0
-,<DNT> Iskaara Tuskarr Rank 23,,16159,-1,-1,0,15466,0,0,3145728,322,136243,0,137210,0,0
-,<DNT> Iskaara Tuskarr Rank 24,,16160,-1,-1,0,15466,0,0,3145728,323,136243,0,137212,0,0
-,<DNT> Iskaara Tuskarr Rank 25,,16161,-1,-1,0,15466,0,0,3145728,324,136243,0,137214,0,0
-,<DNT> Valdrakken Accord Rank 01,,16162,-1,-1,0,15466,0,0,3145728,330,136243,0,137216,0,0
-,<DNT> Valdrakken Accord Rank 02,,16163,-1,-1,0,15466,0,0,3145728,331,136243,0,137218,0,0
-,<DNT> Valdrakken Accord Rank 03,,16164,-1,-1,0,15466,0,0,3145728,332,136243,0,137220,0,0
-,<DNT> Valdrakken Accord Rank 04,,16165,-1,-1,0,15466,0,0,3145728,333,136243,0,137222,0,0
-,<DNT> Valdrakken Accord Rank 05,,16166,-1,-1,0,15466,0,0,3145728,334,136243,0,137224,0,0
-,<DNT> Valdrakken Accord Rank 06,,16167,-1,-1,0,15466,0,0,3145728,335,136243,0,137226,0,0
-,<DNT> Valdrakken Accord Rank 07,,16168,-1,-1,0,15466,0,0,3145728,336,136243,0,137228,0,0
-,<DNT> Valdrakken Accord Rank 08,,16169,-1,-1,0,15466,0,0,3145728,337,136243,0,137230,0,0
-,<DNT> Valdrakken Accord Rank 09,,16170,-1,-1,0,15466,0,0,3145728,338,136243,0,137232,0,0
-,<DNT> Valdrakken Accord Rank 10,,16171,-1,-1,0,15466,0,0,3145728,339,136243,0,137234,0,0
-,<DNT> Valdrakken Accord Rank 11,,16172,-1,-1,0,15466,0,0,3145728,340,136243,0,137236,0,0
-,<DNT> Valdrakken Accord Rank 12,,16173,-1,-1,0,15466,0,0,3145728,341,136243,0,137238,0,0
-,<DNT> Valdrakken Accord Rank 13,,16174,-1,-1,0,15466,0,0,3145728,342,136243,0,137240,0,0
-,<DNT> Valdrakken Accord Rank 14,,16175,-1,-1,0,15466,0,0,3145728,343,136243,0,137242,0,0
-,<DNT> Valdrakken Accord Rank 15,,16176,-1,-1,0,15466,0,0,3145728,344,136243,0,137244,0,0
-,<DNT> Valdrakken Accord Rank 16,,16177,-1,-1,0,15466,0,0,3145728,345,136243,0,137246,0,0
-,<DNT> Valdrakken Accord Rank 17,,16178,-1,-1,0,15466,0,0,3145728,346,136243,0,137248,0,0
-,<DNT> Valdrakken Accord Rank 18,,16179,-1,-1,0,15466,0,0,3145728,347,136243,0,137250,0,0
-,<DNT> Valdrakken Accord Rank 19,,16180,-1,-1,0,15466,0,0,3145728,348,136243,0,137252,0,0
-,<DNT> Valdrakken Accord Rank 20,,16181,-1,-1,0,15466,0,0,3145728,349,136243,0,137254,0,0
-,<DNT> Valdrakken Accord Rank 21,,16182,-1,-1,0,15466,0,0,3145728,350,136243,0,137256,0,0
-,<DNT> Valdrakken Accord Rank 22,,16183,-1,-1,0,15466,0,0,3145728,351,136243,0,137258,0,0
-,<DNT> Valdrakken Accord Rank 23,,16184,-1,-1,0,15466,0,0,3145728,352,136243,0,137260,0,0
-,<DNT> Valdrakken Accord Rank 24,,16185,-1,-1,0,15466,0,0,3145728,353,136243,0,137262,0,0
-,<DNT> Valdrakken Accord Rank 25,,16186,-1,-1,0,15466,0,0,3145728,354,136243,0,137264,0,0
-,<DNT> Valdrakken Accord Rank 26,,16187,-1,-1,0,15466,0,0,3145728,355,136243,0,137266,0,0
-,<DNT> Valdrakken Accord Rank 27,,16188,-1,-1,0,15466,0,0,3145728,356,136243,0,137268,0,0
-,<DNT> Valdrakken Accord Rank 28,,16189,-1,-1,0,15466,0,0,3145728,357,136243,0,137270,0,0
-,<DNT> Valdrakken Accord Rank 29,,16190,-1,-1,0,15466,0,0,3145728,358,136243,0,137272,0,0
-,<DNT> Valdrakken Accord Rank 30,,16191,-1,-1,0,15466,0,0,3145728,359,136243,0,137274,0,0
-,<DNT> Valdrakken Accord Rank 31,,16192,-1,-1,0,15466,0,0,3145728,360,136243,0,137276,0,0
-,<DNT> Valdrakken Accord Rank 32,,16193,-1,-1,0,15466,0,0,3145728,361,136243,0,137278,0,0
-,<DNT> Valdrakken Accord Rank 33,,16194,-1,-1,0,15466,0,0,3145728,362,136243,0,137280,0,0
-,<DNT> Valdrakken Accord Rank 34,,16195,-1,-1,0,15466,0,0,3145728,363,136243,0,137282,0,0
-,<DNT> Valdrakken Accord Rank 35,,16196,-1,-1,0,15466,0,0,3145728,364,136243,0,137284,0,0
-,<DNT> Maruuk Centaur Rank 01,,16222,-1,-1,0,15466,0,0,3145728,365,136243,0,137286,0,0
-,<DNT> Maruuk Centaur Rank 02,,16223,-1,-1,0,15466,0,0,3145728,366,136243,0,137288,0,0
-,<DNT> Maruuk Centaur Rank 03,,16224,-1,-1,0,15466,0,0,3145728,367,136243,0,137290,0,0
-,<DNT> Maruuk Centaur Rank 04,,16225,-1,-1,0,15466,0,0,3145728,370,136243,0,137292,0,0
-,<DNT> Maruuk Centaur Rank 05,,16226,-1,-1,0,15466,0,0,3145728,371,136243,0,137294,0,0
-,<DNT> Maruuk Centaur Rank 06,,16227,-1,-1,0,15466,0,0,3145728,372,136243,0,137296,0,0
-,<DNT> Maruuk Centaur Rank 07,,16228,-1,-1,0,15466,0,0,3145728,373,136243,0,137298,0,0
-,<DNT> Maruuk Centaur Rank 08,,16229,-1,-1,0,15466,0,0,3145728,374,136243,0,137300,0,0
-,<DNT> Maruuk Centaur Rank 09,,16230,-1,-1,0,15466,0,0,3145728,375,136243,0,137302,0,0
-,<DNT> Maruuk Centaur Rank 10,,16231,-1,-1,0,15466,0,0,3145728,376,136243,0,137304,0,0
-,<DNT> Maruuk Centaur Rank 11,,16232,-1,-1,0,15466,0,0,3145728,377,136243,0,137306,0,0
-,<DNT> Maruuk Centaur Rank 12,,16233,-1,-1,0,15466,0,0,3145728,378,136243,0,137308,0,0
-,<DNT> Maruuk Centaur Rank 13,,16234,-1,-1,0,15466,0,0,3145728,379,136243,0,137310,0,0
-,<DNT> Maruuk Centaur Rank 14,,16235,-1,-1,0,15466,0,0,3145728,380,136243,0,137312,0,0
-,<DNT> Maruuk Centaur Rank 15,,16236,-1,-1,0,15466,0,0,3145728,381,136243,0,137314,0,0
-,<DNT> Maruuk Centaur Rank 16,,16237,-1,-1,0,15466,0,0,3145728,382,136243,0,137316,0,0
-,<DNT> Maruuk Centaur Rank 17,,16238,-1,-1,0,15466,0,0,3145728,383,136243,0,137318,0,0
-,<DNT> Maruuk Centaur Rank 18,,16239,-1,-1,0,15466,0,0,3145728,384,136243,0,137320,0,0
-,<DNT> Maruuk Centaur Rank 19,,16240,-1,-1,0,15466,0,0,3145728,385,136243,0,137322,0,0
-,<DNT> Maruuk Centaur Rank 20,,16241,-1,-1,0,15466,0,0,3145728,386,136243,0,137324,0,0
-,<DNT> Maruuk Centaur Rank 21,,16242,-1,-1,0,15466,0,0,3145728,387,136243,0,137326,0,0
-,<DNT> Maruuk Centaur Rank 22,,16243,-1,-1,0,15466,0,0,3145728,388,136243,0,137328,0,0
-,<DNT> Maruuk Centaur Rank 23,,16244,-1,-1,0,15466,0,0,3145728,389,136243,0,137330,0,0
-,<DNT> Maruuk Centaur Rank 24,,16245,-1,-1,0,15466,0,0,3145728,390,136243,0,137332,0,0
-,<DNT> Maruuk Centaur Rank 25,,16246,-1,-1,0,15466,0,0,3145728,391,136243,0,137334,0,0
+,<Hidden> 10.0 Professions Onboarding Skip Unlock [DNT],,16111,-1,-1,0,15455,0,0,3276804,36,136243,0,137150,0,0
+,<DNT> Iskaara Tuskarr Rank 01,,16137,-1,-1,0,15466,0,0,3145728,301,136243,0,137166,0,0
+,<DNT> Iskaara Tuskarr Rank 02,,16138,-1,-1,0,15466,0,0,3145728,302,136243,0,137168,0,0
+,<DNT> Iskaara Tuskarr Rank 03,,16139,-1,-1,0,15466,0,0,3145728,303,136243,0,137170,0,0
+,<DNT> Iskaara Tuskarr Rank 04,,16140,-1,-1,0,15466,0,0,3145728,304,136243,0,137172,0,0
+,<DNT> Iskaara Tuskarr Rank 05,,16141,-1,-1,0,15466,0,0,3145728,305,136243,0,137174,0,0
+,<DNT> Iskaara Tuskarr Rank 06,,16142,-1,-1,0,15466,0,0,3145728,306,136243,0,137176,0,0
+,<DNT> Iskaara Tuskarr Rank 07,,16143,-1,-1,0,15466,0,0,3145728,307,136243,0,137178,0,0
+,<DNT> Iskaara Tuskarr Rank 08,,16144,-1,-1,0,15466,0,0,3145728,308,136243,0,137180,0,0
+,<DNT> Iskaara Tuskarr Rank 09,,16145,-1,-1,0,15466,0,0,3145728,309,136243,0,137182,0,0
+,<DNT> Iskaara Tuskarr Rank 10,,16146,-1,-1,0,15466,0,0,3145728,310,136243,0,137184,0,0
+,<DNT> Iskaara Tuskarr Rank 11,,16147,-1,-1,0,15466,0,0,3145728,311,136243,0,137186,0,0
+,<DNT> Iskaara Tuskarr Rank 12,,16148,-1,-1,0,15466,0,0,3145728,312,136243,0,137188,0,0
+,<DNT> Iskaara Tuskarr Rank 13,,16149,-1,-1,0,15466,0,0,3145728,313,136243,0,137190,0,0
+,<DNT> Iskaara Tuskarr Rank 14,,16150,-1,-1,0,15466,0,0,3145728,314,136243,0,137192,0,0
+,<DNT> Iskaara Tuskarr Rank 15,,16151,-1,-1,0,15466,0,0,3145728,315,136243,0,137194,0,0
+,<DNT> Iskaara Tuskarr Rank 16,,16152,-1,-1,0,15466,0,0,3145728,316,136243,0,137196,0,0
+,<DNT> Iskaara Tuskarr Rank 17,,16153,-1,-1,0,15466,0,0,3145728,317,136243,0,137198,0,0
+,<DNT> Iskaara Tuskarr Rank 18,,16154,-1,-1,0,15466,0,0,3145728,318,136243,0,137200,0,0
+,<DNT> Iskaara Tuskarr Rank 19,,16155,-1,-1,0,15466,0,0,3145728,319,136243,0,137202,0,0
+,<DNT> Iskaara Tuskarr Rank 20,,16156,-1,-1,0,15466,0,0,3145728,320,136243,0,137204,0,0
+,<DNT> Iskaara Tuskarr Rank 21,,16157,-1,-1,0,15466,0,0,3145728,321,136243,0,137206,0,0
+,<DNT> Iskaara Tuskarr Rank 22,,16158,-1,-1,0,15466,0,0,3145728,322,136243,0,137208,0,0
+,<DNT> Iskaara Tuskarr Rank 23,,16159,-1,-1,0,15466,0,0,3145728,323,136243,0,137210,0,0
+,<DNT> Iskaara Tuskarr Rank 24,,16160,-1,-1,0,15466,0,0,3145728,324,136243,0,137212,0,0
+,<DNT> Iskaara Tuskarr Rank 25,,16161,-1,-1,0,15466,0,0,3145728,325,136243,0,137214,0,0
+,<DNT> Valdrakken Accord Rank 01,,16162,-1,-1,0,15466,0,0,3145728,331,136243,0,137216,0,0
+,<DNT> Valdrakken Accord Rank 02,,16163,-1,-1,0,15466,0,0,3145728,332,136243,0,137218,0,0
+,<DNT> Valdrakken Accord Rank 03,,16164,-1,-1,0,15466,0,0,3145728,333,136243,0,137220,0,0
+,<DNT> Valdrakken Accord Rank 04,,16165,-1,-1,0,15466,0,0,3145728,334,136243,0,137222,0,0
+,<DNT> Valdrakken Accord Rank 05,,16166,-1,-1,0,15466,0,0,3145728,335,136243,0,137224,0,0
+,<DNT> Valdrakken Accord Rank 06,,16167,-1,-1,0,15466,0,0,3145728,336,136243,0,137226,0,0
+,<DNT> Valdrakken Accord Rank 07,,16168,-1,-1,0,15466,0,0,3145728,337,136243,0,137228,0,0
+,<DNT> Valdrakken Accord Rank 08,,16169,-1,-1,0,15466,0,0,3145728,338,136243,0,137230,0,0
+,<DNT> Valdrakken Accord Rank 09,,16170,-1,-1,0,15466,0,0,3145728,339,136243,0,137232,0,0
+,<DNT> Valdrakken Accord Rank 10,,16171,-1,-1,0,15466,0,0,3145728,340,136243,0,137234,0,0
+,<DNT> Valdrakken Accord Rank 11,,16172,-1,-1,0,15466,0,0,3145728,341,136243,0,137236,0,0
+,<DNT> Valdrakken Accord Rank 12,,16173,-1,-1,0,15466,0,0,3145728,342,136243,0,137238,0,0
+,<DNT> Valdrakken Accord Rank 13,,16174,-1,-1,0,15466,0,0,3145728,343,136243,0,137240,0,0
+,<DNT> Valdrakken Accord Rank 14,,16175,-1,-1,0,15466,0,0,3145728,344,136243,0,137242,0,0
+,<DNT> Valdrakken Accord Rank 15,,16176,-1,-1,0,15466,0,0,3145728,345,136243,0,137244,0,0
+,<DNT> Valdrakken Accord Rank 16,,16177,-1,-1,0,15466,0,0,3145728,346,136243,0,137246,0,0
+,<DNT> Valdrakken Accord Rank 17,,16178,-1,-1,0,15466,0,0,3145728,347,136243,0,137248,0,0
+,<DNT> Valdrakken Accord Rank 18,,16179,-1,-1,0,15466,0,0,3145728,348,136243,0,137250,0,0
+,<DNT> Valdrakken Accord Rank 19,,16180,-1,-1,0,15466,0,0,3145728,349,136243,0,137252,0,0
+,<DNT> Valdrakken Accord Rank 20,,16181,-1,-1,0,15466,0,0,3145728,350,136243,0,137254,0,0
+,<DNT> Valdrakken Accord Rank 21,,16182,-1,-1,0,15466,0,0,3145728,351,136243,0,137256,0,0
+,<DNT> Valdrakken Accord Rank 22,,16183,-1,-1,0,15466,0,0,3145728,352,136243,0,137258,0,0
+,<DNT> Valdrakken Accord Rank 23,,16184,-1,-1,0,15466,0,0,3145728,353,136243,0,137260,0,0
+,<DNT> Valdrakken Accord Rank 24,,16185,-1,-1,0,15466,0,0,3145728,354,136243,0,137262,0,0
+,<DNT> Valdrakken Accord Rank 25,,16186,-1,-1,0,15466,0,0,3145728,355,136243,0,137264,0,0
+,<DNT> Valdrakken Accord Rank 26,,16187,-1,-1,0,15466,0,0,3145728,356,136243,0,137266,0,0
+,<DNT> Valdrakken Accord Rank 27,,16188,-1,-1,0,15466,0,0,3145728,357,136243,0,137268,0,0
+,<DNT> Valdrakken Accord Rank 28,,16189,-1,-1,0,15466,0,0,3145728,358,136243,0,137270,0,0
+,<DNT> Valdrakken Accord Rank 29,,16190,-1,-1,0,15466,0,0,3145728,359,136243,0,137272,0,0
+,<DNT> Valdrakken Accord Rank 30,,16191,-1,-1,0,15466,0,0,3145728,360,136243,0,137274,0,0
+,<DNT> Valdrakken Accord Rank 31,,16192,-1,-1,0,15466,0,0,3145728,361,136243,0,137276,0,0
+,<DNT> Valdrakken Accord Rank 32,,16193,-1,-1,0,15466,0,0,3145728,362,136243,0,137278,0,0
+,<DNT> Valdrakken Accord Rank 33,,16194,-1,-1,0,15466,0,0,3145728,363,136243,0,137280,0,0
+,<DNT> Valdrakken Accord Rank 34,,16195,-1,-1,0,15466,0,0,3145728,364,136243,0,137282,0,0
+,<DNT> Valdrakken Accord Rank 35,,16196,-1,-1,0,15466,0,0,3145728,365,136243,0,137284,0,0
+,<DNT> Maruuk Centaur Rank 01,,16222,-1,-1,0,15466,0,0,3145728,366,136243,0,137286,0,0
+,<DNT> Maruuk Centaur Rank 02,,16223,-1,-1,0,15466,0,0,3145728,367,136243,0,137288,0,0
+,<DNT> Maruuk Centaur Rank 03,,16224,-1,-1,0,15466,0,0,3145728,368,136243,0,137290,0,0
+,<DNT> Maruuk Centaur Rank 04,,16225,-1,-1,0,15466,0,0,3145728,371,136243,0,137292,0,0
+,<DNT> Maruuk Centaur Rank 05,,16226,-1,-1,0,15466,0,0,3145728,372,136243,0,137294,0,0
+,<DNT> Maruuk Centaur Rank 06,,16227,-1,-1,0,15466,0,0,3145728,373,136243,0,137296,0,0
+,<DNT> Maruuk Centaur Rank 07,,16228,-1,-1,0,15466,0,0,3145728,374,136243,0,137298,0,0
+,<DNT> Maruuk Centaur Rank 08,,16229,-1,-1,0,15466,0,0,3145728,375,136243,0,137300,0,0
+,<DNT> Maruuk Centaur Rank 09,,16230,-1,-1,0,15466,0,0,3145728,376,136243,0,137302,0,0
+,<DNT> Maruuk Centaur Rank 10,,16231,-1,-1,0,15466,0,0,3145728,377,136243,0,137304,0,0
+,<DNT> Maruuk Centaur Rank 11,,16232,-1,-1,0,15466,0,0,3145728,378,136243,0,137306,0,0
+,<DNT> Maruuk Centaur Rank 12,,16233,-1,-1,0,15466,0,0,3145728,379,136243,0,137308,0,0
+,<DNT> Maruuk Centaur Rank 13,,16234,-1,-1,0,15466,0,0,3145728,380,136243,0,137310,0,0
+,<DNT> Maruuk Centaur Rank 14,,16235,-1,-1,0,15466,0,0,3145728,381,136243,0,137312,0,0
+,<DNT> Maruuk Centaur Rank 15,,16236,-1,-1,0,15466,0,0,3145728,382,136243,0,137314,0,0
+,<DNT> Maruuk Centaur Rank 16,,16237,-1,-1,0,15466,0,0,3145728,383,136243,0,137316,0,0
+,<DNT> Maruuk Centaur Rank 17,,16238,-1,-1,0,15466,0,0,3145728,384,136243,0,137318,0,0
+,<DNT> Maruuk Centaur Rank 18,,16239,-1,-1,0,15466,0,0,3145728,385,136243,0,137320,0,0
+,<DNT> Maruuk Centaur Rank 19,,16240,-1,-1,0,15466,0,0,3145728,386,136243,0,137322,0,0
+,<DNT> Maruuk Centaur Rank 20,,16241,-1,-1,0,15466,0,0,3145728,387,136243,0,137324,0,0
+,<DNT> Maruuk Centaur Rank 21,,16242,-1,-1,0,15466,0,0,3145728,388,136243,0,137326,0,0
+,<DNT> Maruuk Centaur Rank 22,,16243,-1,-1,0,15466,0,0,3145728,389,136243,0,137328,0,0
+,<DNT> Maruuk Centaur Rank 23,,16244,-1,-1,0,15466,0,0,3145728,390,136243,0,137330,0,0
+,<DNT> Maruuk Centaur Rank 24,,16245,-1,-1,0,15466,0,0,3145728,391,136243,0,137332,0,0
+,<DNT> Maruuk Centaur Rank 25,,16246,-1,-1,0,15466,0,0,3145728,392,136243,0,137334,0,0
 Defeat Decatriarch Wratheye in Brackenhide Hollow.,Brackenhide Hollow,,16255,2520,-1,0,15467,0,10,0,4,4578412,0,137371,0,0
 Defeat Decatriarch Wratheye in Brackenhide Hollow on Heroic difficulty or higher.,Heroic: Brackenhide Hollow,,16256,2520,-1,16255,15467,0,10,0,5,4578412,0,137373,0,0
 Defeat Decatriarch Wratheye in Brackenhide Hollow on Mythic or Mythic Keystone difficulty.,Mythic: Brackenhide Hollow,,16257,2520,-1,16256,15467,0,10,0,6,4578412,0,137375,0,0
@@ -8209,17 +8208,17 @@ Defeat Chrono-Lord Deios in Uldaman: Legacy of Tyr on Heroic difficulty or highe
 Defeat Chrono-Lord Deios in Uldaman: Legacy of Tyr on Mythic or Mythic Keystone difficulty.,Mythic: Uldaman: Legacy of Tyr,,16280,2451,-1,16279,15467,0,10,0,24,4578418,0,137417,0,0
 Defeat Chrono-Lord Deios after catching every Eternity Orb as it falls to the ground in Uldaman: Legacy of Tyr on Mythic difficulty.,Like Sands Through the Hourglass,,16281,2451,-1,0,15467,0,10,0,52,525134,0,137473,0,0
 Defeat Sentinel Talondras after simultaneously stunning both Sentinel Talondras and all party members in Uldaman: Legacy of Tyr on Mythic difficulty.,"No, You're Stunning!",,16282,2451,-1,0,15467,0,10,0,51,464160,0,137467,0,0
-,<Hidden> Travel Network - Node Unlock: Azure Span - Cobalt Assembly,,16283,-1,-1,0,15455,0,0,1179648,20,136243,0,137424,0,0
-,<Hidden> Travel Network - Node Unlock: Azure Span - Vakthros,,16284,-1,-1,0,15455,0,0,1179648,21,136243,0,137426,0,0
-,<Hidden> Travel Network - Node Unlock: Ohn'ahran Plains - Shady Sanctuary,,16285,-1,-1,0,15455,0,0,1179648,22,136243,0,137428,0,0
-,<Hidden> Travel Network - Node Unlock: Ohn'ahran Plains - Rusza'thar Reach,,16286,-1,-1,0,15455,0,0,1179648,23,136243,0,137430,0,0
-,<Hidden> Travel Network - Node Unlock: Thaldraszus - Algeth'era,,16287,-1,-1,0,15455,0,0,1179648,24,136243,0,137432,0,0
-,<Hidden> Travel Network - Node Unlock: Thaldraszus - Eon's Fringe,,16288,-1,-1,0,15455,0,0,1179648,25,136243,0,137434,0,0
-,<Hidden> Travel Network - Node Unlock: Waking Shores - Rubyscale Outpost,,16289,-1,-1,0,15455,0,0,1179648,26,136243,0,137436,0,0
-,<Hidden> Travel Network - Node Unlock: Waking Shores - Skytop Observatory,,16290,-1,-1,0,15455,0,0,1179648,27,136243,0,137438,0,0
-Unlock the Ancient Waygate travel network in the Dragon Isles.,An Ancient Awakening,,16291,-1,-1,0,15455,0,5,0,37,1377394,0,137440,0,0
-Unlock all of the Ancient Waygate locations in the Dragon Isles.,Mastering the Waygates,,16292,-1,-1,0,15455,0,5,0,38,1041232,0,137442,0,0
-,<Hidden> Travel Network - Account Wide Unlock,,16293,-1,-1,0,15455,0,0,1179648,28,136243,0,137451,0,0
+,<Hidden> Travel Network - Node Unlock: Azure Span - Cobalt Assembly,,16283,-1,-1,0,15455,0,0,1179648,23,136243,0,137424,0,0
+,<Hidden> Travel Network - Node Unlock: Azure Span - Vakthros,,16284,-1,-1,0,15455,0,0,1179648,24,136243,0,137426,0,0
+,<Hidden> Travel Network - Node Unlock: Ohn'ahran Plains - Shady Sanctuary,,16285,-1,-1,0,15455,0,0,1179648,25,136243,0,137428,0,0
+,<Hidden> Travel Network - Node Unlock: Ohn'ahran Plains - Rusza'thar Reach,,16286,-1,-1,0,15455,0,0,1179648,26,136243,0,137430,0,0
+,<Hidden> Travel Network - Node Unlock: Thaldraszus - Algeth'era,,16287,-1,-1,0,15455,0,0,1179648,27,136243,0,137432,0,0
+,<Hidden> Travel Network - Node Unlock: Thaldraszus - Eon's Fringe,,16288,-1,-1,0,15455,0,0,1179648,28,136243,0,137434,0,0
+,<Hidden> Travel Network - Node Unlock: Waking Shores - Rubyscale Outpost,,16289,-1,-1,0,15455,0,0,1179648,29,136243,0,137436,0,0
+,<Hidden> Travel Network - Node Unlock: Waking Shores - Skytop Observatory,,16290,-1,-1,0,15455,0,0,1179648,30,136243,0,137438,0,0
+Unlock the Ancient Waygate travel network in the Dragon Isles.,An Ancient Awakening,,16291,-1,-1,0,15455,0,5,0,41,1377394,0,137440,0,0
+Unlock all of the Ancient Waygate locations in the Dragon Isles.,Mastering the Waygates,,16292,-1,-1,0,15455,0,5,0,42,1041232,0,137442,0,0
+,<Hidden> Travel Network - Account Wide Unlock,,16293,-1,-1,0,15455,0,0,1179648,31,136243,0,137451,0,0
 Complete the Dragonflight Heroic dungeon achievements listed below.,Dragonflight Dungeon Hero,,16294,-1,-1,0,168,0,20,135168,56,4638547,0,137475,0,0
 Complete the Dragonflight Mythic dungeon achievements listed below.,Glory of the Dragonflight Hero,Mount Reward: Shellack,16295,-1,-1,0,168,0,25,143360,57,4295888,192784,137484,0,0
 "Defeat Hackclaw's War-Band after freeing Chief Softpaw, equipping her with a spear and shield, and making sure she survives in Brackenhide Hollow on Mythic difficulty.",Growlbossify,,16296,2520,-1,0,15467,0,10,0,31,2059635,0,138443,0,0
@@ -8234,28 +8233,28 @@ Get Gold ranked time for Ohn'ahran Plains River Rapids Route.,River Rapids Route
 Complete Ohn'ahran Plains River Rapids Route Advanced.,River Rapids Route Advanced: Bronze,,16305,-1,-1,0,15462,0,0,1048576,103,1002572,0,0,0,0
 Get Silver ranked time for Ohn'ahran Plains River Rapids Route Advanced.,River Rapids Route Advanced: Silver,,16306,-1,-1,16305,15462,0,0,1048576,104,1002575,0,0,0,0
 Get Gold ranked time for Ohn'ahran Plains River Rapids Route Advanced.,River Rapids Route Advanced: Gold,,16307,-1,-1,16306,15462,0,0,1048576,105,1002573,0,0,0,0
-,<DNT> Iskaara Tuskarr Rank 26,,16308,-1,-1,0,15466,0,0,3145728,325,136243,0,137821,0,0
-,<DNT> Iskaara Tuskarr Rank 27,,16309,-1,-1,0,15466,0,0,3145728,326,136243,0,137823,0,0
-,<DNT> Iskaara Tuskarr Rank 28,,16310,-1,-1,0,15466,0,0,3145728,327,136243,0,137825,0,0
-,<DNT> Iskaara Tuskarr Rank 29,,16311,-1,-1,0,15466,0,0,3145728,328,136243,0,137827,0,0
-,<DNT> Iskaara Tuskarr Rank 30,,16312,-1,-1,0,15466,0,0,3145728,329,136243,0,137829,0,0
+,<DNT> Iskaara Tuskarr Rank 26,,16308,-1,-1,0,15466,0,0,3145728,326,136243,0,137821,0,0
+,<DNT> Iskaara Tuskarr Rank 27,,16309,-1,-1,0,15466,0,0,3145728,327,136243,0,137823,0,0
+,<DNT> Iskaara Tuskarr Rank 28,,16310,-1,-1,0,15466,0,0,3145728,328,136243,0,137825,0,0
+,<DNT> Iskaara Tuskarr Rank 29,,16311,-1,-1,0,15466,0,0,3145728,329,136243,0,137827,0,0
+,<DNT> Iskaara Tuskarr Rank 30,,16312,-1,-1,0,15466,0,0,3145728,330,136243,0,137829,0,0
 Gain Access to all Secret Fishing Pools.,Secret Fishing Spots,,16317,-1,-1,0,15466,0,10,65536,280,4638459,0,137868,0,0
-Hidden achievement to turn on dragon riding talents for characters after the first. [DNT],A New Friend - Per Character Unlocks,,16319,-1,-1,0,15455,0,0,1310724,2,136243,0,137932,0,0
+Hidden achievement to turn on dragon riding talents for characters after the first. [DNT],A New Friend - Per Character Unlocks,,16319,-1,-1,0,15455,0,0,1310724,4,136243,0,137932,0,0
 Defeat Kokia Blazehoof after heating up 4 life pools with Molten Boulder in Ruby Life Pools on Mythic difficulty.,Does Steam Do Fire Damage?,,16320,2521,-1,0,15467,0,10,0,41,4554434,0,137968,0,0
 Obtain Iskaaran harpoon and Iskaaran fishing net.,Cutting Tusk Equipment,,16321,-1,-1,0,15466,0,10,0,281,1412207,0,137976,0,0
 Fully upgrade your Iskaaran fishing gear.,Best in Slot,,16322,-1,-1,0,15466,0,10,0,284,132933,0,137970,0,0
 "Acquire for Emilia Bellocq, the following loose pieces of statuary located around the Dragon Isles.",Fragments of History,,16323,-1,-1,0,15465,0,10,0,27,134908,0,137979,0,0
 Nokhudon Proving Grounds matches,Nokhudon Proving Grounds matches,,16324,-1,-1,0,152,0,0,1,29,136243,0,138022,0,0
 Nokhudon Proving Grounds victories,Nokhudon Proving Grounds victories,,16325,-1,-1,0,152,0,0,1,30,136243,0,138020,0,0
-,<Hidden> ACCOUNT: Campaign Complete,,16326,-1,-1,0,15455,0,0,3276804,14,136243,0,138051,0,0
+,<Hidden> ACCOUNT: Campaign Complete,,16326,-1,-1,0,15455,0,0,3276804,16,136243,0,138051,0,0
 ,<DNT> Dragonscale Expedition - Climbing Unlocked,,16327,-1,-1,0,15466,0,0,3276800,250,136243,0,138053,0,0
 ,<DNT> Dragonscale Expedition - Cataloging Unlocked,,16328,-1,-1,0,15466,0,0,3276800,253,136243,0,138055,0,0
 Defeat the Overgrown Ancient while all party members have a Well-Fed Duckling on their head in Algeth'ar Academy on Mythic difficulty.,"Duck, Duck, Spruce!",,16329,2526,-1,0,15467,0,10,0,27,3953211,0,138878,0,0
 Defeat Umbrelskul without being hit by a polymorph trap or triggering a Shriek in The Azure Vault on Mythic difficulty.,You Must Be Made of Hide,,16330,2515,-1,0,15467,0,10,0,43,132320,0,138059,0,0
 Defeat Umbrelskul after smashing Shimmering Geodes with Dragon Strike and destroying 9 Geode Chunks in The Azure Vault on Mythic difficulty.,The Cracked Crystal,,16331,2515,-1,0,15467,0,10,0,45,132781,0,138062,0,0
-Complete the following questlines in the Waking Shores.,Waking Hope,,16334,-1,-1,0,15455,0,10,0,32,4672500,0,94553,0,0
+Complete the following questlines in the Waking Shores.,Waking Hope,,16334,-1,-1,0,15455,0,10,0,35,4672500,0,94553,0,0
 Defeat Eranog after finding a Frozen Portal Stone and defeating a Burning Behemoth in Vault of the Incarnates on Normal difficulty or higher.,What Frozen Things Do,,16335,2522,-1,0,15468,0,10,0,15,4572524,0,138067,0,0
-Complete the following questlines in the Azure Span.,Azure Spanner,,16336,-1,-1,0,15455,0,10,0,34,4672495,0,138069,0,0
+Complete the following questlines in the Azure Span.,Azure Spanner,,16336,-1,-1,0,15455,0,10,0,38,4672495,0,138069,0,0
 Defeat Bromach while 10 or more Stonevault Troggs are still alive in Uldaman: Legacy of Tyr on Mythic difficulty.,It's a Trogg Eat Trogg World,,16337,2451,-1,0,15467,0,10,0,50,134024,0,138089,0,0
 Get 10 points in a single game of Fang Flap Fire.,Fang Flap Fire Fighter,,16338,-1,-1,0,15465,0,5,131072,26,134153,0,138078,0,0
 Complete each of the following Dragonflight dungeons on Mythic or Mythic Keystone difficulty.,Myths of the Dragonflight Dungeons,,16339,-1,-1,0,15467,0,10,131072,25,4622499,0,138080,0,0
@@ -8277,7 +8276,7 @@ Defeat Raszageth the Storm-Eater in Vault of the Incarnates on Mythic Difficulty
 ,Eranog kills (Raid Finder Vault of the Incarnates),,16359,2522,-1,0,15469,0,0,1,25,136243,0,138197,0,0
 ,Terros kills (Raid Finder Vault of the Incarnates),,16361,2522,-1,0,15469,0,0,1,29,136243,0,138199,0,0
 ,The Primal Council kills (Raid Finder Vault of the Incarnates),,16362,2522,-1,0,15469,0,0,1,33,136243,0,138201,0,0
-Complete the following questlines in the Thaldraszus.,Just Don't Ask Me to Spell It,,16363,-1,-1,0,15455,0,10,0,33,4672499,0,138205,0,0
+Complete the following questlines in Thaldraszus.,Just Don't Ask Me to Spell It,,16363,-1,-1,0,15455,0,10,0,37,4672499,0,138205,0,0
 "Use fishing to lure the Lurking Lunker living in the lava out, then engage and defeat the Primal Council in the Vault of the Incarnates on Normal difficulty or higher.",The Lunker Below,,16364,-1,-1,0,15468,0,10,0,17,2399292,0,138230,0,0
 Defeat Terros after hitting the three Dormant Earth nodes in his chamber with Awakened Earth and then defeating the resultant Energized Earth creatures in Vault of the Incarnates on Normal difficulty or higher.,Little Friends,,16365,2522,-1,0,15468,0,10,0,16,4554457,0,138305,0,0
 ,"Sennarth, The Cold Breath kills (Raid Finder Vault of the Incarnates)",,16366,2522,-1,0,15469,0,0,1,37,136243,0,138247,0,0
@@ -8310,30 +8309,30 @@ Defeat Terros after hitting the three Dormant Earth nodes in his chamber with Aw
 ,Broodkeeper Diurna kills (Mythic Vault of the Incarnates),,16393,2522,-1,0,15469,0,0,1,52,136243,0,138301,0,0
 ,Raszageth kills (Mythic Vault of the Incarnates),,16394,2522,-1,0,15469,0,0,1,56,136243,0,138303,0,0
 Collect an armor set from Vault of the Incarnates.,Vaulternative Fashion,,16395,-1,-1,0,15259,0,10,131072,46,4630363,0,138313,0,0
-Complete the optional Thaldraszus storylines listed below.,Sojourner of Thaldraszus,,16398,-1,-1,0,15455,0,10,0,11,4672499,0,138319,0,0
+Complete the optional Thaldraszus storylines listed below.,Sojourner of Thaldraszus,,16398,-1,-1,0,15455,0,10,0,13,4672499,0,138319,0,0
 Help Lubbins get his mojo back.,Lovin' Lubbins,,16399,-1,-1,0,15117,0,5,131072,18,4452489,0,138328,0,0
 "Explore the Waking Shores, revealing the covered areas of the world map.",Explore the Waking Shores,,16400,-1,-1,0,15465,0,10,2097152,1,4672500,0,138330,0,0
-Complete the optional Waking Shores storylines listed below.,Sojourner of the Waking Shores,,16401,-1,-1,0,15455,0,10,0,8,3953208,0,138349,0,0
+Complete the optional Waking Shores storylines listed below.,Sojourner of the Waking Shores,,16401,-1,-1,0,15455,0,10,0,10,3953208,0,138349,0,0
 Defeat Melidrussa after defeating 40 of her chamber's Infused Whelps in Ruby Life Pools on Mythic difficulty.,Dragon Kill Points,,16402,2521,-1,0,15467,0,10,0,40,4397694,0,138347,0,0
 "Defeat Decatriarch Wratheye after finding and planting three Resilient Mushrooms, then destroying them with Decaystrike in Brackenhide Hollow on Mythic difficulty.",So You Can Kill This in a Way That Matters...,,16404,2520,-1,0,15467,0,10,0,33,134052,0,138865,0,0
-Complete the optional Ohn'ahran Plains storylines listed below.,Sojourner of Ohn'ahran Plains,,16405,-1,-1,0,15455,0,10,0,9,4687627,0,138360,0,0
-Hear stories told by the following denizens of the Waking Shores.,All Sides of the Story,,16406,-1,-1,0,15465,0,10,0,20,4549126,0,138369,0,0
+Complete the optional Ohn'ahran Plains storylines listed below.,Sojourner of Ohn'ahran Plains,,16405,-1,-1,0,15455,0,10,0,11,4687627,0,138360,0,0
+Hear all the stories told by the following denizens of the Waking Shores.,All Sides of the Story,,16406,-1,-1,0,15465,0,10,0,20,4549126,0,138369,0,0
 Rescue all five Bubbled Ducklings in the Restless Wetlands.,Let's Get Quacking,,16409,-1,-1,0,15465,0,5,0,22,4048818,0,138374,0,0
 "During stage 1 of the scenario Siege on Dragonbane Keep, feed Beef 20 Beef snacks.",Siege on Dragonbane Keep: Snack Attack,,16410,-1,-1,0,15465,0,5,131072,13,134062,0,138391,0,0
 Complete the scenario Siege on Dragonbane Keep.,Siege on Dragonbane Keep: Home Sweet Home,,16411,-1,-1,0,15465,0,10,131072,11,1394891,0,138393,0,0
 "In Dragonbane Keep, find all of the djaradin tablets.",Siege on Dragonbane Keep: Chiseled Record,,16412,-1,-1,0,15465,0,5,131072,12,134455,0,138395,0,0
 ,[HIDDEN] Fates of the Shadowlands Raid Portals,,16414,-1,-1,0,15438,0,0,1310720,83,136243,0,138399,0,0
-,<DNT> Cobalt Assembly - Rank 1 - Low,,16415,-1,-1,0,15466,0,0,3145728,393,136243,0,138433,0,0
-,<DNT> Cobalt Assembly - Rank 2 - Medium,,16416,-1,-1,0,15466,0,0,3145728,394,136243,0,138435,0,0
-,<DNT> Cobalt Assembly - Rank 3 - High,,16417,-1,-1,0,15466,0,0,3145728,395,136243,0,138437,0,0
-,<DNT> Cobalt Assembly - Rank 4 - Maximum,,16418,-1,-1,0,15466,0,0,3145728,396,136243,0,138439,0,0
+,<DNT> Cobalt Assembly - Rank 1 - Low,,16415,-1,-1,0,15466,0,0,3145728,394,136243,0,138433,0,0
+,<DNT> Cobalt Assembly - Rank 2 - Medium,,16416,-1,-1,0,15466,0,0,3145728,395,136243,0,138435,0,0
+,<DNT> Cobalt Assembly - Rank 3 - High,,16417,-1,-1,0,15466,0,0,3145728,396,136243,0,138437,0,0
+,<DNT> Cobalt Assembly - Rank 4 - Maximum,,16418,-1,-1,0,15466,0,0,3145728,397,136243,0,138439,0,0
 "Defeat Sennarth, The Cold Breath after finding and freeing 5 mysterious captives using Caustic Eruption, then witnessing their demise in Vault of the Incarnates on Normal difficulty or higher.",I Was Saving That For Later,,16419,2522,-1,0,15468,0,10,0,18,2437248,0,138445,0,0
 Present offerings to the following ancestor spirits in Ohn'ahran Plains while under the effect of Essence of Awakening.,Honor Our Ancestors,Toy Reward: Ohn'ir Windsage's Hearthstone,16423,-1,-1,0,15465,0,10,0,23,135946,0,138449,0,0
 Pet all of the bakar in the Ohn'ahran Plains.,Who's a Good Bakar?,,16424,-1,-1,0,15465,0,10,0,24,930453,0,138462,0,0
 ,I'm a Template Character [DNT],,16425,-1,-1,0,92,0,0,20185092,58,136243,0,138482,0,0
 Defeat the Gulping Goliath after forcing it to become Hangry and devour 10 Curious Swoglets in Halls of Infusion on Mythic difficulty.,Hungry Hungry Hornswog,,16426,2527,-1,0,15467,0,10,0,35,237553,0,138937,0,0
 Defeat the Primal Tsunami after slaying three Flow Control Units in Halls of Infusion on Mythic difficulty.,Go With the Flow,,16427,2527,-1,0,15467,0,10,0,36,135861,0,138966,0,0
-Complete the optional Azure Span storylines listed below.,Sojourner of Azure Span,,16428,-1,-1,0,15455,0,10,0,10,4672495,0,138494,0,0
+Complete the optional Azure Span storylines listed below.,Sojourner of Azure Span,,16428,-1,-1,0,15455,0,10,0,12,4672495,0,138494,0,0
 End Dragonflight Mythic+ Season 1 with a Mythic+ Rating in the top 0.1% of all players in your region.,Thundering Hero: Dragonflight Season 1,Title Reward: Thundering Hero,16429,-1,-1,0,15272,0,0,14336,4,618859,0,138513,0,0
 Defeat Treemouth after every player has been consumed at least once in Brackenhide Hollow on Mythic difficulty.,"All Bark, All Bite",,16430,2520,-1,0,15467,0,10,0,32,132103,0,138861,0,0
 Defeat each of the elemental lords during the Dragonflight pre-launch events.,Against the Elements,,16431,-1,-1,0,15274,0,0,2048,59,132845,0,138528,0,0
@@ -8343,8 +8342,8 @@ Defeat Vexamus without players absorbing any Arcane Orbs in Algeth'ar Academy on
 "Defeat Kyrakka and Erkhart Stormvein after chilling, searing, tempering, and keeping alive the Nascent Ruby Egg in Ruby Life Pools on Mythic difficulty.",Are You My Broodmother?,,16440,2521,-1,0,15467,0,10,0,42,4509422,0,138600,0,0
 Defeat Crawth after simultaneously activating both Goals in Algeth'ar Academy on Mythic difficulty.,Squad Goals,,16441,2526,-1,0,15467,0,10,0,28,464077,0,138568,0,0
 Defeat Broodkeeper Diurna after successfully hatching and defeating lieutenants from each Primal element's eggs within 10 seconds of each other in Vault of the Incarnates on Normal difficulty or higher.,Incubation Extermination,,16442,-1,-1,0,15468,0,10,0,21,1385911,0,138538,0,0
-Complete 100 tasks at the Community Feast in Iskaara.,Soupervisor,Title Reward: Soupervisor,16443,-1,-1,0,15466,0,10,0,398,4240492,0,138540,0,0
-"Cook Legendary soup at the Community Feast in Iskaara, then defeat Bisquius.",Leftovers' Revenge,Transmog: Big Kinook's Spare Ladle,16444,-1,-1,0,15466,0,10,0,399,794853,0,138542,0,0
+Complete 100 tasks at the Community Feast in Iskaara.,Soupervisor,Title Reward: Soupervisor,16443,-1,-1,0,15466,0,10,0,399,4240492,0,138540,0,0
+"Cook Legendary soup at the Community Feast in Iskaara, then defeat Bisquius.",Leftovers' Revenge,Transmog: Big Kinook's Spare Ladle,16444,-1,-1,0,15466,0,10,0,400,794853,0,138542,0,0
 Defeat Telash Greywing after using Icy Devastator 12 times on an Icy Crystal to create a Very Icy Crystal in The Azure Vault on Mythic difficulty.,Icy What You Did There,,16445,2515,-1,0,15467,0,10,0,44,2060147,0,138544,0,0
 Take a picture with the S.E.L.F.I.E. camera with all the birds (and birdwatchers!) of the Dragon Isles listed below.,That's Pretty Neat!,Title Reward: Birdwatcher,16446,-1,-1,0,15465,0,10,0,10,133707,0,138546,0,0
 Defeat the Raging Tempest after striking a single player with 5 Lightning Strikes simultaneously and defeating a Storm Elemental in The Nokhud Offensive on Mythic difficulty.,What Are The Chances...,,16447,2516,-1,0,15467,0,10,0,46,4554460,0,138570,0,0
@@ -8383,14 +8382,14 @@ Defeat creatures empowered with elemental water during a storm event in Thaldras
 Complete the Thaldraszus storm achievements below.,Chasing Storms in Thaldraszus,,16489,-1,-1,0,15465,0,10,0,63,4672499,0,138718,0,0
 Complete the storm achievements below.,Storm Chaser,,16490,-1,-1,0,15465,0,10,0,47,572029,0,138723,0,0
 Complete the storm achievements below.,Into the Storm,,16492,-1,-1,0,15465,0,20,0,42,538566,0,138728,0,0
-Ride the tame baby mammoths from the following areas to Mammoth-Tamer Tavok in the Emberflow.,Grand Theft Mammoth,,16493,-1,-1,0,15465,0,5,0,34,4034836,0,139400,0,0
+Ride the tame baby mammoths from the following areas to Mammoth-Tamer Tavok in the Emberflow.,Petty Theft Mammoth,,16493,-1,-1,0,15465,0,5,0,34,4034836,0,139400,0,0
 Reach the maximum friendship with Wrathion at the Obsidian Throne.,Loyalty to the Prince,Title Reward: Agent of the Black Prince,16494,-1,-1,0,15466,0,10,131072,279,132768,0,139397,0,0
 Turn in a total of 30 Obsidian Keys to individuals around the Obsidian Citadel.,Obsidian Keymaster,,16495,-1,-1,0,15465,0,10,0,35,1379238,0,139390,0,0
 Complete the following special encounters at the Obsidian Citadel and adjacent lava fields.,Obsidian Champion,,16496,-1,-1,0,15465,0,5,0,36,236326,0,139392,0,0
 Ensure that you always come out on top by turning in Obsidian Keys to each of these individuals at the Obsidian Citadel.,I'm Playing All Sides,,16497,-1,-1,0,15465,0,5,0,37,236352,0,139381,0,0
 Obtain 1000 Elemental Overflow,Elemental Overflow,,16498,-1,-1,0,15465,0,5,0,43,134388,0,138758,0,0
 Obtain 2500 Elemental Overflow,Elemental Overflowing,,16499,-1,-1,16498,15465,0,5,0,44,134388,0,138760,0,0
-Obtain 5000 Elemental Overflow,Elemental Overload,,16500,-1,-1,16499,15465,0,10,0,45,134388,0,0,0,0
+Obtain 5000 Elemental Overflow,Elemental Overload,,16500,-1,-1,16499,15465,0,10,0,45,134388,0,138762,0,0
 Defeat the elite pets and trainers of the Dragon Isles with a team of all level 25 Aquatic pets.,Aquatic Battler of the Dragon Isles,,16501,-1,-1,0,15119,0,5,131072,105,618981,0,138769,0,0
 Collect an armor set from the Primal Storms.,Storming the Runway,,16502,-1,-1,0,15259,0,10,131072,76,4628908,0,138767,0,0
 Defeat the elite pets and trainers of the Dragon Isles with a team of all level 25 Beast pets.,Beast Battler of the Dragon Isles,,16503,-1,-1,0,15119,0,5,131072,106,618972,0,138778,0,0
@@ -8407,16 +8406,16 @@ Defeat the Toxic Swogmother after Purging the Water Intakes in Halls of Infusion
 "Explore Thaldraszus, revealing the covered areas of the world map.",Explore Thaldraszus,,16518,-1,-1,0,15465,0,10,2097152,4,4672499,0,138885,0,0
 "In the Dragon Isles, catch all of the battle pets listed below.",Dragon Isles Safari,,16519,-1,-1,0,15118,0,5,131072,49,4048818,0,138897,0,0
 ,10.0 Dragonflight - Expansion Quest Launch (Meet Wrathion/Ebyssian),,16520,-1,-1,0,92,0,0,18087940,53,136243,0,138923,0,0
-Reach Renown level 25 with the Dragonscale Expedition.,A True Explorer,,16522,-1,-1,0,15466,0,5,0,400,4687628,0,138930,0,0
-Reach Renown level 25 with the Maruuk Centaur,Joining the Khansguard,,16528,-1,-1,0,15466,0,5,0,401,4687627,0,138932,0,0
-Reach Renown level 30 with the Iskaara Tuskarr.,Joining the Community,,16529,-1,-1,0,15466,0,5,0,402,4687629,0,138934,0,0
-Reach Renown level 30 with the Valdrakken Accord.,Ally of the Flights,,16530,-1,-1,0,15466,0,5,0,403,4687630,0,138940,0,0
+Reach Renown level 25 with the Dragonscale Expedition.,A True Explorer,,16522,-1,-1,0,15466,0,5,0,300,4687628,0,138930,0,0
+Reach Renown level 25 with the Maruuk Centaur,Joining the Khansguard,,16528,-1,-1,0,15466,0,5,0,402,4687627,0,138932,0,0
+Reach Renown level 30 with the Iskaara Tuskarr.,Joining the Community,,16529,-1,-1,0,15466,0,5,0,403,4687629,0,138934,0,0
+Reach Renown level 30 with the Valdrakken Accord.,Ally of the Flights,,16530,-1,-1,0,15466,0,5,0,404,4687630,0,138940,0,0
 25 Lunkers found while fishing with an Iskaaran Harpoon.,A Whole Heap of Lunkers,,16531,-1,-1,16533,15466,0,10,0,251,1387362,0,138946,0,0
-Reach Friend reputation with Sabellian.,Friends with Sabellian,,16532,-1,-1,0,15466,0,5,0,404,4559236,0,138944,0,0
+Reach True Friend reputation with Sabellian.,Friends with Sabellian,,16532,-1,-1,0,15466,0,5,0,405,4559236,0,138944,0,0
 10 Lunkers found while fishing with an Iskaaran Harpoon.,Lots of Lunkers,,16533,-1,-1,0,15466,0,10,0,249,4554356,0,138936,0,0
-Reach True Friend reputation with Wrathion.,True Friends with Wrathion,,16536,-1,-1,0,15466,0,5,0,405,1394891,0,138948,0,0
-Reach Maximum reputation with the Cobalt Assembly.,Maximum Power!,,16537,-1,-1,0,15466,0,5,0,406,1394893,0,138950,0,0
-Reach Esteemed reputation with the Artisan's Consortium.,In High Esteem,,16539,-1,-1,0,15466,0,5,0,407,134446,0,138952,0,0
+Reach True Friend reputation with Wrathion.,True Friends with Wrathion,,16536,-1,-1,0,15466,0,5,0,406,1394891,0,138948,0,0
+Reach Maximum reputation with the Cobalt Assembly.,Maximum Power!,,16537,-1,-1,0,15466,0,5,0,407,1394893,0,138950,0,0
+Reach Esteemed reputation with the Artisan's Consortium.,In High Esteem,,16539,-1,-1,0,15466,0,5,0,408,134446,0,138952,0,0
 Complete every Grand Hunt in the Dragon Isles.,Hunt Master,,16540,-1,-1,0,15466,0,15,0,422,461115,0,138954,0,0
 Complete 100 hunt steps.,Longhunter,,16541,-1,-1,0,15466,0,10,128,419,236183,0,139211,0,0
 Find the disgruntled hunter near every Grand Hunt.,The Disgruntled Hunter,,16542,-1,-1,0,15466,0,15,0,421,236444,0,139008,0,0
@@ -8426,7 +8425,7 @@ Kill 30 bosses in Grand Hunts.,The Best at What I Do,,16545,-1,-1,0,15466,0,15,1
 2 Massive Lunkers found at a Large Fish Sighting.,What's Down There?,,16546,-1,-1,0,15466,0,10,0,264,2057311,0,138968,0,0
 Get knocked down while harpoon fishing.,Pulled!,,16547,-1,-1,0,15466,0,10,0,270,135860,0,139006,0,0
 Catch a fish with a friend.,It Takes a Tuskarr Buddy,,16548,-1,-1,0,15466,0,10,0,272,1911518,0,0,0,0
-Reach maximum Renown level with each of the four major factions.,Popular Around the Isles,,16549,-1,-1,0,15466,0,40,0,397,1380676,0,139163,0,0
+Reach maximum Renown level with each of the four major factions.,Popular Around the Isles,,16549,-1,-1,0,15466,0,40,0,398,1380676,0,139163,0,0
 Restock 100 fish in Tuskarr Fishing holes.,Giving Back to Nature,,16550,-1,-1,0,15466,0,10,0,256,236572,0,139168,0,0
 Restock 1000 fish in Tuskarr Fishing holes.,Giving More Back to Nature,,16551,-1,-1,16550,15466,0,10,0,258,236572,0,139170,0,0
 Restock 5000 fish in Tuskarr Fishing holes.,Giving Even More Back to Nature,,16552,-1,-1,16551,15466,0,10,0,260,236572,0,139172,0,0
@@ -8443,28 +8442,28 @@ Catch a fish with 10 friends.,It Takes a Tuskarr Village,,16565,-1,-1,0,15466,0,
 "Take 100 ""Great Shots"" while cataloging wildlife.",Great Shots Galore!,,16568,-1,-1,16567,15466,0,10,0,413,1109170,0,139247,0,0
 Have five or more Wild Arcana powers active at once in the Cobalt Assembly.,Cobalt Enthusiast,,16569,-1,-1,0,15465,0,5,0,38,1041231,0,139249,0,0
 Take photographs of legendary characters while cataloging wildlife.,A Legendary Album,,16570,-1,-1,16573,15466,0,10,0,416,1109168,0,139251,0,0
-Unlock every talent in the Expedition Supplies tree.,Well Supplied,,16571,-1,-1,0,15466,0,10,0,408,1529269,0,139254,0,0
+Unlock every talent in the Expedition Supplies tree.,Well Supplied,,16571,-1,-1,0,15466,0,10,0,409,1529269,0,139254,0,0
 Take a photograph of a legendary character while cataloging wildlife.,Legendary Photograph,,16572,-1,-1,0,15466,0,5,0,414,1109168,0,139271,0,0
 Take photographs of legendary characters while cataloging wildlife.,Legendary Photographs,,16573,-1,-1,16572,15466,0,5,0,415,1109168,0,139279,0,0
-Target and Emote Sleep next to the following Dreamguards in the Ohn'ahran Plains.,Sleeping on the Job,,16574,-1,-1,0,15455,0,5,0,39,341763,0,139287,0,0
-Find the following dragon glyphs in Waking shores.,Waking Shores Glyph Hunter,,16575,-1,-1,0,15462,0,20,131072,184,4672500,0,139294,0,0
-Find the following dragon glyphs in Ohn'ahran Plains.,Ohn'ahran Plains Glyph Hunter,,16576,-1,-1,0,15462,0,20,131072,185,4672498,0,139305,0,0
+Target and Emote Sleep next to the following Dreamguards in the Ohn'ahran Plains.,Sleeping on the Job,,16574,-1,-1,0,15455,0,5,0,43,341763,0,139287,0,0
+Find the following dragon glyphs in the Waking Shores.,Waking Shores Glyph Hunter,,16575,-1,-1,0,15462,0,20,131072,184,4672500,0,139294,0,0
+Find the following dragon glyphs in the Ohn'ahran Plains.,Ohn'ahran Plains Glyph Hunter,,16576,-1,-1,0,15462,0,20,131072,185,4672498,0,139305,0,0
 Find the following dragon glyphs in the Azure Span.,Azure Span Glyph Hunter,,16577,-1,-1,0,15462,0,20,131072,186,4672495,0,139316,0,0
 Find the following dragon glyphs in Thaldraszus.,Thaldraszus Glyph Hunter,,16578,-1,-1,0,15462,0,20,131072,187,4672499,0,139327,0,0
-"Complete the optional quests from Camp Antonidas, Iskaara, and Three Falls Lookout listed below.",Lend a Helping Span,,16580,-1,-1,0,15455,0,10,0,13,2735955,0,139338,0,0
+"Complete the optional quests from Camp Antonidas, Iskaara, and Three Falls Lookout listed below.",Lend a Helping Span,,16580,-1,-1,0,15455,0,10,0,15,2735955,0,139338,0,0
 Fly from the top of the Azure Archives to the Cobalt Assembly without landing.,Seeing Blue,,16581,-1,-1,0,15465,0,10,0,39,2103880,0,139355,0,0
 "While disguised as a Nokhud Martial, complete the training course in Nokhudon Hold.",Knew You Nokhud Do It!,,16583,-1,-1,0,15465,0,10,0,29,1103068,0,139359,0,0
 Release 10 Hope Kites that were tethered by locals of the Waking Shores while waiting for the dragonflights' return.,Symbols of Hope,,16584,-1,-1,0,15465,0,5,0,21,133837,0,139361,0,0
-Complete the Dragon Isles quest achievements listed below.,Loremaster of the Dragon Isles,,16585,-1,-1,0,15455,0,10,131072,6,4672500,0,139372,0,0
+Complete the Dragon Isles quest achievements listed below.,Loremaster of the Dragon Isles,,16585,-1,-1,0,15455,0,10,131072,8,4672500,0,139372,0,0
 Complete 10 climbing World Quests.,Lead Climber,,16587,-1,-1,0,15466,0,5,0,243,252175,0,139433,0,0
 Collect 10 Lost Supplies during climbing World Quests.,How Did These Get Here?,,16588,-1,-1,0,15466,0,5,0,245,1519426,0,139446,0,0
-Complete each of the following World PVP World Quests in the Dragon Isles while in War Mode.,Malicia's Challenge,,16589,-1,-1,0,15283,0,5,0,15,4549844,0,139501,0,0
-Complete each of the following World PVP World Quests 20 times in the Dragon Isles while in War Mode.,A Champion's Tour: Dragon Isles,,16590,-1,-1,0,15283,0,20,0,14,4673943,0,139510,0,0
+Complete each of the following World PVP World Quests in the Dragon Isles while in War Mode.,Malicia's Challenge,,16589,-1,-1,0,15283,0,5,0,18,4549844,0,139501,0,0
+Complete each of the following World PVP World Quests 20 times in the Dragon Isles while in War Mode.,A Champion's Tour: Dragon Isles,,16590,-1,-1,0,15283,0,20,0,17,4673943,0,139510,0,0
 "Acquire assistance from Rupert, the Gentleman Elemental 30 times during climbing World Quests.",The Gentleman Elemental,,16591,-1,-1,0,15466,0,5,0,246,133146,0,139459,0,0
-Earn 1000 honor in The Waking Shores while in War Mode.,Tour of Duty: The Waking Shores,,16592,-1,-1,0,15283,0,10,0,13,4672500,0,139517,0,0
-Earn 1000 honor in Thaldraszus while in War Mode.,Tour of Duty: Thaldraszus,,16593,-1,-1,0,15283,0,10,0,10,4672499,0,139523,0,0
-Earn 1000 honor in The Azure Span while in War Mode.,Tour of Duty: The Azure Span,,16594,-1,-1,0,15283,0,10,0,11,4672495,0,139521,0,0
-Earn 1000 honor in Ohn'ahran Plains while in War Mode.,Tour of Duty: Ohn'ahran Plains,,16595,-1,-1,0,15283,0,10,0,12,4672498,0,139519,0,0
+Earn 1000 honor in The Waking Shores while in War Mode.,Tour of Duty: The Waking Shores,,16592,-1,-1,0,15283,0,10,0,16,4672500,0,139517,0,0
+Earn 1000 honor in Thaldraszus while in War Mode.,Tour of Duty: Thaldraszus,,16593,-1,-1,0,15283,0,10,0,13,4672499,0,139523,0,0
+Earn 1000 honor in The Azure Span while in War Mode.,Tour of Duty: The Azure Span,,16594,-1,-1,0,15283,0,10,0,14,4672495,0,139521,0,0
+Earn 1000 honor in Ohn'ahran Plains while in War Mode.,Tour of Duty: Ohn'ahran Plains,,16595,-1,-1,0,15283,0,10,0,15,4672498,0,139519,0,0
 Kill the following Elites in the Dragon Isles while in War Mode.,A Champion's Pursuit,,16599,-1,-1,0,15283,0,10,0,9,1385913,0,139572,0,0
 Complete a climbing World Quest in each of the Dragon Isle Zones.,Isles Ascender,,16600,-1,-1,0,15466,0,10,0,247,3056991,0,139478,0,0
 Complete the World PvP achievements listed below.,Dragonfight Club,Title: Malicious,16601,-1,-1,0,15283,0,25,0,8,985880,0,139577,0,0
@@ -8487,7 +8486,7 @@ Use the Buddy System 10 times during climbing World Quests.,Belay On!,,16625,-1,
 "Raise all primary professions to maximum skill points in the ""Dragon Isles"" category.",Draconic Master of All,,16630,-1,-1,0,169,0,50,143360,62,133053,0,139549,0,0
 "Obtain 100 skill points in the ""Dragon Isles"" category of cooking.",Dragon Isles Cook,,16631,-1,-1,0,170,0,10,0,13,4620671,0,139561,0,0
 "Obtain 100 skill points in the ""Dragon Isles"" category of fishing.",Dragon Isles Fisherman,,16632,-1,-1,0,171,0,10,0,15,4620674,0,139563,0,0
-,<DNT> Maruuk Centaur Rank 25 + Title Quest,,16633,-1,-1,0,15466,0,0,3145728,392,136243,0,139592,0,0
+,<DNT> Maruuk Centaur Rank 25 + Title Quest,,16633,-1,-1,0,15466,0,0,3145728,393,136243,0,139592,0,0
 Take pictures with a the S.E.L.F.I.E. camera at all of the vistas listed below in Thaldraszus.,Framing a New Perspective,,16634,-1,-1,0,15465,0,10,0,33,1109100,0,139594,0,0
 Realign the ley lines of the Azure Span,Ley Line in the Span,,16638,-1,-1,0,15465,0,5,0,40,1033908,0,139595,0,0
 "Complete Uldaman: Legacy of Tyr at Mythic Level 20 or higher, within the time limit.",Keystone Hero: Uldaman: Legacy of Tyr,Reward: Teleport to Uldaman: Legacy of Tyr,16639,2451,-1,0,15272,0,0,2048,22,4578418,0,139632,0,0
@@ -8506,10 +8505,10 @@ Attain a Mythic+ Rating of at least 2500 during Dragonflight Season One.,Dragonf
 "Complete Halls of Valor at Mythic Level 20 or higher, within the time limit.",Keystone Hero: Halls of Valor,Reward: Teleport to Halls of Valor,16659,1477,-1,0,15272,0,0,2048,9,1417427,0,139703,0,0
 "Complete Shadowmoon Burial Grounds at Mythic Level 20 or higher, within the time limit.",Keystone Hero: Shadowmoon Burial Grounds,Reward: Teleport to Shadowmoon Burial Grounds,16660,1176,-1,0,15272,0,0,2048,8,1002600,0,139705,0,0
 "Complete Temple of the Jade Serpent at Mythic Level 20 or higher, within the time limit.",Keystone Hero: Temple of the Jade Serpent,Reward: Teleport to Temple of the Jade Serpent,16661,960,-1,0,15272,0,0,2048,5,603529,0,139707,0,0
-,Dragon Isles Blacksmithing 75 (DNT),,16662,-1,-1,0,169,0,0,9437188,12,136243,0,134151,0,0
-,Dragon Isles Tailoring 75 (DNT),,16663,-1,-1,0,169,0,0,9437188,74,136243,0,134231,0,0
-,Dragon Isles Jewelcrafting 75 (DNT),,16664,-1,-1,0,169,0,0,9437188,45,136243,0,134199,0,0
-,Dragon Isles Engineering 75 (DNT),,16665,-1,-1,0,169,0,0,9437188,26,136243,0,134175,0,0
+,Dragon Isles Blacksmithing 60 (DNT),,16662,-1,-1,0,169,0,0,9437188,12,136243,0,134151,0,0
+,Dragon Isles Tailoring 60 (DNT),,16663,-1,-1,0,169,0,0,9437188,74,136243,0,134231,0,0
+,Dragon Isles Jewelcrafting 60 (DNT),,16664,-1,-1,0,169,0,0,9437188,45,136243,0,134199,0,0
+,Dragon Isles Engineering 60 (DNT),,16665,-1,-1,0,169,0,0,9437188,26,136243,0,134175,0,0
 Collect the dragon glyph near Gelikyr Overlook.,Dragon Glyphs: Gelikyr Overlook,,16666,-1,-1,0,15462,0,0,1179648,234,4728198,0,0,0,0
 Collect the dragon glyph on the approach to the Passage of Time.,Dragon Glyphs: Passage of Time,,16667,-1,-1,0,15462,0,0,1179648,235,4728198,0,0,0,0
 Collect the dragon glyph near the Skytop Observatory Rostrum of Transformation.,Dragon Glyphs: Skytop Observatory Rostrum,,16668,-1,-1,0,15462,0,0,1179648,189,4728198,0,0,0,0
@@ -8524,7 +8523,22 @@ Complete 10 of the following special encounters in The Azure Span.,Adventurer of
 Complete 10 of the following special encounters in Thaldraszus.,Adventurer of Thaldraszus,,16679,-1,-1,0,15465,0,5,0,9,4638396,0,139819,0,0
 ,10.0 Dragonflight - Expansion Quest Launch (Return to Docks),,16681,-1,-1,0,92,0,0,18087940,54,136243,0,139848,0,0
 Complete the quest achievements listed below.,In Tyr's Footsteps,Reward: Bottled Essence Detector,16683,-1,-1,0,169,0,15,135168,47,4554442,0,139850,0,0
+Collect the following cosmetic armor unlocks for the Renewed Proto-Drake.,Renewed Proto-Drake Armor,,16696,-1,-1,0,15478,0,5,131072,2,4622499,0,140028,0,0
+Collect the following cosmetic head unlocks for the Renewed Proto-Drake.,Renewed Proto-Drake Head Features,,16697,-1,-1,0,15478,0,5,131072,4,4622499,0,140038,0,0
+Collect the following cosmetic tail unlocks for the Renewed Proto-Drake.,Renewed Proto-Drake Tail Features,,16698,-1,-1,0,15478,0,5,131072,5,4622499,0,140076,0,0
+Collect the following cosmetic scale and pattern unlocks for the Renewed Proto-Drake.,Renewed Proto-Drake Scales and Patterns,,16699,-1,-1,0,15478,0,5,131072,1,4622499,0,140085,0,0
+Collect the following cosmetic horn and hair unlocks for the Renewed Proto-Drake.,Renewed Proto-Drake Horns and Hair,,16700,-1,-1,0,15478,0,5,131072,3,4622499,0,140098,0,0
+Collect the following cosmetic scale and pattern unlocks for the Windborne Velocidrake.,Windborne Velocidrake Scales and Patterns,,16701,-1,-1,0,15478,0,5,131072,6,4622500,0,140116,0,0
+Collect the following cosmetic armor unlocks for the Windborne Velocidrake.,Windborne Velocidrake Armor,,16702,-1,-1,0,15478,0,5,131072,7,4622500,0,140127,0,0
 ,10.0 Thal - Raid Intro Quest Launch [DNT],,16703,-1,-1,0,92,0,0,3407876,57,4630363,0,140096,0,0
+Collect the following cosmetic horn and fur unlocks for the Windborne Velocidrake.,Windborne Velocidrake Horns and Fur,,16704,-1,-1,0,15478,0,5,131072,8,4622500,0,140137,0,0
+Collect the following cosmetic head unlocks for the Windborne Velocidrake.,Windborne Velocidrake Head Features,,16705,-1,-1,0,15478,0,5,131072,9,4622500,0,140148,0,0
+Collect the following cosmetic back and tail unlocks for the Windborne Velocidrake.,Windborne Velocidrake Back and Tail,,16706,-1,-1,0,15478,0,5,131072,10,4622500,0,140169,0,0
+Collect the following cosmetic scale and pattern unlocks for the Highland Drake.,Highland Drake Scales and Patterns,,16707,-1,-1,0,15478,0,5,131072,11,4622497,0,140180,0,0
+Collect the following cosmetic armor unlocks for the Highland Drake.,Highland Drake Armor,,16708,-1,-1,0,15478,0,5,131072,12,4622497,0,140191,0,0
+Collect the following cosmetic horn and hair unlocks for the Highland Drake.,Highland Drake Horns and Hair,,16710,-1,-1,0,15478,0,5,131072,13,4622497,0,140199,0,0
+Collect the following cosmetic back and tail unlocks for the Highland Drake.,Highland Drake Back and Tail,,16711,-1,-1,0,15478,0,5,131072,15,4622497,0,140212,0,0
+Collect the following cosmetic head unlocks for the Highland Drake.,Highland Drake Head Features,,16712,-1,-1,0,15478,0,5,131072,14,4622497,0,140222,0,0
 ,<DNT> Wrathion - 1 - Trusted Champion,,16713,-1,-1,0,15466,0,0,3145728,423,136243,0,140253,0,0
 ,<DNT> Wrathion - 2 - Ally,,16714,-1,-1,0,15466,0,0,3145728,424,136243,0,140255,0,0
 ,<DNT> Wrathion - 3 - Close Ally,,16715,-1,-1,0,15466,0,0,3145728,425,136243,0,140257,0,0
@@ -8535,11 +8549,17 @@ Complete the quest achievements listed below.,In Tyr's Footsteps,Reward: Bottled
 ,<DNT> Sabellian - 3 - Ally,,16720,-1,-1,0,15466,0,0,3145728,430,136243,0,140267,0,0
 ,<DNT> Sabellian - 4 - Fang,,16721,-1,-1,0,15466,0,0,3145728,431,136243,0,140269,0,0
 ,<DNT> Sabellian - 5 - Friend,,16722,-1,-1,0,15466,0,0,3145728,432,136243,0,140271,0,0
+Collect the following cosmetic scale and pattern unlocks for the Cliffside Wylderdrake.,Cliffside Wylderdrake Scales and Patterns,,16723,-1,-1,0,15478,0,5,131072,16,4622502,0,140290,0,0
+Collect the following cosmetic armor unlocks for the Cliffside Wylderdrake.,Cliffside Wylderdrake Armor,,16724,-1,-1,0,15478,0,5,131072,17,4622502,0,140300,0,0
+Collect the following cosmetic horn and mane unlocks for the Cliffside Wylderdrake.,Cliffside Wylderdrake Horns and Manes,,16725,-1,-1,0,15478,0,5,131072,18,4622502,0,140309,0,0
+Collect the following cosmetic back and tail unlocks for the Cliffside Wylderdrake.,Cliffside Wylderdrake Back and Tail,,16726,-1,-1,0,15478,0,5,131072,20,4622502,0,140324,0,0
+Collect the following cosmetic head unlocks for the Cliffside Wylderdrake.,Cliffside Wylderdrake Head Features,,16727,-1,-1,0,15478,0,5,131072,19,4622502,0,140333,0,0
 "The critters of the Dragon Isles have gone 10,000 years without anyone to show them /love.",To All the Squirrels Hidden Til Now,,16729,-1,-1,0,15465,0,10,0,41,237182,0,140360,0,0
 Obtain the Crimson Gladiator's Drake from Dragonflight Season 1.,Crimson Gladiator's Drake,,16730,-1,-1,0,15269,1,0,145408,51,4571779,0,140414,0,0
-Collect all of the battle pets listed below.,Court is Now in Session,Title Reward: Knight of Feathersworth,16731,-1,-1,0,15118,0,10,131072,61,2103802,0,140575,0,0
-End Dragonflight PvP Season 1 in the top 0.1% of the Solo Shuffle ladder (requires 50 games won on your current faction in Dragonflight Season 1).,Crimson Soloist: Dragonflight Season 1,Title Reward: Crimson Soloist,16734,-1,-1,0,15270,0,0,14336,237,236540,0,0,0,0
+End Dragonflight PvP Season 1 in the top 0.1% of the Solo Shuffle ladder (requires 50 games won on your current faction in Dragonflight Season 1).,Crimson Legend: Dragonflight Season 1,Title Reward: Crimson Legend,16734,-1,-1,0,15270,0,0,14336,237,236540,0,0,0,0
+,10.0.5 Trading Post - Tutorial Quest - Objective: Tenders Claimed - JZB <DND>,,16735,-1,-1,0,92,0,0,3276804,92,136243,0,0,0,0
 Liberate a Qalashi magmammoth... permanently.,Grand Theft Mammoth,,16736,-1,-1,0,15248,0,10,0,9,4034835,0,140652,0,0
+,10.0.5 Trading Post - Tutorial Quest - Completed (Reward for Player) - JZB <DND>,,16737,-1,-1,0,92,0,0,3276804,94,136243,0,140712,0,0
 ,Total Crafting Orders Fulfilled,,16745,-1,-1,0,173,0,0,1,63,136243,0,140681,0,0
 ,Public Crafting Orders Fulfilled,,16746,-1,-1,0,173,0,0,1,64,136243,0,140683,0,0
 ,Guild Crafting Orders Fulfilled,,16747,-1,-1,0,173,0,0,1,65,136243,0,140685,0,0
@@ -8552,8 +8572,8 @@ Liberate a Qalashi magmammoth... permanently.,Grand Theft Mammoth,,16736,-1,-1,0
 ,Jewelcrafting Crafting Orders Fulfilled,,16754,-1,-1,0,173,0,0,524289,72,136243,0,140699,0,0
 ,Leatherworking Crafting Orders Fulfilled,,16755,-1,-1,0,173,0,0,524289,73,136243,0,140701,0,0
 ,Tailoring Crafting Orders Fulfilled,,16756,-1,-1,0,173,0,0,524289,74,136243,0,140703,0,0
-Unlock cataloging World Quests with the Dragonscale Expedition.,"Ready, Aim, Catalog!",,16758,-1,-1,0,15466,0,5,131072,409,1109100,0,140719,0,0
-,<Hidden> Adventure Mode - Reached Dragon Isles,,16759,-1,-1,0,15455,0,0,1048576,29,136243,0,140721,0,0
+Unlock cataloging World Quests with the Dragonscale Expedition.,"Ready, Aim, Catalog!",,16758,-1,-1,0,15466,0,5,131072,401,1109100,0,140719,0,0
+,<Hidden> Adventure Mode - Reached Dragon Isles,,16759,-1,-1,0,15455,0,0,1048576,34,136243,0,140721,0,0
 Reach the maximum friendship with Sabellian at the Obsidian Throne.,The Obsidian Bloodline,Title Reward: Paragon of the Obsidian Brood,16760,-1,-1,0,15466,0,10,131072,276,132768,0,140725,0,0
 Explore the regions of the Dragon Isles.,Dragon Isles Explorer,,16761,-1,-1,0,97,0,25,131072,19,4661645,0,140738,0,0
 Free every Captive Tuskarr in a Meat Storage in a single visit to Brackenhide Hollow.,The Vegetarian Diet,Reward: Happy Tuskarr Palooza,16762,2520,-1,0,15467,0,10,0,30,4635249,200631,140932,0,0
@@ -8579,8 +8599,8 @@ Collect any armor set from Dragonflight PvP Season 1.,Crimson Carpet Fashion,,16
 ,<DNT> Cobalt Assembly Talent: Extra Wild Arcana,,16783,-1,-1,0,15466,0,0,3276804,451,136243,0,140800,0,0
 ,<DNT> Cobalt Assembly Talent: Unhelpful Fireworks,,16784,-1,-1,0,15466,0,0,3276804,452,136243,0,140802,0,0
 ,<DNT> Dragonscale Expedition Rank 02 (Account),,16786,-1,-1,0,15466,0,0,3276800,255,136243,0,140911,0,0
-,<DNT> Maruuk Centaur Rank 03 (Account),,16787,-1,-1,0,15466,0,0,3276800,368,136243,0,140914,0,0
-,<DNT> Maruuk Centaur Rank 03 (Character),,16788,-1,-1,0,15466,0,0,3145728,369,136243,0,140917,0,0
+,<DNT> Maruuk Centaur Rank 03 (Account),,16787,-1,-1,0,15466,0,0,3276800,369,136243,0,140914,0,0
+,<DNT> Maruuk Centaur Rank 03 (Character),,16788,-1,-1,0,15466,0,0,3145728,370,136243,0,140917,0,0
 Discover some money in your Adventure Guide.,Lucky Penny,,16789,-1,-1,0,97,0,5,0,20,237283,0,140920,0,0
 Discover a secret in your Adventure Guide.,Curious Coin,,16790,-1,-1,16789,97,0,5,0,21,133791,0,140922,0,0
 Fulfill 1000 Crafting Orders.,Merchant Artisan,Title Reward: Merchant Artisan,16791,-1,-1,0,169,0,50,4096,89,4557373,0,140936,0,0
@@ -8588,12 +8608,12 @@ Fulfill 1000 Crafting Orders.,Merchant Artisan,Title Reward: Merchant Artisan,16
 "Fulfill 10,000 Guild Crafting Orders.",Crafting Cooperative,,16798,-1,-1,0,15080,0,10,28672,23,4557373,0,140944,0,0
 Fulfill 500 Personal Crafting Orders,Personal Crafter,Title Reward: Personal Crafter,16799,-1,-1,0,169,0,25,4096,88,4557373,0,140946,0,0
 Participated in the realm-first completion of a Level 20 or higher Dragonflight Season 1 Mythic dungeon within the time limit.,Realm First! Dragonflight Keystone Hero,,16801,-1,-1,0,81,0,0,12544,115,618859,0,140970,0,0
-,<Hidden> ACCOUNT: Renown Campaign Complete - Dragonscale 1,,16802,-1,-1,0,15455,0,0,3276804,15,136243,0,141074,0,0
-,<Hidden> ACCOUNT: Renown Campaign Complete - Dragonscale 2,,16803,-1,-1,0,15455,0,0,3276804,16,136243,0,141076,0,0
-,<Hidden> ACCOUNT: Renown Campaign Complete - Tuskarr 1,,16804,-1,-1,0,15455,0,0,3276804,17,136243,0,141078,0,0
-,<Hidden> ACCOUNT: Renown Campaign Complete - Green 1+2,,16805,-1,-1,0,15455,0,0,3276804,18,136243,0,141080,0,0
-,<Hidden> ACCOUNT: Renown Campaign Complete - Tyr 1,,16807,-1,-1,0,15455,0,0,3276804,19,136243,0,141084,0,0
-Complete the Dragon Isles renown campaigns listed below.,Friend of the Dragon Isles,,16808,-1,-1,0,15455,0,15,131072,12,4672499,0,141086,0,0
+,<Hidden> ACCOUNT: Renown Campaign Complete - Dragonscale 1,,16802,-1,-1,0,15455,0,0,3276804,18,136243,0,141074,0,0
+,<Hidden> ACCOUNT: Renown Campaign Complete - Dragonscale 2,,16803,-1,-1,0,15455,0,0,3276804,19,136243,0,141076,0,0
+,<Hidden> ACCOUNT: Renown Campaign Complete - Tuskarr 1,,16804,-1,-1,0,15455,0,0,3276804,20,136243,0,141078,0,0
+,<Hidden> ACCOUNT: Renown Campaign Complete - Green 1+2,,16805,-1,-1,0,15455,0,0,3276804,21,136243,0,141080,0,0
+,<Hidden> ACCOUNT: Renown Campaign Complete - Tyr 1,,16807,-1,-1,0,15455,0,0,3276804,22,136243,0,141084,0,0
+Complete the Dragon Isles renown campaigns listed below.,Friend of the Dragon Isles,,16808,-1,-1,0,15455,0,15,131072,14,4672499,0,141086,0,0
 ,<DNT> Dragonscale Expedition Rank 01 (Account),,16856,-1,-1,0,15466,0,0,3276800,44,136243,0,141163,0,0
 ,<DNT> Dragonscale Expedition Rank 01 (Character),,16857,-1,-1,0,15466,0,0,3145728,45,136243,0,141166,0,0
 ,<DNT> Dragonscale Expedition Rank 02 (Account),,16858,-1,-1,0,15466,0,0,3276800,46,136243,0,141169,0,0
@@ -8852,6 +8872,112 @@ Defeat the following bosses in the deepest reaches of the Vault of the Incarnate
 Among the first one hundred Alliance guilds worldwide to defeat Raszageth the Storm-Eater on Mythic difficulty.,Hall of Fame: Raszageth the Storm-Eater (Alliance),Title Reward: Famed Slayer of Raszageth,17116,2481,-1,0,15093,0,0,4258304,45,4630364,0,141937,0,0
 Among the first one hundred Horde guilds worldwide to defeat Raszageth the Storm-Eater on Mythic difficulty.,Hall of Fame: Raszageth the Storm-Eater (Horde),Title Reward: Famed Slayer of Raszageth,17118,2522,-1,0,15093,0,0,4258304,46,4630364,0,141939,0,0
 Complete one of the achievements or feats of strength listed below.,Deep Cuts From the Vault,Reward: Gleaming Incarnate Thunderstone,17119,-1,-1,0,15259,0,10,131072,81,4630363,202047,141945,0,0
+Complete Waking Shores Ruby Lifeshrine Loop Reverse.,Ruby Lifeshrine Loop Reverse: Bronze,,17120,-1,-1,0,15462,0,0,1048576,248,1002572,0,0,0,0
+Get Silver ranked time for Waking Shores Ruby Lifeshrine Loop Reverse.,Ruby Lifeshrine Loop Reverse: Silver,,17121,-1,-1,17120,15462,0,0,1048576,249,1002575,0,0,0,0
+Get Gold ranked time for Waking Shores Ruby Lifeshrine Loop Reverse.,Ruby Lifeshrine Loop Reverse: Gold,,17122,-1,-1,17121,15462,0,0,1048576,250,1002573,0,0,0,0
+Complete Waking Shores Wild Preserve Slalom Reverse.,Wild Preserve Slalom Reverse: Bronze,,17123,-1,-1,0,15462,0,0,1048576,251,1002572,0,0,0,0
+Get Silver ranked time for Waking Shores Wild Preserve Slalom Reverse.,Wild Preserve Slalom Reverse: Silver,,17124,-1,-1,17123,15462,0,0,1048576,252,1002575,0,0,0,0
+Get Gold ranked time for Waking Shores Wild Preserve Slalom Reverse.,Wild Preserve Slalom Reverse: Gold,,17125,-1,-1,17124,15462,0,0,1048576,253,1002573,0,0,0,0
+Complete Waking Shores Emberflow Flight Reverse.,Emberflow Flight Reverse: Bronze,,17126,-1,-1,0,15462,0,0,1048576,254,1002572,0,0,0,0
+Get Silver ranked time for Waking Shores Emberflow Flight Reverse.,Emberflow Flight Reverse: Silver,,17127,-1,-1,17126,15462,0,0,1048576,255,1002575,0,0,0,0
+Get Gold ranked time for Waking Shores Emberflow Flight Reverse.,Emberflow Flight Reverse: Gold,,17128,-1,-1,17127,15462,0,0,1048576,256,1002573,0,0,0,0
+Complete Waking Shores Apex Canopy River Run Reverse.,Apex Canopy River Run Reverse: Bronze,,17129,-1,-1,0,15462,0,0,1048576,257,1002572,0,0,0,0
+Get Silver ranked time for Waking Shores Apex Canopy River Run Reverse.,Apex Canopy River Run Reverse: Silver,,17130,-1,-1,17129,15462,0,0,1048576,258,1002575,0,0,0,0
+Get Gold ranked time for Waking Shores Apex Canopy River Run Reverse.,Apex Canopy River Run Reverse: Gold,,17131,-1,-1,17130,15462,0,0,1048576,259,1002573,0,0,0,0
+Complete Waking Shores Uktulut Coaster Reverse.,Uktulut Coaster Reverse: Bronze,,17132,-1,-1,0,15462,0,0,1048576,260,1002572,0,0,0,0
+Get Silver ranked time for Waking Shores Uktulut Coaster Reverse.,Uktulut Coaster Reverse: Silver,,17133,-1,-1,17132,15462,0,0,1048576,261,1002575,0,0,0,0
+Get Gold ranked time for Waking Shores Uktulut Coaster Reverse.,Uktulut Coaster Reverse: Gold,,17134,-1,-1,17133,15462,0,0,1048576,262,1002573,0,0,0,0
+Complete Waking Shores Wingrest Roundabout Reverse.,Wingrest Roundabout Reverse: Bronze,,17135,-1,-1,0,15462,0,0,1048576,263,1002572,0,0,0,0
+Get Silver ranked time for Waking Shores Wingrest Roundabout Reverse.,Wingrest Roundabout Reverse: Silver,,17136,-1,-1,17135,15462,0,0,1048576,264,1002575,0,0,0,0
+Get Gold ranked time for Waking Shores Wingrest Roundabout Reverse.,Wingrest Roundabout Reverse: Gold,,17137,-1,-1,17136,15462,0,0,1048576,265,1002573,0,0,0,0
+Complete Waking Shores Flashfrost Flyover Reverse.,Flashfrost Flyover Reverse: Bronze,,17138,-1,-1,0,15462,0,0,1048576,266,1002572,0,0,0,0
+Get Silver ranked time for Waking Shores Flashfrost Flyover Reverse.,Flashfrost Flyover Reverse: Silver,,17139,-1,-1,17138,15462,0,0,1048576,267,1002575,0,0,0,0
+Get Gold ranked time for Waking Shores Flashfrost Flyover Reverse.,Flashfrost Flyover Reverse: Gold,,17140,-1,-1,17139,15462,0,0,1048576,268,1002573,0,0,0,0
+Complete Waking Shores Wild Preserve Circuit Reverse.,Wild Preserve Circuit Reverse: Bronze,,17141,-1,-1,0,15462,0,0,1048576,269,1002572,0,0,0,0
+Get Silver ranked time for Waking Shores Wild Preserve Circuit Reverse.,Wild Preserve Circuit Reverse: Silver,,17142,-1,-1,17141,15462,0,0,1048576,270,1002575,0,0,0,0
+Get Gold ranked time for Waking Shores Wild Preserve Circuit Reverse.,Wild Preserve Circuit Reverse: Gold,,17143,-1,-1,17142,15462,0,0,1048576,271,1002573,0,0,0,0
+Complete Ohn'ahran Plains Sundapple Copse Circuit Reverse.,Sundapple Copse Circuit Reverse: Bronze,,17144,-1,-1,0,15462,0,0,1048576,272,1002572,0,0,0,0
+Get Silver ranked time for Ohn'ahran Plains Sundapple Copse Circuit Reverse.,Sundapple Copse Circuit Reverse: Silver,,17145,-1,-1,17144,15462,0,0,1048576,273,1002575,0,0,0,0
+Get Gold ranked time for Ohn'ahran Plains Sundapple Copse Circuit Reverse.,Sundapple Copse Circuit Reverse: Gold,,17146,-1,-1,17145,15462,0,0,1048576,274,1002573,0,0,0,0
+Complete Ohn'ahran Plains Fen Flythrough Reverse.,Fen Flythrough Reverse: Bronze,,17147,-1,-1,0,15462,0,0,1048576,275,1002572,0,0,0,0
+Get Silver ranked time for Ohn'ahran Plains Fen Flythrough Reverse.,Fen Flythrough Reverse: Silver,,17148,-1,-1,17147,15462,0,0,1048576,276,1002575,0,0,0,0
+Get Gold ranked time for Ohn'ahran Plains Fen Flythrough Reverse.,Fen Flythrough Reverse: Gold,,17149,-1,-1,17148,15462,0,0,1048576,277,1002573,0,0,0,0
+Complete Ohn'ahran Plains Ravine River Run Reverse.,Ravine River Run Reverse: Bronze,,17150,-1,-1,0,15462,0,0,1048576,278,1002572,0,0,0,0
+Get Silver ranked time for Ohn'ahran Plains Ravine River Run Reverse.,Ravine River Run Reverse: Silver,,17151,-1,-1,17150,15462,0,0,1048576,279,1002575,0,0,0,0
+Get Gold ranked time for Ohn'ahran Plains Ravine River Run Reverse.,Ravine River Run Reverse: Gold,,17152,-1,-1,17151,15462,0,0,1048576,280,1002573,0,0,0,0
+Complete Ohn'ahran Plains Emerald Garden Ascent Reverse.,Emerald Garden Ascent Reverse: Bronze,,17153,-1,-1,0,15462,0,0,1048576,281,1002572,0,0,0,0
+Get Silver ranked time for Ohn'ahran Plains Emerald Garden Ascent Reverse.,Emerald Garden Ascent Reverse: Silver,,17154,-1,-1,17153,15462,0,0,1048576,282,1002575,0,0,0,0
+Get Gold ranked time for Ohn'ahran Plains Emerald Garden Ascent Reverse.,Emerald Garden Ascent Reverse: Gold,,17155,-1,-1,17154,15462,0,0,1048576,283,1002573,0,0,0,0
+Complete Ohn'ahran Plains River Rapids Route Reverse.,River Rapids Route Reverse: Bronze,,17156,-1,-1,0,15462,0,0,1048576,284,1002572,0,0,0,0
+Get Silver ranked time for Ohn'ahran Plains River Rapids Route Reverse.,River Rapids Route Reverse: Silver,,17157,-1,-1,17156,15462,0,0,1048576,285,1002575,0,0,0,0
+Get Gold ranked time for Ohn'ahran Plains River Rapids Route Reverse.,River Rapids Route Reverse: Gold,,17158,-1,-1,17157,15462,0,0,1048576,286,1002573,0,0,0,0
+Complete The Azure Span Sprint Reverse.,The Azure Span Sprint Reverse: Bronze,,17159,-1,-1,0,15462,0,0,1048576,287,1002572,0,0,0,0
+Get Silver ranked time for The Azure Span Sprint Reverse.,The Azure Span Sprint Reverse: Silver,,17160,-1,-1,17159,15462,0,0,1048576,288,1002575,0,0,0,0
+Get Gold ranked time for The Azure Span Sprint Reverse.,The Azure Span Sprint Reverse: Gold,,17161,-1,-1,17160,15462,0,0,1048576,289,1002573,0,0,0,0
+Complete The Azure Span Slalom Reverse.,The Azure Span Slalom Reverse: Bronze,,17162,-1,-1,0,15462,0,0,1048576,290,1002572,0,0,0,0
+Get Silver ranked time for The Azure Span Slalom Reverse.,The Azure Span Slalom Reverse: Silver,,17163,-1,-1,17162,15462,0,0,1048576,291,1002575,0,0,0,0
+Get Gold ranked time for The Azure Span Slalom Reverse.,The Azure Span Slalom Reverse: Gold,,17164,-1,-1,17163,15462,0,0,1048576,292,1002573,0,0,0,0
+Complete Azure Span Vakthros Ascent Reverse.,The Vakthros Ascent Reverse: Bronze,,17165,-1,-1,0,15462,0,0,1048576,293,1002572,0,0,0,0
+Get Silver ranked time for Azure Span Vakthros Ascent Reverse.,The Vakthros Ascent Reverse: Silver,,17166,-1,-1,17165,15462,0,0,1048576,294,1002575,0,0,0,0
+Get Gold ranked time for Azure Span Vakthros Ascent Reverse.,The Vakthros Ascent Reverse: Gold,,17167,-1,-1,17166,15462,0,0,1048576,295,1002573,0,0,0,0
+Complete Azure Span Iskaara Tour Reverse.,Iskaara Tour Reverse: Bronze,,17168,-1,-1,0,15462,0,0,1048576,296,1002572,0,0,0,0
+Get Silver ranked time for Azure Span Iskaara Tour Reverse.,Iskaara Tour Reverse: Silver,,17169,-1,-1,17168,15462,0,0,1048576,297,1002575,0,0,0,0
+Get Gold ranked time for Azure Span Iskaara Tour Reverse.,Iskaara Tour Reverse: Gold,,17170,-1,-1,17169,15462,0,0,1048576,298,1002573,0,0,0,0
+Complete Azure Span Frostland Flyover Reverse.,Frostland Flyover Reverse: Bronze,,17171,-1,-1,0,15462,0,0,1048576,299,1002572,0,0,0,0
+Get Silver ranked time for Azure Span Frostland Flyover Reverse.,Frostland Flyover Reverse: Silver,,17172,-1,-1,17171,15462,0,0,1048576,300,1002575,0,0,0,0
+Get Gold ranked time for Azure Span Frostland Flyover Reverse.,Frostland Flyover Reverse: Gold,,17173,-1,-1,17172,15462,0,0,1048576,301,1002573,0,0,0,0
+Complete Azure Span Archive Ambit Reverse.,Archive Ambit Reverse: Bronze,,17174,-1,-1,0,15462,0,0,1048576,302,1002572,0,0,0,0
+Get Silver ranked time for Azure Span Archive Ambit Reverse.,Archive Ambit Reverse: Silver,,17175,-1,-1,17174,15462,0,0,1048576,303,1002575,0,0,0,0
+Get Gold ranked time for Azure Span Archive Ambit Reverse.,Archive Ambit Reverse: Gold,,17176,-1,-1,17175,15462,0,0,1048576,304,1002573,0,0,0,0
+Complete Thaldraszus Flowing Forest Flight Reverse.,The Flowing Forest Flight Reverse: Bronze,,17177,-1,-1,0,15462,0,0,1048576,305,1002572,0,0,0,0
+Get Silver ranked time for Thaldraszus Flowing Forest Flight Reverse.,The Flowing Forest Flight Reverse: Silver,,17178,-1,-1,17177,15462,0,0,1048576,306,1002575,0,0,0,0
+Get Gold ranked time for Thaldraszus Flowing Forest Flight Reverse.,The Flowing Forest Flight Reverse: Gold,,17179,-1,-1,17178,15462,0,0,1048576,307,1002573,0,0,0,0
+Complete Thaldraszus Tyrhold Trial Reverse.,Tyrhold Trial Reverse: Bronze,,17180,-1,-1,0,15462,0,0,1048576,308,1002572,0,0,0,0
+Get Silver ranked time for Thaldraszus Tyrhold Trial Reverse.,Tyrhold Trial Reverse: Silver,,17181,-1,-1,17180,15462,0,0,1048576,309,1002575,0,0,0,0
+Get Gold ranked time for Thaldraszus Tyrhold Trial Reverse.,Tyrhold Trial Reverse: Gold,,17182,-1,-1,17181,15462,0,0,1048576,310,1002573,0,0,0,0
+Complete Thaldraszus Cliffside Circuit Reverse.,Cliffside Circuit Reverse: Bronze,,17183,-1,-1,0,15462,0,0,1048576,311,1002572,0,0,0,0
+Get Silver ranked time for Thaldraszus Cliffside Circuit Reverse.,Cliffside Circuit Reverse: Silver,,17184,-1,-1,17183,15462,0,0,1048576,312,1002575,0,0,0,0
+Get Gold ranked time for Thaldraszus Cliffside Circuit Reverse.,Cliffside Circuit Reverse: Gold,,17185,-1,-1,17184,15462,0,0,1048576,313,1002573,0,0,0,0
+Complete Thaldraszus Academy Ascent Reverse.,Academy Ascent Reverse: Bronze,,17186,-1,-1,0,15462,0,0,1048576,314,1002572,0,0,0,0
+Get Silver ranked time for Thaldraszus Academy Ascent Reverse.,Academy Ascent Reverse: Silver,,17187,-1,-1,17186,15462,0,0,1048576,315,1002575,0,0,0,0
+Get Gold ranked time for Thaldraszus Academy Ascent Reverse.,Academy Ascent Reverse: Gold,,17188,-1,-1,17187,15462,0,0,1048576,316,1002573,0,0,0,0
+Complete Thaldraszus Garden Gallivant Reverse.,Garden Gallivant Reverse: Bronze,,17189,-1,-1,0,15462,0,0,1048576,317,1002572,0,0,0,0
+Get Silver ranked time for Thaldraszus Garden Gallivant Reverse.,Garden Gallivant Reverse: Silver,,17190,-1,-1,17189,15462,0,0,1048576,318,1002575,0,0,0,0
+Get Gold ranked time for Thaldraszus Garden Gallivant Reverse.,Garden Gallivant Reverse: Gold,,17191,-1,-1,17190,15462,0,0,1048576,319,1002573,0,0,0,0
+Complete Thaldraszus Caverns Criss-Cross Reverse.,Caverns Criss-Cross Reverse: Bronze,,17192,-1,-1,0,15462,0,0,1048576,320,1002572,0,0,0,0
+Get Silver ranked time for Thaldraszus Caverns Criss-Cross Reverse.,Caverns Criss-Cross Reverse: Silver,,17193,-1,-1,17192,15462,0,0,1048576,321,1002575,0,0,0,0
+Get Gold ranked time for Thaldraszus Caverns Criss-Cross Reverse.,Caverns Criss-Cross Reverse: Gold,,17194,-1,-1,17193,15462,0,0,1048576,322,1002573,0,0,0,0
+Complete all reverse races in Waking Shores.,Waking Shores Reverse: Bronze,,17195,-1,-1,0,15462,0,10,0,236,1002572,0,142137,0,0
+Obtain silver in all reverse races in Waking Shores.,Waking Shores Reverse: Silver,,17196,-1,-1,17195,15462,0,10,0,237,1002575,0,142146,0,0
+Obtain gold in all reverse races in Waking Shores.,Waking Shores Reverse: Gold,,17197,-1,-1,17196,15462,0,10,0,238,1002573,0,142155,0,0
+Complete all reverse races in Ohn'ahran Plains.,Ohn'ahran Plains Reverse: Bronze,,17198,-1,-1,0,15462,0,10,0,239,1002572,0,142164,0,0
+Obtain silver in all reverse races in Ohn'ahran Plains.,Ohn'ahran Plains Reverse: Silver,,17199,-1,-1,17198,15462,0,10,0,240,1002575,0,142170,0,0
+Obtain gold in all reverse races in Ohn'ahran Plains.,Ohn'ahran Plains Reverse: Gold,,17200,-1,-1,17199,15462,0,10,0,241,1002573,0,142176,0,0
+Complete all reverse races in Azure Span.,Azure Span Reverse: Bronze,,17201,-1,-1,0,15462,0,10,0,242,1002572,0,142182,0,0
+Obtain silver in all reverse races in Azure Span.,Azure Span Reverse: Silver,,17202,-1,-1,17201,15462,0,10,0,243,1002575,0,142189,0,0
+Obtain gold in all reverse races in Azure Span.,Azure Span Reverse: Gold,,17203,-1,-1,17202,15462,0,10,0,244,1002573,0,142196,0,0
+Complete all reverse races in Thaldraszus.,Thaldraszus Reverse: Bronze,,17204,-1,-1,0,15462,0,10,0,245,1002572,0,142203,0,0
+Obtain silver in all reverse races in Thaldraszus.,Thaldraszus Reverse: Silver,,17205,-1,-1,17204,15462,0,10,0,246,1002575,0,142210,0,0
+Obtain gold in all reverse races in Thaldraszus.,Thaldraszus Reverse: Gold,,17206,-1,-1,17205,15462,0,10,0,247,1002573,0,142217,0,0
+Catch 100 fish with the Oversized Bobber.,Discombobberlated,Toy Reward: Reusable Oversized Bobber,17207,-1,-1,0,171,0,10,0,76,4620674,0,142301,0,0
 ,<Hidden> Chromie Time - Hit 59 While In Chromie Time (copy),,17209,-1,-1,0,15422,0,0,1048580,84,136243,0,142314,0,0
 ,<Hidden> Chromie Time - Hit 60 While In Chromie Time (copy),,17210,-1,-1,0,15422,0,0,1048580,85,136243,0,142316,0,0
+Owner of any Dragonflight edition.,Trading Post: Dragonflight,Reward: 500 Trader's Tender,17305,-1,-1,0,92,0,10,2228228,93,4696085,0,142517,0,0
+,10.0 Prologue - Storms - Dimmed Primeval Water,,17310,-1,-1,0,15466,0,0,3276804,453,136243,0,142541,0,0
+,10.0 Prologue - Storms - Dimmed Primeval Fire,,17311,-1,-1,0,15466,0,0,3276804,454,136243,0,142543,0,0
+,10.0 Prologue - Storms - Dimmed Primeval Earth,,17312,-1,-1,0,15466,0,0,3276804,455,136243,0,142545,0,0
+,10.0 Prologue - Storms - Dimmed Primeval Storm,,17313,-1,-1,0,15466,0,0,3276804,456,136243,0,142547,0,0
 Owner of the Dragonflight Heroic Edition Tangled Dreamweaver mount.,Heroic Edition: Tangled Dreamweaver,,17314,-1,-1,0,15268,1,0,133120,38,4096390,0,142551,0,0
+Honor the Elders which are located in the Dragon Isles.,Elders of the Dragon Isles,,17321,2574,-1,0,160,0,10,0,14,135982,0,142615,0,0
+Complete all reverse races in the Dragon Isles.,Reverse Racer: Bronze,,17330,-1,-1,0,15462,0,10,0,323,1002572,0,142658,0,0
+Obtain silver in all reverse races in the Dragon Isles.,Reverse Racer: Silver,,17331,-1,-1,17330,15462,0,10,0,324,1002575,0,142663,0,0
+Obtain gold in all reverse races in the Dragon Isles.,Reverse Racer: Gold,Title Reward: Reverse Racer,17332,-1,-1,17331,15462,0,10,0,325,1002573,0,142668,0,0
+Earn the monthly special reward from the Trading Post 12 times.,Trading Post Enthusiast,Reward: Burden of Unrelenting Justice,17334,-1,-1,0,92,0,10,131072,95,4696085,0,142673,0,0
+Use Whirling Surge to dismount an enemy player in War Mode.,Airborne Tumbler,,17335,-1,-1,0,15283,0,5,0,10,4640477,0,142675,0,0
+Use Whirling Surge to dismount 10 enemy players in War Mode.,Airborne Tumbler,,17336,-1,-1,17335,15283,0,5,0,11,4640477,0,142677,0,0
+,<Hidden> ACCOUNT: Veritistrasz Q2 Completed,,17338,-1,-1,0,15455,0,0,3276804,17,136243,0,142735,0,0
+Win 100 Rated Solo Shuffle rounds while at Elite rank during Dragonflight Season 1.,Legend: Dragonflight Season 1,Title Reward: Legend,17339,-1,-1,0,165,0,0,12288,219,236537,0,142762,0,0
+Kill each of the Primalist monsters in the Storm's Fury event within the Primalist Future.,The Future We Make,,17342,-1,-1,0,15455,0,5,0,2,4622478,0,142768,0,0
+Kill any of the Primalist monsters within the Storm's Fury event while you have at least 15 stacks of Warmth.,Drop It Like It's Hot,,17343,-1,-1,0,15455,0,5,0,3,237009,0,142772,0,0
+Use Whirling Surge to dismount 50 enemy players in War Mode.,Airborne Tumbler,Title: Skyscourge,17345,-1,-1,17336,15283,0,5,0,12,4640477,0,142788,0,0
+,<Hidden> 10.0 Professions Onboarding Skip Completed [DNT],,17365,-1,-1,0,15455,0,0,3145732,32,136243,0,142945,0,0

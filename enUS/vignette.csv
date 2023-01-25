@@ -4610,7 +4610,7 @@ ID,Name_lang,PlayerConditionID,VisibleTrackingQuestID,QuestFeedbackEffectID,Flag
 5197,Gorjo the Crab Shackler,103742,69874,902,1090,0,0,0,0,0
 5198,Eldoren the Reborn,103742,69875,902,1090,0,0,0,0,0
 5199,Oshigol,103742,69877,902,1090,0,0,0,0,0
-5200,Spellwrought Snow Golem,0,69879,902,1090,0,0,0,0,0
+5200,Spellwrought Snowman,0,69879,902,1090,0,0,0,0,0
 5201,Riverwalker Tamopo,103742,69880,902,1090,0,0,0,0,0
 5203,Lord Epochbrgl,0,69882,902,1024,0,0,0,0,0
 5204,Matriarch Remalla,103742,69883,902,1090,0,0,0,0,0
@@ -4673,7 +4673,7 @@ ID,Name_lang,PlayerConditionID,VisibleTrackingQuestID,QuestFeedbackEffectID,Flag
 5264,Muugurv,0,0,763,1056,0,0,0,0,0
 5265,Gamgus,0,0,763,1056,0,0,0,0,0
 5266,Degmakh,0,0,763,1056,0,0,0,0,0
-5267,Arcane Devourer,0,0,89,0,0,0,0,0,0
+5267,Arcane Devourer,0,0,92,0,0,0,0,0,0
 5268,Arcane Tome,0,0,90,0,0,0,0,0,0
 5269,Brackle,0,70165,89,0,0,0,0,0,0
 5270,Ergburk,0,0,763,1056,0,0,0,0,0
@@ -4859,6 +4859,10 @@ ID,Name_lang,PlayerConditionID,VisibleTrackingQuestID,QuestFeedbackEffectID,Flag
 5455,[DNT]Fire Storm,0,0,895,1026,0,0,0,0,0
 5456,[DNT]Water Storm,0,0,896,1026,0,0,0,0,0
 5457,Wrangler Rendra,104435,0,622,1062,0,0,0,0,0
+5458,The Storms Fury,0,0,953,1602,0,0,0,0,708
+5459,The Storms Fury,0,0,954,1602,0,0,0,0,707
+5460,Primalist monster,0,0,955,1094,0,0,0,0,709
+5461,Elemental Portal,0,0,956,1350,0,0,0,0,0
 5464,,0,0,126,512,0,0,0,0,0
 5466,Disturbed Dirt,104700,0,918,0,0,0,0,0,0
 5467,Magic-Bound Chest,105073,0,918,0,0,0,0,0,0
@@ -4881,3 +4885,30 @@ ID,Name_lang,PlayerConditionID,VisibleTrackingQuestID,QuestFeedbackEffectID,Flag
 5485,Tuskarr Tacklebox,105338,0,918,0,0,0,0,0,0
 5512,Rasnar the War Ender,0,0,89,0,100,-100,0,0,0
 5513,Rohzor Forgesmash,0,0,89,0,100,-100,0,0,0
+5545,Catnip Frond,100242,70303,918,32,30,-30,0,0,0
+5553,Windseeker Avash,0,0,92,0,0,0,0,0,0
+5554,Graniteclaw,106434,74459,902,1090,0,0,0,0,0
+5555,Waterpots,106434,74460,902,1090,0,0,0,0,0
+5556,Malgain Rockknell,106434,74461,902,1090,0,0,0,0,0
+5557,Shiobhan Waterborn,106434,74462,902,1090,0,0,0,0,0
+5558,Unstable Arcanogolem,106435,74455,902,1090,0,0,0,0,0
+5559,Motivator Krathos,106435,74456,902,1090,0,0,0,0,0
+5560,Grand Artificer Zeerak,106435,74457,902,1090,0,0,0,0,0
+5561,Srivantor,106435,74458,902,1090,0,0,0,0,0
+5562,Overseer Stonetongue,106436,74448,902,1090,0,0,0,0,0
+5563,Overloading Defense Matrix,106436,74449,902,1090,0,0,0,0,0
+5564,Morlash,106436,74450,902,1090,0,0,0,0,0
+5565,Tikarr Frostclaw,106437,74451,902,1090,0,0,0,0,0
+5566,Avalantus,106437,74452,902,1090,0,0,0,0,0
+5567,Shardwing,106437,74453,902,1090,0,0,0,0,0
+5568,Shapemaster Za'lani,106437,74454,902,1090,0,0,0,0,0
+5569,Groffnar,106438,74463,902,1090,0,0,0,0,0
+5570,Lurgan,106438,74464,902,1090,0,0,0,0,0
+5571,Stormcaller Narkena,106438,74465,902,1090,0,0,0,0,0
+5572,Huntmaster Yrgena,106438,74466,902,1090,0,0,0,0,0
+5573,Bloodbeak the Ravenous,106438,74467,902,1090,0,0,0,0,0
+5574,Elemental Portal,0,0,981,1350,0,0,0,0,0
+5575,Elemental Portal,0,0,982,1350,0,0,0,0,0
+5580,Disabled Elemental Portal,0,0,984,1350,0,0,0,0,0
+5581,Disabled Elemental Portal,0,0,985,1350,0,0,0,0,0
+5582,Disabled Elemental Portal,0,0,986,1350,0,0,0,0,0

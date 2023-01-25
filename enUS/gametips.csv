@@ -64,7 +64,6 @@ ID,Text_lang,SortIndex,Min_level,Max_level,ContentTuningID
 438,|cffffd100Tip:|r You can repurchase items you have recently sold to a vendor from the Buyback tab.,88,10,250,0
 439,|cffffd100Tip:|r A group leader can reset their instances or change dungeon difficulty by right-clicking on their character portrait.,89,50,250,0
 440,|cffffd100Tip:|r You can always get a new Hearthstone from any innkeeper.,90,10,250,0
-441,|cffffd100Tip:|r Smile early and often!,91,10,250,0
 442,"|cffffd100Tip:|r Players cannot dodge, parry, or block attacks that come from behind them.",92,30,250,0
 444,|cffffd100Tip:|r You can replace a gem that is already socketed into your item by dropping a new gem on top of it in the socketing interface.,93,40,250,0
 446,|cffffd100Tip:|r You can only benefit from one Battle Elixir and one Guardian Elixir at a time.,95,50,250,0
@@ -94,7 +93,7 @@ ID,Text_lang,SortIndex,Min_level,Max_level,ContentTuningID
 472,|cffffd100Tip:|r Most factions have a Quartermaster who will offer a variety of items to players with a high enough reputation.,120,40,250,0
 473,|cffffd100Tip:|r The Calendar can tell you when raids reset. You can use the Raid Info pane to extend a raid if you want your progress to carry over across resets.,121,60,250,0
 475,"|cffffd100Tip:|r If you are having difficulty with a group of creatures in a dungeon, try using a ""crowd control"" ability, such as Polymorph or Sap, to take an enemy out of the fight. Divide and conquer!",154,15,69,0
-476,|cffffd100Tip:|r Targets in your minimap have an up or down caret to indicate that they're above or below you.,15,0,0,0
+476,|cffffd100Tip:|r Targets in your minimap have an up or down arrow to indicate that they're above or below you.,15,0,0,0
 479,|cffffd100Tip:|r You can use the Equipment Manager feature to quickly swap sets of gear that you find yourself using often.,124,50,250,0
 483,|cffffd100Tip:|r Pressing <Alt> while your cursor is over an item slot on your character will show a list of items that can be equipped in that slot.,128,20,250,0
 489,"|cffffd100Tip:|r If an enemy cast bar is gray or has a shield icon around it, that means you cannot interrupt the spell with your abilities.",129,40,250,0

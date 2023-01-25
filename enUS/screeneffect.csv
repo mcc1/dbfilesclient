@@ -313,7 +313,7 @@ ID,Name,Param[0],Param[1],Param[2],Param[3],Effect,FullScreenEffectID,LightParam
 1122,7.0 Azsuna - Garden of Elune - Night,0,0,0,0,0,0,0,0,0,0,0,0,8,0
 1123,6.2 Hellfire Raid - Mannoroth Encounter - Curse of the Doom Lord,1148190967,1,2,0,3,0,0,0,0,505,0,-1,1,0
 1124,Selfie Camera Filter,0,0,0,0,5,0,0,0,0,0,0,-1,1,0
-1125,Selfie Camera Filter 02,0,0,100,0,3,0,0,0,0,0,0,-1,1,0
+1125,Selfie Camera Filter 02,0,0,100,4,3,0,0,0,0,0,0,-1,1,0
 1126,Selfie Camera Filter 03,0,0,0,0,1,0,0,0,0,0,0,-1,1,0
 1127,6.2 Hellfire Raid - Kilrogg Deadeye - Phase - Vision of Death,2134572800,3,25,0,3,0,966,0,0,0,0,-1,-1,0
 1128,Item - Spirit Shift,-16179405,4,40,0,3,0,0,0,0,462,36,-1,5,0
@@ -1078,3 +1078,4 @@ ID,Name,Param[0],Param[1],Param[2],Param[3],Effect,FullScreenEffectID,LightParam
 2081,PvP Talent - Rogue - Subtlety - Shadowy Duel - Effect,0,0,100,0,2,0,0,0,0,2585,0,-1,-1,0
 2082,10.0 Raid - Primalist - Ice Spider - Webbing - KLH,0,0,0,0,8,176,0,0,0,0,0,-1,1,0
 2084,Generic - Fade to Gray- .25s fade in / .5s out - IGC,-3289651,250,500,1,4,0,0,0,0,0,0,-1,1,0
+2096,World - Area Denial - Fire (10 - Raid - Kurog Grimtotem),0,0,0,0,8,10,0,0,0,0,0,-1,1,0

@@ -306,6 +306,8 @@ ID,Name,VisType,TextureKit,FrameTextureKit,SizeSetting,InAnimType,OutAnimType,Wi
 2106,10.0 Dragon Isles - Storms - JZB (TEXTWITHSTATE),8,0,0,0,0,0,0,0,0
 2107,WIDGET TEMPLATE - FillUpFrames Vis,24,5485,0,0,0,0,0,0,0
 2108,10.0 Dragonriding - Vigor Bars Vis,24,5485,0,0,0,0,0,0,0
+2109,10.0.5 - Primalist Tomorrow Event - Event Tooltip Text,8,0,0,0,0,0,0,0,0
+2110,10.0.5 - Primalist Tomorrow Event - Pre-Start with State,8,0,0,0,0,0,0,0,0
 2111,10.0 Climb - Capture Zone (JDA),17,5257,0,0,0,0,3,0,0
 2112,10.0 Public Event - Area POI - Reward Status - PRK,8,0,0,0,0,0,0,0,0
 2113,10.0.5 - Dragonflight campagn complete  - World Quest Unlocked Icon,0,0,0,35,0,0,0,0,0
@@ -319,3 +321,10 @@ ID,Name,VisType,TextureKit,FrameTextureKit,SizeSetting,InAnimType,OutAnimType,Wi
 2122,TextWithSubtext,25,0,0,225,0,0,0,0,0
 2123,Dragonflight Campaign Complete Adventure Mode Unlocked,12,5504,0,200,0,0,0,0,0
 2124,Dragonflight Campaign Complete Aid the Factions,12,5505,0,200,0,0,0,0,0
+2125,10.0.5 - Primalist Tomorrow Event - Scenario - Currency Tracker,11,0,5473,0,0,0,0,0,0
+2126,10.0.5 - Primalist Tomorrow Event - Capture Bar - Portal - Water - (LWB),1,5510,5509,0,0,0,0,0,0
+2130,Storm Capture Bar Earth Vis,1,5511,5509,0,0,0,0,0,0
+2131,Storm Capture Bar Air Vis,1,5512,5509,0,0,0,0,0,0
+2132,Storm Capture Bar Water Vis,1,5510,5509,0,0,0,0,0,0
+2133,10.0.5 - Primalist Tomorrow Event - Capture Bar - Portal - Earth - (LWB),1,5511,5509,0,0,0,0,0,0
+2134,10.0.5 - Primalist Tomorrow Event - Capture Bar - Portal - Air - (LWB),1,5512,5509,0,0,0,0,0,0

@@ -12293,7 +12293,6 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 148026,Hired Guard,,,,0,7,0,0,83862,0,0,0,1,1,1,1,15241,0,6886
 148027,Hired Guard,,,,0,7,0,0,83890,0,0,0,1,1,1,1,15905,0,6886
 148029,Patch,,Gob Squad,,0,7,0,0,30315,0,0,0,1,1,1,1,0,0,0
-148030,Grit,,Gob Squad,,0,7,0,0,30312,0,0,0,1,1,1,1,0,0,0
 148032,Newt,,Gob Squad,,0,7,0,0,30316,0,0,0,1,1,1,1,0,0,0
 148033,Volt,,Gob Squad,,0,7,0,0,30313,0,0,0,1,1,1,1,0,0,0
 148034,Ticker,,Gob Squad,,0,7,0,0,30314,0,0,0,1,1,1,1,0,0,47523
@@ -12781,7 +12780,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 151759,Tir Bellas,,High Ascendant,,0,7,0,0,93191,0,0,0,1,1,1,1,0,0,0
 151767,Fertile Soil,,,,0,10,0,0,79153,0,0,0,1,1,1,1,0,0,0
 151779,Lil' Nefarian,,,,0,12,0,3,91267,0,0,0,1,1,1,1,0,0,0
-151780,Jingles,,,,0,12,0,0,96596,91268,0,0,1,1,1,1,0,0,0
+151780,Jingles,,,,0,12,0,0,96596,91268,0,0,1,3,1,1,0,0,0
 151783,Genn Greymane,,King of Gilneas,,1,7,0,0,62093,0,0,0,1,1,1,1,0,0,0
 151784,Mia Greymane,,Queen of Gilneas,,1,7,0,0,87714,0,0,0,1,1,1,1,0,0,0
 151788,Dottie,,,,0,12,0,0,91271,0,0,0,1,1,1,1,0,0,0
@@ -16713,6 +16712,8 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 183676,Sylvanas Windrunner,,,,1,7,0,0,102133,0,0,0,1,1,1,1,0,0,0
 183677,Uther the Lightbringer,,,,0,7,0,0,105509,0,0,0,1,1,1,1,173369,0,0
 183685,Pocopoc,,Saezurah's Minion,,0,9,0,0,102001,0,0,0,1,1,1,1,0,0,0
+183686,Pippin,,,,0,12,0,0,104794,0,0,0,1,1,1,1,0,0,0
+183708,Egbob,,,,0,12,0,0,104798,0,0,0,1,1,1,1,0,0,0
 183711,Arbiter Pelagos,,,,1,7,0,0,104788,0,0,0,1,1,1,1,0,0,0
 183712,Kleia,,,,0,7,0,3,104815,0,0,0,1,1,1,1,171132,0,0
 183714,Graktho the Automa-eater,,,,1,15,0,0,101924,0,0,0,1,1,1,1,0,0,0
@@ -16901,6 +16902,8 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 185167,Sylvanas Windrunner,,,,0,7,0,0,102134,0,0,0,1,1,1,1,0,0,0
 185172,Obsidian Warder,,,,0,7,0,0,104843,104844,104845,104846,1,1,1,1,0,0,0
 185305,Grimhowl,,,,0,1,52,0,8181,0,0,0,1,1,1,1,0,0,0
+185322,Lil' Maka'jin,,,,0,12,0,0,83638,0,0,0,1,1,1,1,0,0,0
+185324,Drazka'zet the Wrathful,,,,0,12,0,0,105301,0,0,0,1,1,1,1,0,0,0
 185405,Niena Bladeleaf,,,,0,7,0,0,105324,0,0,0,1,1,1,1,171490,0,0
 185406,Synthanos Wintersong,,,,0,7,0,0,105325,0,0,0,1,1,1,1,38632,0,0
 185411,Raszageth,,The Storm-Eater,,1,2,0,0,103255,0,0,0,1,1,1,1,0,0,0
@@ -16931,9 +16934,13 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 185599,Masud the Wise,,,,0,7,0,0,105421,0,0,0,1,1,1,1,0,0,0
 185602,Cataloger's Camp,,,,0,10,0,0,102020,0,0,0,1,1,1,1,0,0,0
 185603,Glania of the Blessed Ones,,,,0,7,0,0,105422,0,0,0,1,1,1,1,0,0,0
+185604,Buzzworth,,,,0,12,0,2,111370,0,0,0,1,1,1,1,0,0,0
+185606,Garrlok,,,,0,12,0,0,105423,0,0,0,1,1,1,1,0,0,0
 185608,Khuri,,Fishing Trainer,,0,7,0,0,105424,0,0,0,1,1,1,1,0,0,0
+185611,Crushhoof,,,,0,12,0,0,105425,0,0,0,1,1,1,1,0,0,0
 185613,Grimhowl,,,,0,1,52,0,105428,0,0,0,1,1,1,1,0,0,0
 185616,Kalecgos,,Mirror Image,,1,2,0,0,105430,23487,0,0,1,0,1,1,0,0,0
+185621,Watcher of the Huntress,,,,0,12,0,3,105429,0,0,0,1,1,1,1,0,0,0
 185625,Kalecgos,,,,1,2,0,3,105921,0,0,0,1,1,1,1,0,0,0
 185635,RTC Watched - Kill Credit,,,,1,7,0,0,98196,0,0,0,1,1,1,1,0,0,0
 185674,Pelagos,,,,0,7,0,0,105457,0,0,0,1,1,1,1,0,0,0
@@ -16946,6 +16953,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 185713,Hadja,,Enlightened Provisioner,,0,7,0,0,105245,0,0,0,1,1,1,1,0,0,0
 185750,Spell Bunny,,,,0,10,0,3,1126,11686,0,0,0,1,1,1,0,0,0
 185754,Talon Mender,,The Healing Wings,,0,7,0,0,104834,104835,104836,104836,1,1,1,1,0,0,0
+185756,Buttercup,,,,0,12,0,0,105497,0,0,0,1,1,1,1,0,0,0
 185775,Unstable Arcane Energy,,,,0,4,0,0,97174,0,0,0,1,1,1,1,0,0,0
 185792,Dark Ranger Velonara,,,,1,7,0,0,105389,0,0,0,1,1,1,1,45085,45085,166783
 185793,Lilian Voss,,,,1,7,0,0,85799,0,0,0,1,1,1,1,160500,160501,0
@@ -17220,7 +17228,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 188856,Nomurok,,,,0,7,0,0,105856,0,0,0,1,1,1,1,0,0,0
 188861,Secretive Frogduck,,,,0,12,0,0,106677,0,0,0,1,1,1,1,0,0,0
 188878,Alexstrasza the Life-Binder,,Queen of the Dragons,,1,2,0,3,92146,0,0,0,1,1,1,1,189547,0,0
-188882,Raszageth,,The Storm-Eater,,1,2,0,3,103255,0,0,0,1,1,1,1,0,0,0
+188882,Raszageth,,The Storm-Eater,,1,2,0,3,111371,0,0,0,1,1,1,1,0,0,0
 188885,Crystalline Mini-Monster,,,,0,12,0,0,106690,0,0,0,1,1,1,1,0,0,0
 188901,Mister Muskoxeles,,,,0,12,0,0,106681,0,0,0,1,1,1,1,0,0,0
 188955,Lesser Cauldron of the Pooka,,,,0,10,0,0,106726,0,0,0,1,1,1,1,0,0,0
@@ -18199,7 +18207,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 198463,Valdrakken Citizen,,,,0,7,0,0,105787,105789,104563,0,1,1,1,1,0,0,0
 198464,Rostrum of Transformation,,,,0,10,0,0,21955,23767,0,0,0,1,1,1,0,0,0
 198480,Cubbly,,,,0,12,0,0,110109,0,0,0,1,1,1,1,0,0,0
-198489,Denizen of the Dream,,,,0,2,303,0,110117,0,0,0,1,1,1,1,0,0,0
+198489,Denizen of the Dream,,,,6,2,303,0,110117,0,0,0,1,1,1,1,0,0,0
 198494,Korvik,,Boat Organizer,,0,7,0,0,109690,0,0,0,1,1,1,1,0,0,0
 198504,Kino,,,,0,8,0,0,106661,0,0,0,1,1,1,1,0,0,0
 198511,Troubled Tome,,,,0,12,0,0,110161,0,0,0,1,1,1,1,0,0,0
@@ -18217,6 +18225,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 198623,Tracker Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
 198624,Tracker Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
 198625,Sindragosa,,Arcane Simulacrum,,1,2,0,0,110267,0,0,0,1,1,1,1,0,0,0
+198626,"Sully ""The Pickle"" McLeary",,SI:7,,0,7,0,0,38872,0,0,0,0,1,1,1,0,0,0
 198628,Tracker Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
 198630,Tracker Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
 198631,Tracker Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
@@ -18272,6 +18281,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 198957,Alliance Footsoldier,,,,0,7,0,0,91234,72659,3619,1762,1,1,1,1,33791,0,0
 198958,Horde Footsoldier,,,,0,7,0,0,91234,72659,3619,1762,1,1,1,1,33791,0,0
 198977,[DNT] Spell Bunny,,,,0,10,0,3,1126,11686,0,0,0,1,1,1,0,0,0
+199021,Patch,,Gob Squad,,0,7,0,0,30315,0,0,0,1,1,1,1,0,49617,45937
 199171,Hornswog Chorus Sound Stalker A,,,,6,10,0,3,90874,11686,0,0,0,1,1,1,0,0,0
 199172,Hornswog Chorus Sound Stalker B,,,,6,10,0,3,90874,11686,0,0,0,1,1,1,0,0,0
 199316,Time-Lost Devilsaur,,,,0,1,39,0,86474,82975,82974,47808,0,1,0,0,0,0,0
@@ -18307,4 +18317,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 199723,Turbulent Gust,,,,0,4,0,3,102511,0,0,0,1,1,1,1,0,0,0
 199724,Howling Wind,,,,0,4,0,0,106101,0,0,0,1,1,1,1,0,0,0
 199725,Emerald Drake,,,,1,2,0,0,106223,106224,106229,106230,1,1,1,1,0,0,0
+200676,Firefly,,,,0,8,0,3,18724,0,0,0,1,1,1,1,0,0,0
+200746,Primalist Tomorrow Trigger Bunny,,,,0,1,0,0,38615,0,0,0,0,1,1,1,0,0,0
+201022,Soridormi,,,,1,2,0,0,108314,0,0,0,1,1,1,1,0,0,0
 201041,Windsage Garuman,,,,0,7,0,0,108789,0,0,0,1,1,1,1,0,0,0

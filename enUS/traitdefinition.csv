@@ -1,4 +1,4 @@
-OverrideName_lang,OverrideSubtext_lang,OverrideDescription_lang,ID,SpellID,OverrideIcon,OverridesSpellID,Field_10_0_0_45232_007
+OverrideName_lang,OverrideSubtext_lang,OverrideDescription_lang,ID,SpellID,OverrideIcon,OverridesSpellID,VisibleSpellID
 ,,,10579,0,135936,0,0
 ,,,10612,0,135936,0,0
 ,,,10644,0,135936,0,0
@@ -98,17 +98,17 @@ Chemical Synthesis,,"Improve at specialty recipes such as those for alchemical r
 ,,+$ev1% $en1 when performing transmutations.,24919,0,0,0,0
 ,,+$ev1% $en1 when performing transmutations.,24920,0,0,0,0
 Transmutation,,"Master the process of transmutation, gaining +$ev1% $en1 for these crafts per point in this specialization.",24921,0,4554441,0,0
-,,+$ev1 $en1 and +$ev2 $en2 when making Alchemy recipes.|n|nAlchemical Crafting is $ev3% faster.,24922,0,0,0,0
+,,+$ev1 $en1 and +$ev2 $en2 when crafting Alchemy goods.|n|nAlchemical Crafting is $ev3% faster.,24922,0,0,0,0
 ,,Learn the final sub-specialization.,24923,0,0,0,0
-,,+$ev1 $en1 when crafting Alchemy recipes.,24924,0,0,0,0
+,,+$ev1 $en1 when crafting Alchemy goods.,24924,0,0,0,0
 ,,Learn a sub-specialization of your choice.,24925,0,0,0,0
-,,+$ev1 $en1 when crafting Alchemy recipes.,24926,0,0,0,0
+,,+$ev1 $en1 when crafting Alchemy goods.,24926,0,0,0,0
 ,,Learn a sub-specialization of your choice.,24927,0,0,0,0
-,,+$ev1% $en1 when making Alchemy recipes.,24928,0,0,0,0
+,,+$ev1% $en1 when crafting Alchemy goods.,24928,0,0,0,0
 ,,Learn a sub-specialization of your choice.,24929,0,0,0,0
-,,+$ev1 $en1 when crafting Alchemy recipes.,24930,0,0,0,0
+,,+$ev1 $en1 when crafting Alchemy goods.,24930,0,0,0,0
 ,,Learn a sub-specialization of your choice.,24931,0,0,0,0
-,,+$ev1 $en1 when crafting Alchemy recipes.,24932,0,0,0,0
+,,+$ev1 $en1 when crafting Alchemy goods.,24932,0,0,0,0
 Alchemical Theory,,"Improve at crafting alchemical products, gaining +$ev1 $en1 for all recipes per point in this specialization.",24933,0,4624375,0,0
 Inspiring Ambience,,,24934,0,413583,0,0
 Resourceful Routines,,,24935,0,4497599,0,0
@@ -583,7 +583,7 @@ Prospecting,,"Improve in the delicate task of prospecting to increase yield and 
 ,,Learn the final sub-specialization.|n|nLearn how to create the $@spellname374522 toy.,36536,374522,0,0,0
 ,,"+$EV1 $EN1 when crafting reagents of all kinds, glassware, and profession equipment.",36537,0,0,0,0
 ,,Learn a sub-specialization of your choice.|n|nLearn to craft and use the $@spellname391782 Finishing Reagent to improve Skill with these designs.,36538,391782,0,0,0
-,,Learn how to make $@spellname392697 which can is used with the Engineer crafted Zapthrottle Soul Inhaler to capture elemental souls.,36539,392697,0,0,0
+,,Learn how to make $@spellname392697 which is used with the Engineering crafted Zapthrottle Soul Inhaler to capture elemental souls.,36539,392697,0,0,0
 ,,Learn a sub-specialization of your choice.|n|nGain the ability to use Polishing Cloth to apply finishing touches to your designs.,36540,0,0,0,0
 ,,"+$EV1 $EN1 when crafting reagents of all kinds, glassware, and profession equipment.",36541,0,0,0,0
 ,,"Learn how to create $@spellname374483, a Finishing Reagent often desired by scribes.",36542,374483,0,0,0
@@ -1121,11 +1121,11 @@ Azureweaving,,"Master the art of creating Azureweave Bolts, gaining +$ev1 $en1 p
 ,,Learn to craft: $@spellname376556.,55545,376556,0,0,0
 Azureweave Tailoring,,"Focus on the Arcane nature of the Blue Dragonflight in your tailoring, gaining +$ev1 $en1 per point in this specialization when making and using Azureweave.",55546,0,134155,0,0
 ,,Learn the final sub-specialization.,55547,0,0,0,0
-,,+$ev1 $en1 when when crafting items using either Azureweave or Chronocloth.,55548,0,0,0,0
-,,+$ev1 $en1 when when crafting items using either Azureweave or Chronocloth.,55549,0,0,0,0
+,,+$ev1 $en1 when crafting items using either Azureweave or Chronocloth.,55548,0,0,0,0
+,,+$ev1 $en1 when crafting items using either Azureweave or Chronocloth.,55549,0,0,0,0
 ,,Learn to craft and use the $@spellname376699 Finishing Reagent to improve Skill when crafting Azureweave and Chronocloth bolts and goods.,55550,376699,0,0,0
-,,+$ev1 $en1 when when crafting items using either Azureweave or Chronocloth.,55551,0,0,0,0
-,,+$ev1 $en1 when when crafting items using either Azureweave or Chronocloth.,55552,0,0,0,0
+,,+$ev1 $en1 when crafting items using either Azureweave or Chronocloth.,55551,0,0,0,0
+,,+$ev1 $en1 when crafting items using either Azureweave or Chronocloth.,55552,0,0,0,0
 ,,Learn a sub-specialization of your choice.,55553,0,0,0,0
 Draconic Needlework,,"Source the magic of the Dragon Isles to craft exceptional clothwear with reagents such as Azureweave and Chronocloth, gaining +$ev1 $en1 per point in this Specialization.",55554,0,4624558,0,0
 Timeweaving,,,55555,0,4549302,0,0
@@ -1208,7 +1208,7 @@ Outfits,,"Improve at tailoring the major aspects of an outfit such as Chest and 
 ,,+$ev1 $en1 when crafting cloth armor.,55721,0,0,0,0
 ,,Learn a sub-specialization of your choice.,55722,0,0,0,0
 ,,+$ev1 $en1 when crafting cloth armor.,55723,0,0,0,0
-Garmentcrafting,,"Improve at tailoring Cloth Armor to take on the most power foes in the Dragon Isles, gaining +$ev1 $en1 per point in this Specialization.",55724,0,4624563,0,0
+Garmentcrafting,,"Improve at tailoring Cloth Armor to take on the most powerful foes in the Dragon Isles, gaining +$ev1 $en1 per point in this Specialization.",55724,0,4624563,0,0
 Belts,,,55725,0,4073843,0,0
 Armbands,,,55726,0,4073845,0,0
 Mantles,,,55727,0,4073850,0,0
@@ -1437,11 +1437,11 @@ Gears for Gear,,,72296,0,4548893,0,0
 Gear,,,72297,0,4741994,0,0
 Function Over Form,,"Specialize in the creation of practical items used by adventurers and craftsman in their everyday routines, such as equipment and their accessory necessities.",72298,0,896469,0,0
 ,,Learn how to tap into Signal Transmitters scattered across the Dragon Isles to triangulate your Wyrmhole Generator to specific locations.,72299,0,0,0,0
-,,Learn how to create a $@spellname382369 which is a toy that allows party and raid members to perceive their surrounding environment in unexpected but familiar ways.,72300,382369,0,0,0
-,,Learn how to create a $@spellname382370 which is a toy that allows you to view the world as though it were overrun with gnolls.,72301,382370,0,0,0
-,,"Learn how to create a $@spellname382371 which is a toy that propels you far into the sky! It's probably safe, because you said so.",72302,382371,0,0,0
-,,Learn how to create a $@spellname382408 which is a toy that temporarily rearranges the genetic composition of anyone that steps onto it.,72303,382408,0,0,0
-,,Learn how to create a $@spellname382368 which is a toy that allows party and raid members to experience the thrill of Azeroth's weather on their own terms.,72304,382368,0,0,0
+,,"Learn how to create a $@spellname382369, a toy that allows party and raid members to perceive their surrounding environment in unexpected but familiar ways.",72300,382369,0,0,0
+,,"Learn how to create a $@spellname382370, a toy that allows you to view the world as though it were overrun with gnolls.",72301,382370,0,0,0
+,,"Learn how to create a $@spellname382371, a toy that propels you far into the sky! It's probably safe, because you said so.",72302,382371,0,0,0
+,,"Learn how to create a $@spellname382408, a toy that temporarily rearranges the genetic composition of anyone that steps onto it.",72303,382408,0,0,0
+,,"Learn how to create a $@spellname382368, a toy that allows party and raid members to experience the thrill of Azeroth's weather on their own terms.",72304,382368,0,0,0
 ,,"Whenever you craft Fireflights, you also immediately set one off for free.",72305,0,0,0,0
 Novelties,,"Embrace your whimsical side to learn how to create a variety of surprisingly safe inventions to entertain yourself and those around you. Furthermore, Inspiration grants $ev1% additional Skill when crafting Engineering goods per point in this specialization.",72306,0,3610508,0,0
 ,,+$ev1 $en1 when crafting tinkers.,72307,0,0,0,0
@@ -1573,7 +1573,7 @@ Serevite,,Specialize in the understanding of Serevite to improve your ability to
 ,,Learn a sub-specialization of your choice.|n|nLearn how to refine Quality 1 Draconium to Quality 2.,79627,383793,0,0,0
 ,,+$ev1 $en1 when mining all deposits.,79628,0,0,0,0
 ,,Learn how to refine Quality 1 Serevite to Quality 2.,79629,383649,0,0,0
-Metallurgy,,Further your understanding on the different metals found across the Dragon Isles. Specializing in this path will increase your efficiency as a miner and gain the ability to refine your ores into higher quality. Gain +$ev1 $en1 when mining all deposits per point in this specialization,79630,0,348540,0,0
+Metallurgy,,Further your understanding on the different metals found across the Dragon Isles. Specializing in this path will increase your efficiency as a miner and gain the ability to refine your ores into higher quality. Gain +$ev1 $en1 when mining all deposits per point in this specialization.,79630,0,348540,0,0
 Draconium,,,79631,0,4581144,0,0
 Serevite,,,79632,0,4615906,0,0
 Metallurgy,,Further your understanding on the different metals found across the Dragon Isles. Specializing in this path will increase your efficiency as a miner and gain the ability to refine your ores into higher quality.,79633,0,348540,0,0
@@ -1587,7 +1587,7 @@ Metallurgy,,Further your understanding on the different metals found across the 
 ,,+$EV1 $EN1 when mining Primal deposits.,79641,0,0,0,0
 ,,"Primal deposits now have a chance to contain Rousing Air or Rousing Frost, essences not traditionally found by miners.",79642,0,0,0,0
 Primal,,Embrace the chaos found within Primal deposits to increase your ability to gather elemental essences and further your understanding of the chaotic elements. Gain +$ev1 $en1 on Primal deposits per point in this specialization.,79643,0,4554461,0,0
-,,"Mining Titan-Touched deposits will now empower you, increasing your speed and secondary stats for a short while.",79644,0,0,0,0
+,,"Attune yourself to the portals opened by Overloading Titan-Touched deposits, allowing you to return to where the first portal opened.",79644,0,0,0,0
 ,,+$ev1 $en1 when mining Titan-Touched deposits.,79645,0,0,0,0
 ,,+$ev1 $en1 when mining Titan-Touched deposits.,79646,0,0,0,0
 ,,+$ev1 $en1 when mining Titan-Touched deposits.,79647,0,0,0,0
@@ -1595,7 +1595,7 @@ Primal,,Embrace the chaos found within Primal deposits to increase your ability 
 ,,+$ev1 $en1 when mining Titan-Touched deposits.,79649,0,0,0,0
 ,,+$ev1 $en1 when mining Titan-Touched deposits.,79650,0,0,0,0
 ,,+$ev1 $en1 when mining Titan-Touched deposits.,79651,0,0,0,0
-,,"Attune yourself to the portals opened by Overloading Titan-Touched deposits, allowing you to return to where the first portal opened.",79652,0,0,0,0
+,,"Mining Titan-Touched deposits will now empower you, increasing your speed and secondary stats for a short while.",79652,0,0,0,0
 Titan Touched,,Specializing in Titan-Touched deposits allows you to discover gateways that allow you to traverse to nearby mining deposits quickly and gain additional essences when mining. Gain +$ev1 $en1 on Titan-Touched deposits per point in this specialization.,79653,0,4554462,0,0
 ,,Mining Hardened deposits will grant you a shield of stone that reduces all damage for a short while.,79654,0,0,0,0
 ,,+$ev1 $en1 when mining Hardened deposits.,79655,0,0,0,0
@@ -1627,7 +1627,7 @@ Molten,,Specializing in Molten deposits will allow you to acquire additional Rou
 ,,Gain additional Rousing Essences when mining elemental deposits.,79681,0,0,0,0
 ,,Learn a sub-specialization of your choice.,79682,0,0,0,0
 ,,+$ev1 $en1 when mining elemental deposits.,79683,0,0,0,0
-,,Learn $@spellname388213 which allows you to channel energy into elemental deposits for unique bonuses and effects.,79684,388213,0,0,0
+,,"Whenever you mine ore native to the Dragon Isles, the cooldown of your $@spellname388213 ability is significantly reduced.|n|nLearn the $@spellname388213 ability if it is not known already.",79684,388213,0,0,0
 Mastering the Elements,,"As elemental chaos runs rampant across the Dragon Isles, experienced miners have discovered new techniques to tap into remnants of these magics found within these precious metals. Gain +$ev1 $en1 on all elemental deposits per point in this specialization.",79685,0,4554441,0,0
 Primal,,,79686,0,4554461,0,0
 Titan Touched,,,79687,0,4554462,0,0
@@ -1682,7 +1682,7 @@ Windswept,,"Specialize in Windswept herbs, gaining +$ev1 $en1 per point in this 
 ,,Learn a sub-specialization of your choice.,82298,0,0,0,0
 ,,+$ev1 $en1 while gathering elementally-charged herbs.,82299,0,0,0,0
 ,,Learn a sub-specialization of your choice.,82300,0,0,0,0
-,,"Learn how to $@spellname390392, an ability that allows you to channel energy into elementally-charged herbs for unique bonuses and effects.",82301,390392,0,0,0
+,,"Whenever you gather herbs native to the Dragon Isles, the cooldown of your $@spellname390392 ability is significantly reduced.|n|nLearn the $@spellname390392 ability if it is not known already.",82301,390392,0,0,0
 Mastering the Elements,,"Study the intricacies of the awakening elements within the Dragon Isles and their effects on the plant life, gaining +$ev1 $en1 per point in this specialization while gathering elementally-charged herbs.",82302,0,4554441,0,0
 Decayed,,,82303,0,136144,0,0
 Titan-Touched,,,82304,0,2000855,0,0
@@ -2279,7 +2279,7 @@ Rods and Wands,,,92449,0,948259,0,0
 ,,,96426,389590,0,0,0
 ,,,96427,389367,0,0,0
 ,,,96428,389576,0,0,0
-,,,96429,386344,0,0,0
+,,,96429,386244,0,0,386256
 ,,,96430,389630,0,0,0
 ,,,96431,389761,0,0,0
 ,,,96432,386617,0,0,0
@@ -2300,7 +2300,7 @@ Rods and Wands,,,92449,0,948259,0,0
 ,,,96447,386686,0,0,0
 ,,,96448,386664,0,0,0
 ,,,96449,385881,0,0,0
-,,,96450,386244,0,0,386256
+,,,96450,386344,0,0,0
 ,,,96451,386646,0,0,0
 ,,,96452,384069,0,0,0
 ,,,96453,264874,0,0,0
@@ -2415,7 +2415,7 @@ Rods and Wands,,,92449,0,948259,0,0
 ,,,96562,196226,0,0,0
 ,,,96563,196102,0,0,0
 ,,,96564,199471,0,0,0
-,,,96565,387073,0,0,0
+,,,96565,399668,0,0,0
 ,,,96566,201424,0,0,0
 ,,,96567,32388,0,0,0
 ,,,96568,388667,0,0,198590
@@ -2644,7 +2644,7 @@ Rods and Wands,,,92449,0,948259,0,0
 ,,,105533,385709,0,0,0
 ,,,105534,385737,0,0,0
 ,,,105535,385718,0,0,0
-,,,105536,384791,0,0,0
+,,,105536,400456,0,0,0
 ,,,105537,384790,0,0,0
 ,,,105538,384799,0,0,0
 ,,,105539,320976,0,0,0
@@ -2689,7 +2689,7 @@ Rods and Wands,,,92449,0,948259,0,0
 ,,,105578,155228,0,0,0
 ,,,105579,186387,0,0,0
 ,,,105580,19434,0,0,0
-,,,105581,260402,0,0,0
+,,,105581,400472,0,0,0
 ,,,105582,257621,0,0,0
 ,,,105583,204089,0,0,0
 ,,,105584,260240,0,0,0
@@ -2839,7 +2839,7 @@ Sharpshooter,,,105594,378907,0,0,0
 ,,,106391,388218,0,0,0
 ,,,106392,116849,0,0,0
 ,,,106393,388020,0,0,0
-,,,106394,386276,0,0,0
+,,,106394,399491,0,0,0
 ,,,106395,388701,0,0,0
 ,,,106396,115151,0,0,0
 ,,,106397,281231,0,0,0
@@ -2851,8 +2851,8 @@ Sharpshooter,,,105594,378907,0,0,0
 ,,,106403,197895,0,0,0
 ,,,106404,388682,0,0,0
 ,blackout kick now reduces the cooldown of Rising Sun Kick by x sec guaranteed instead of x% chance ,,106405,116645,0,0,0
-,,,106406,386941,0,0,0
-,,,106407,386949,0,0,0
+,,,106406,400089,0,0,0
+,,,106407,400053,0,0,0
 ,,,106408,191837,0,0,0
 ,,,106409,388047,0,0,0
 ,,,106410,388023,0,0,0
@@ -3037,8 +3037,8 @@ Sharpshooter,,,105594,378907,0,0,0
 ,,,106833,77756,0,0,0
 ,,,106834,381764,0,0,0
 ,,,106835,378211,0,0,0
-,,,106836,192249,0,0,0
-,,,106837,198067,0,0,0
+,,,106836,192249,0,398856,0
+,,,106837,198067,0,398856,0
 ,,,106838,381726,0,0,0
 ,,,106839,382032,0,0,0
 ,,,106840,375982,0,0,0
@@ -3165,14 +3165,14 @@ Sharpshooter,,,105594,378907,0,0,0
 ,,,106961,196840,0,0,0
 ,,,106962,383016,0,0,0
 ,,,106963,381666,0,0,0
-,,,106964,378773,0,0,0
-,,,106965,370,0,0,0
+,,,106964,378773,0,398857,0
+,,,106965,370,0,398857,0
 ,,,106966,51886,0,0,0
 ,,,106967,383010,0,0,0
 ,,,106968,974,0,0,0
 ,,,106969,30884,0,0,0
-,,,106970,51485,0,0,0
-,,,106971,192077,0,0,0
+,,,106970,51485,0,398858,0
+,,,106971,192077,0,398858,0
 ,,,106972,382947,0,0,0
 ,,,106973,382886,0,0,0
 ,,,106974,198103,0,0,0
@@ -3218,7 +3218,7 @@ Sharpshooter,,,105594,378907,0,0,0
 ,,Inspiration grants $ev1% additional Skill when crafting Jewelcrafting goods.,107014,0,0,0,0
 ,,+$ev1 $en1 when crafting Jewelcrafting goods.,107015,0,0,0,0
 ,,Inspiration grants $ev1% additional Skill when crafting Jewelcrafting goods.,107016,0,0,0,0
-Brilliant Baubling,,"Become a more inspired Jewelcrafting, gaining +$ev1 $en1 per point in this Specialization.",107017,0,237199,0,0
+Brilliant Baubling,,"Become a more inspired Jewelcrafter, gaining +$ev1 $en1 per point in this Specialization.",107017,0,237199,0,0
 ,,Resourcefulness saves $ev1% additional reagents when crafting Jewelcrafting goods.,107018,0,0,0,0
 ,,+$ev1 $en1 when crafting Jewelcrafting goods.,107019,0,0,0,0
 ,,Resourcefulness saves $ev1% additional reagents when crafting Jewelcrafting goods.,107020,0,0,0,0
@@ -3283,7 +3283,7 @@ $@spellname384442,,$@spelldesc384442,107453,384442,135875,0,31884
 ,,,107486,383396,0,0,0
 ,,,107487,383263,0,0,0
 ,,,107488,383314,0,0,0
-,,,107489,383327,0,0,383328
+,,,107489,383328,0,85256,0
 ,,,107490,383274,0,0,0
 ,,,107491,205191,0,0,0
 ,,,107492,215661,0,0,0
@@ -3483,13 +3483,13 @@ $@spellname53376,,$@spelldesc53376,107616,53376,236259,0,31884
 ,,,108152,393771,0,0,0
 ,,,108153,391785,0,0,0
 ,,,108154,384668,0,0,0
-,,,108155,390864,0,0,0
-,,,108156,202028,0,213764,0
+,,,108155,202028,0,213764,0
+,,,108156,390864,0,0,0
 ,,,108157,391881,0,0,0
 ,,,108158,391347,0,0,0
 ,,,108159,391978,0,0,0
 ,,,108160,386318,0,0,0
-,,,108161,391969,0,0,0
+,,,108161,400320,0,0,0
 ,,,108162,158476,0,0,0
 ,,,108163,391947,0,0,0
 ,,,108164,231063,0,0,0
@@ -3556,10 +3556,10 @@ $@spellname343240,,$@spelldesc343240,108221,343240,0,0,50334
 ,,,108225,372943,0,0,0
 ,,,108226,204053,0,0,0
 ,,,108227,80313,0,0,0
-,,,108228,372945,0,0,0
+,,,108228,393427,0,0,0
 $@spellname377623,,$@spelldesc377623,108229,377623,0,0,50334
 ,,,108230,203974,0,0,0
-,,,108231,393427,0,0,0
+,,,108231,372945,0,0,0
 ,,,108232,371999,0,0,0
 ,,,108233,372618,0,0,0
 ,,,108234,377811,0,0,0
@@ -3637,7 +3637,7 @@ Oneth's Clear Vision [NNF],,,108273,338661,0,0,0
 ,,,108306,106832,0,0,0
 ,,,108307,106839,0,0,0
 ,,,108308,108299,0,0,0
-,,,108309,213764,0,0,0
+,,,108309,400158,0,0,0
 ,,,108310,192081,0,0,0
 ,,,108311,16931,0,0,0
 ,,,108312,2908,0,0,0
@@ -3725,8 +3725,8 @@ Oneth's Clear Vision [NNF],,,108273,338661,0,0,0
 ,,,108740,372309,0,0,0
 ,,,108741,392988,0,0,0
 ,,,108742,235587,0,0,0
-,,,108743,372611,0,0,0
-,,,108744,372616,0,0,0
+,,,108743,372307,0,0,0
+,,,108744,372611,0,0,0
 ,,,108745,391387,0,0,0
 ,,,108746,391381,0,0,0
 ,,,108747,265202,0,392941,0
@@ -3764,7 +3764,7 @@ Oneth's Clear Vision [NNF],,,108273,338661,0,0,0
 ,,,108779,47788,0,0,0
 ,,,108780,2050,0,0,0
 ,,,108781,88625,0,0,0
-,,,108782,372307,0,0,0
+,,,108782,372616,0,0,0
 ,,,108783,391154,0,0,0
 ,,,108784,193157,0,0,0
 ,,,108785,391233,0,0,0
@@ -3828,7 +3828,7 @@ Oneth's Clear Vision [NNF],,,108273,338661,0,0,0
 ,,,108843,373223,0,0,0
 ,,,108844,390668,0,0,0
 ,,,108845,199855,0,0,0
-,,,108846,15286,0,0,0
+,,,108846,373218,0,0,0
 ,,,108847,280749,0,0,0
 ,,,108848,9484,0,0,0
 ,,,108849,10060,0,0,0
@@ -3901,7 +3901,7 @@ Oneth's Clear Vision [NNF],,,108273,338661,0,0,0
 ,,,114865,274281,0,0,0
 ,,,114866,202342,0,0,0
 ,,,114867,202430,0,0,0
-,,,114868,391969,0,0,0
+,,,114868,400059,0,0,0
 ,,,114869,393991,0,0,0
 ,,,114870,394115,0,0,0
 ,,,114871,383194,0,0,0
@@ -3909,7 +3909,7 @@ Oneth's Clear Vision [NNF],,,108273,338661,0,0,0
 ,,,114873,393868,0,0,0
 ,,,114874,202425,0,0,0
 ,,,114875,394081,0,0,0
-,,,114876,202359,0,0,0
+,,,114876,400636,0,0,0
 ,,,114877,393954,0,0,0
 ,,,114878,393940,0,0,0
 ,,,116884,0,237387,0,0
@@ -3942,7 +3942,7 @@ Oneth's Clear Vision [NNF],,,108273,338661,0,0,0
 ,,,117134,384361,0,0,0
 ,,,117135,316440,0,0,0
 ,,,117136,385571,0,0,0
-,,,117137,386357,0,0,0
+,,,117137,386357,0,400321,0
 ,,,117138,260643,0,0,0
 ,,,117139,184783,0,0,0
 ,,,117140,383287,0,0,0
@@ -4118,7 +4118,7 @@ Oneth's Clear Vision [NNF],,,108273,338661,0,0,0
 ,,,117310,384063,0,0,0
 ,,,117311,202095,0,0,0
 ,,,117312,386394,0,0,0
-,,,117313,386630,0,0,0
+,,,117313,400073,0,0,0
 ,,,117314,389308,0,0,0
 ,,,117315,383154,0,0,0
 ,,,117316,383703,0,0,0
@@ -4266,13 +4266,13 @@ Oneth's Clear Vision [NNF],,,108273,338661,0,0,0
 ,,,117634,319949,0,0,0
 ,,,117635,5938,0,0,0
 ,,,117636,1776,0,0,0
-,,,117637,1966,0,0,0
+,,,117637,79008,0,0,0
 ,,,117638,231719,0,0,0
 ,,,117639,193546,0,0,0
 ,,,117640,378427,0,0,0
 ,,,117641,231691,0,0,0
 ,,,117642,31230,0,0,0
-,,,117643,79008,0,0,0
+,,,117643,400804,0,0,0
 ,,,117644,382245,0,0,0
 ,,,117645,382238,0,0,0
 ,,,117646,137619,0,0,0
@@ -4311,7 +4311,7 @@ Oneth's Clear Vision [NNF],,,108273,338661,0,0,0
 ,,,117679,381627,0,0,0
 ,,,117680,394932,0,0,36554
 ,,,117681,2823,0,0,0
-,,,117682,385627,0,0,0
+,,,117682,400783,0,0,0
 ,,,117683,381798,0,0,0
 ,,,117684,328085,0,0,0
 ,,,117825,0,237389,0,0
@@ -4469,3 +4469,44 @@ Oneth's Clear Vision [NNF],,,108273,338661,0,0,0
 ,,,119299,390674,0,0,0
 ,,,119300,396719,0,0,0
 ,,,119301,396719,0,0,0
+,,,119302,399226,0,0,0
+,,,119303,400140,0,0,0
+,,,119304,400142,0,0,0
+,,,119305,400129,0,0,0
+,,,119541,155580,0,0,0
+,,,119589,400278,0,0,0
+,,,119590,400222,0,0,0
+,,,119591,204066,0,0,0
+,,,119592,400254,0,6807,0
+,,,119593,55676,0,0,0
+,,,119643,383155,0,0,0
+,,,119644,0,1455893,0,0
+,,,119645,390713,0,0,0
+,,,119646,400205,0,0,0
+,,,119647,383155,0,0,0
+,,,119648,400314,0,0,0
+,,,119649,386208,0,0,0
+,,,119650,386208,0,0,0
+,,,119653,327541,0,0,0
+,,,119654,202425,0,0,0
+,,,119704,400222,0,0,0
+,,,119705,400278,0,0,0
+,,,119706,204066,0,0,0
+,,,119707,400254,0,6807,0
+,,,119732,400533,0,0,0
+,,,119733,400531,0,0,0
+,,,119736,400629,0,0,0
+,,,119738,400205,0,0,0
+,,,119739,386630,0,0,0
+,,,119740,400205,0,0,0
+,,,119741,155580,0,0,0
+,,,119742,15286,0,0,0
+,,,119743,385627,0,0,0
+,,,119744,31230,0,0,0
+,,,119745,190456,0,0,0
+,,,119746,400803,0,0,0
+,,,119747,386630,0,0,0
+,,,119748,385573,0,0,0
+,,,119776,401150,0,0,0
+,,,119777,107574,0,0,0
+,,,119778,155580,0,0,0

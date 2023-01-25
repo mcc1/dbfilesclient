@@ -64,12 +64,9 @@ Brawl: Korrak's Revenge,Classic Alterac Valley,"- Experience the Alterac Valley 
 Solo Shuffle,Shuffled team arena matches,"- 6 players play 6 rounds of 3v3 Arena
 - Teams are shuffled at the end of each round
 - Solo player queues only",130,1065,0,0
-Solo Shuffle: Maldraxxus Coliseum,Shuffled team arena matches,"- 6 players play 6 rounds of 3v3 Arena
-- Teams are shuffled at the end of each round
-- Solo player queues only",131,1069,0,65705
 Solo Shuffle: Enigma Arena,Shuffled team arena matches,"- 6 players play 6 rounds of 3v3 Arena
 - Teams are shuffled at the end of each round
-- Solo player queues only",132,1073,0,0
+- Solo player queues only",132,0,0,0
 Brawl: Deepwind Detonation,Seek & Destroy,"-Pick up bomb at Market
 -Escort bomb to bases
 -Plant and defend",133,1075,0,0

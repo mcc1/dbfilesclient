@@ -12,11 +12,11 @@ ID,Description_lang,ModifiedCraftingCategoryID,ItemBonusTreeID,Flags,Field_9_1_0
 17,Flasks last longer,44,2939,0,0,0
 27,Well Fed lasts longer,11,3000,0,0,0
 30,Deal Fire damage to enemy,17,3070,0,0,0
-32,Set the Item Level to 19 and the Required Level to 14.,18,3204,0,0,0
-34,Set the Item Level to 28 and the Required Level to 23.,30,3205,0,0,0
-36,Set the Item Level to 39 and the Required Level to 32.,31,3206,0,0,0
-38,Set the Item Level to 48 and the Required Level to 41.,32,3207,0,0,0
-39,Set the Item Level to 54 and the Required Level to 47.,33,3208,0,0,0
+32,Set the Item Level to 29 and the Required Level to 15.,18,3204,0,0,0
+34,Set the Item Level to 65 and the Required Level to 25.,30,3205,0,0,0
+36,Set the Item Level to 94 and the Required Level to 35.,31,3206,0,0,0
+38,Set the Item Level to 127 and the Required Level to 45.,32,3207,0,0,0
+39,Set the Item Level to 163 and the Required Level to 55.,33,3208,0,0,0
 58,Reduce falling damage,41,3147,0,0,0
 59,Slightly increase move speed,42,3148,0,0,0
 61,Increase swim speed,40,3152,0,0,0
@@ -186,8 +186,8 @@ ID,Description_lang,ModifiedCraftingCategoryID,ItemBonusTreeID,Flags,Field_9_1_0
 236,"Set Item Level based on Crafting Quality (346 - 356), add Soulbound and Required Level 70.",400,3796,0,0,0
 237,"Set Item Level based on Crafting Quality (359 - 369), add Soulbound and Required Level 70.",400,3797,0,0,0
 238,"Set Item Level based on Crafting Quality (372 - 382), add Soulbound and Required Level 70.",400,3798,0,0,0
-239,"Precise cuts ensure perfect portions with nothing going to waste, gain $ev1 $en1 to this recipe.",403,0,0,0,0
-240,"A healthy and filling salad ensures there will be some leftovers, gain $ev1 $en1 to a dish.",404,0,0,0,0
+239,"Precise cuts ensure perfect portions with nothing going to waste, gain $ev1 $en1 for this recipe.",403,0,0,0,0
+240,"A healthy and filling salad ensures there will be some leftovers, gain $ev1 $en1 for this dish.",404,0,0,0,0
 241,,405,0,0,0,0
 242,,408,0,0,0,0
 243,,407,0,0,0,0
@@ -232,3 +232,18 @@ ID,Description_lang,ModifiedCraftingCategoryID,ItemBonusTreeID,Flags,Field_9_1_0
 283,Guarantee Deftness.,455,3886,0,0,0
 284,,424,0,0,0,0
 285,,425,0,0,0,0
+287,Alters the appearance of a weapon crafted from Draenor Blacksmithing to something more impressive.,459,3986,0,0,0
+288,Alters the appearance of a weapon crafted from Draenor Blacksmithing to something truly remarkable.,459,3987,0,0,0
+289,Alters the appearance of armor crafted from Draenor Blacksmithing to something more impressive.,460,3986,0,0,0
+290,Alters the appearance of armor crafted from Draenor Blacksmithing to something truly remarkable.,460,3987,0,0,0
+291,Alters the appearance of goggles crafted from Draenor Engineering to something more impressive.,461,3986,0,0,0
+292,Alters the appearance of goggles crafted from Draenor Engineering to something truly remarkable.,461,3987,0,0,0
+293,Alters the appearance of guns crafted from Draenor Engineering to something more impressive.,462,3986,0,0,0
+294,Alters the appearance of guns crafted from Draenor Engineering to something truly remarkable.,462,3987,0,0,0
+295,Alters the appearance of armor crafted from Draenor Leatherworking to something more impressive.,463,3986,0,0,0
+296,Alters the appearance of armor crafted from Draenor Leatherworking to something truly remarkable.,463,3987,0,0,0
+297,Alters the appearance of armor crafted from Draenor Tailoring to something more impressive.,464,3986,0,0,0
+298,Alters the appearance of armor crafted from Draenor Tailoring to something truly remarkable.,464,3987,0,0,0
+299,Alters the appearance of weapons crafted from Draenor Inscription to something more impressive.,465,3986,0,0,0
+300,Alters the appearance of weapons crafted from Draenor Inscription to something truly remarkable.,465,3987,0,0,0
+302,Grant your crafted equipment a completely imperceivable but totally real improvement.,467,4049,0,0,0

@@ -1,4 +1,4 @@
-DisplayName_lang,AlternateVerb_lang,Description_lang,HordeDisplayName_lang,NeutralDisplayName,ID,CategoryID,SpellIconFileID,CanLink,ParentSkillLineID,ParentTierIndex,Flags,SpellBookSpellID,AllianceSharedStringID,HordeSharedStringID
+DisplayName_lang,AlternateVerb_lang,Description_lang,HordeDisplayName_lang,NeutralDisplayName,ID,CategoryID,SpellIconFileID,CanLink,ParentSkillLineID,ParentTierIndex,Flags,SpellBookSpellID,ExpansionNameSharedStringID,HordeExpansionNameSharedStringID
 劍,,武器技能越高，擊中敵人的機率就越高。,,,43,6,136243,0,0,0,128,0,0,0
 斧,,武器技能越高，擊中敵人的機率就越高。,,,44,6,136243,0,0,0,128,0,0,0
 弓,,武器技能越高，擊中敵人的機率就越高。,,,45,6,136243,0,0,0,128,0,0,0

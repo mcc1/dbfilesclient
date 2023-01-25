@@ -757,7 +757,7 @@ ID,Name_lang,Flags,UsesPerWeek,MaxCharges,ChargeRecoveryTime,TypeMask
 2028,Racial - Dracthyr - Soar - Shared,0,0,0,0,0
 2030,10.0 Professions - Jewelcrafting - Kalu'ak Figurine,0,0,0,0,0
 2031,Class - Mage - Flurry,0,0,1,30000,1
-2032,Class - Rogue - Thistle Tea,0,0,3,60000,0
+2032,Class - Rogue - Thistle Tea,48,0,3,60000,1
 2033,10.0 Raid - Primalist - Boss - Quarry - Detonating Smash (2 Cast) - SRC,0,0,0,0,0
 2034,10.0 Professions - Alchemy - Experimentation,0,0,0,0,0
 2035,Class - Evoker - Rewind,48,0,1,240000,1
@@ -813,3 +813,5 @@ ID,Name_lang,Flags,UsesPerWeek,MaxCharges,ChargeRecoveryTime,TypeMask
 2099,Herbalism Banner,0,0,0,0,0
 2100,Class - Evoker - Obsidian Scales,0,0,1,90000,1
 2102,10.0 Raid - Primalist - Zone - Zone Control - Wind Elemental Elevator - Up and Down Cover Spells,0,0,0,0,0
+2105,Class - Priest - Pain Suppression,0,0,1,180000,0
+2106,Felguard,0,0,0,0,0

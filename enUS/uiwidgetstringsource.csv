@@ -5968,7 +5968,7 @@ ID,Value_lang,ReqID,ParentWidgetID
 11756,,273,4343
 11757,,208,4343
 11758,"The better the smell, the better the soup... and the greater the danger!",208,4344
-11759,Soup Quality: |cFFFF8000Legendary|r,19,4344
+11759,Soup Quality: |cFFFF8000Legendary (%38830e)|r,19,4344
 11760,Protect the Soup!,273,4344
 11793,|cff1eff00Rich|r|n125% chance to catch an Ominous Conch. |n20% chance to drill extra deep hole in ice for better catch.|nIce fishing holes last 10 minutes.|nNets can be set.,52,4361
 11794,,394,4361
@@ -6171,6 +6171,10 @@ ID,Value_lang,ReqID,ParentWidgetID
 12061,Uktulut Outpost,19,4464
 12062,Lost Arvillo travels between Uktulut Outpost and Uktulut Pier.,208,4464
 12063,Time Until Arrival,273,4464
+12070,|CFFffd200The Primalists are mounting an attack upon the Temporal Conflux!|r,52,4468
+12071,,394,4468
+12072,|cFFffd200Begins in %22895k|r,52,4469
+12073,,394,4469
 12074,Time Remaining: %22896x,52,4470
 12075,,394,4470
 12079,"Keep moving, or you'll fall!",407,4471
@@ -6217,11 +6221,11 @@ ID,Value_lang,ReqID,ParentWidgetID
 12141,,205,4498
 12142,- New |cFFFFFFFFBounty quests|r can be found in this area.,52,4499
 12143,,394,4499
-12156,- New |cFFFFFFFFClan Aylaag quests|r can be found in this area.,52,4505
+12156,- New |cFFFFFFFFClan Aylaag quests|r can be found|n in this area.,52,4505
 12157,,394,4505
-12158,- New |cFFFFFFFFClan Aylaag quests|r can be found in this area.,52,4506
+12158,- New |cFFFFFFFFClan Aylaag quests|r can be found |nin this area.,52,4506
 12159,,394,4506
-12160,- New |cFFFFFFFFClan Aylaag quests|r can be found in this area.,52,4507
+12160,- New |cFFFFFFFFClan Aylaag quests|r can be found |nin this area.,52,4507
 12161,,394,4507
 12164,World Quests Unlocked,584,4492
 12165,"The Dragon Isles need your aid! Check your map for a range of new activities,",585,4492
@@ -6246,11 +6250,11 @@ ID,Value_lang,ReqID,ParentWidgetID
 12184,,394,4516
 12185,- New |cFFFFFFFFBlack Dragonflight quests|r can be found in this area.,52,4517
 12186,,394,4517
-12187,- Completing the |cFFFFFFFFCommunity Feast|r event will grant bonus rewards.,52,4518
+12187,- Completing the |cFFFFFFFFCommunity Feast|r event |nwill grant bonus rewards.,52,4518
 12188,,394,4518
-12189,- Completing the |cFFFFFFFFShikaar Grand Hunt|r event will grant bonus rewards.,52,4519
+12189,- Completing the |cFFFFFFFFShikaar Grand Hunt|r event |nwill grant bonus rewards.,52,4519
 12190,,394,4519
-12191,- Completing the |cFFFFFFFFSiege on Dragonbane Keep|r event in Waking Shores will grant bonus rewards.,52,4520
+12191,- Completing the |cFFFFFFFFSiege on Dragonbane Keep|r |nevent in Waking Shores will grant bonus |nrewards.,52,4520
 12192,,394,4520
 12193,- Pledge your allegiance to either Wrathion or Sabellian to unlock |cFFFFFFFFadditional quests|r.,52,4521
 12194,,394,4521
@@ -6295,9 +6299,6 @@ ID,Value_lang,ReqID,ParentWidgetID
 12243,Dragon Glyphs Obtained,584,4546
 12244,"Collected by flying through the dragon glyphs found throughout the Dragon Isles. Spend to unlock Dragonriding skills.|n|nFor clues to find these glyphs, check the Glyph Hunter achievements or Dragon Glyph Resonance when your drake senses one nearby.|n|n",585,4546
 12245,,598,4546
-12246,Disc Stability,19,4550
-12247,,208,4550
-12248,,273,4550
 12249,Quests:,52,4551
 12250,,394,4551
 12251,Quests:,52,4552
@@ -6314,3 +6315,47 @@ ID,Value_lang,ReqID,ParentWidgetID
 12262,Dragon Isles,19,4556
 12263,Top gnomes are tracking down the boat's current location.,208,4556
 12264,Unknown Arrival Time,273,4556
+12271,Elemental Portals active,19,4559
+12272,,273,4559
+12273,Close Elemental Portals to cut off power to the Primalist's ritual.,208,4559
+12398,,19,4602
+12399,Use Primal Motes to break through the barrier and destroy this conduit!,208,4602
+12400,Primal Barrier Strength,273,4602
+12414,,19,4605
+12415,Use Primal Motes to destroy all nearby Primalist Totems to close this portal!,208,4605
+12416,Portal Stability,273,4605
+12424,Primal Motes: %201990c,56,4606
+12425,Primal Motes are used for many different things.,57,4606
+12426,,59,4606
+12427,,60,4606
+12428,,62,4606
+12429,,63,4606
+12430,,67,4606
+12431,,66,4606
+12432,,72,4606
+12433,,73,4606
+12434,,74,4606
+12435,,75,4606
+12436,,194,4606
+12437,,195,4606
+12438,,197,4606
+12439,,198,4606
+12440,,200,4606
+12441,,201,4606
+12442,Placeholder Text,428,4606
+12445,Kill nearby Primalists and keep the location secure so that the portal can be closed.,275,4607
+12616,Test,275,4653
+12635,Kill nearby Primalists and keep the location secure so that the portal can be closed.,275,4661
+12636,Kill nearby Primalists and keep the location secure so that the portal can be closed.,275,4662
+12637,Kill nearby Primalists and keep the location secure so that the portal can be closed.,275,4663
+12638,Kill nearby Primalists and keep the location secure so that the portal can be closed.,275,4664
+12639,Kill nearby Primalists and keep the location secure so that the portal can be closed.,275,4665
+12640,Kill nearby Primalists and keep the location secure so that the portal can be closed.,275,4666
+12641,Kill nearby Primalists and keep the location secure so that the portal can be closed.,275,4667
+12642,Kill nearby Primalists and keep the location secure so that the portal can be closed.,275,4668
+12643,Kill nearby Primalists and keep the location secure so that the portal can be closed.,275,4669
+12644,Kill nearby Primalists and keep the location secure so that the portal can be closed.,275,4670
+12645,Kill nearby Primalists and keep the location secure so that the portal can be closed.,275,4671
+12646,Kill nearby Primalists and keep the location secure so that the portal can be closed.,275,4672
+12647,Kill nearby Primalists and keep the location secure so that the portal can be closed.,275,4673
+12648,Kill nearby Primalists and keep the location secure so that the portal can be closed.,275,4674

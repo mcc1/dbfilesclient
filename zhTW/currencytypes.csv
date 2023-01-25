@@ -1,4 +1,4 @@
-ID,Name_lang,Description_lang,CategoryID,InventoryIconFileID,SpellWeight,SpellCategory,MaxQty,MaxEarnablePerWeek,Quality,FactionID,ItemGroupSoundsID,XpQuestDifficulty,AwardConditionID,MaxQtyWorldStateID,Field_10_0_2_46091_014,SomeCooldownMilliseconds,Flags[0],Flags[1]
+ID,Name_lang,Description_lang,CategoryID,InventoryIconFileID,SpellWeight,SpellCategory,MaxQty,MaxEarnablePerWeek,Quality,FactionID,ItemGroupSoundsID,XpQuestDifficulty,AwardConditionID,MaxQtyWorldStateID,RechargingAmountPerCycle,RechargingCycleDurationMS,Flags[0],Flags[1]
 1,Currency Token Test Token 4,本物品之敘述在此,1,133792,1,0,0,0,1,0,0,0,0,0,0,0,71682,0
 2,Currency Token Test Token 2,,1,132092,1,2,0,0,1,0,0,0,0,0,0,0,12289,0
 4,Currency Token Test Token 5,,1,133790,4,3,0,0,1,0,0,0,0,0,0,0,0,0
@@ -313,6 +313,7 @@ ID,Name_lang,Description_lang,CategoryID,InventoryIconFileID,SpellWeight,SpellCa
 1982,受啟迪者,賦予受啟迪者的聲望。,142,4217591,0,0,0,0,1,2478,0,0,0,0,0,0,10,0
 1997,博文者寶典,賦予博文者寶典進度。,142,457654,0,0,0,0,1,2472,0,0,0,0,0,0,10,0
 2000,命運微粒,,142,237016,0,0,0,0,0,0,0,0,0,0,0,0,68681728,0
+2001,帕登試行貨幣,,144,237281,0,0,0,0,5,0,0,0,0,0,0,0,0,0
 2002,名望-莫魯克半人馬,名望,142,4687627,0,0,25,0,6,0,0,0,0,0,0,0,68943872,0
 2003,巨龍群島補給品,能協助巨龍群島的友方陣營對抗洪荒使者的各種物資和建築材料。用來購買名望物品。,250,2065578,0,0,0,0,1,0,12,0,0,0,0,0,134217730,0
 2005,Druid Talent Points (DNT),,1,132136,0,0,0,0,1,0,0,0,0,0,0,0,0,0
@@ -356,6 +357,7 @@ ID,Name_lang,Description_lang,CategoryID,InventoryIconFileID,SpellWeight,SpellCa
 
 你可以透過不同手段獲得知識，像是首次製作某種配方，或是完成沃卓肯工匠市場提供的任務。",142,3615911,0,0,0,0,3,0,21,0,0,0,0,0,0,0
 2031,龍鱗遠征隊,獲得龍鱗遠征隊聲望。,142,4687628,0,0,0,0,1,2507,0,0,0,0,0,0,10,0
+2032,商人的標幣,可在貿易站使用商人的標幣來兌換商品。,1,4696085,0,0,0,0,4,0,14,0,0,0,0,0,2097154,8
 2033,巨龍群島剝皮知識,"使用知識習得剝皮專精。
 
 你可以透過不同手段獲得知識，像是深入探究剝皮過程中的新發現，或是完成你在沃卓肯的訓練師所提供的任務。",142,4625106,0,0,0,0,3,0,7,0,0,0,0,0,0,0
@@ -475,7 +477,7 @@ ID,Name_lang,Description_lang,CategoryID,InventoryIconFileID,SpellWeight,SpellCa
 2151,紅色幼龍(療癒之息),,142,4572404,0,0,6,0,0,0,0,0,0,0,0,0,77071360,0
 2152,紅色幼龍(沉睡晶紅溫暖),,142,4572404,0,0,6,0,0,0,0,0,0,0,0,0,77071360,0
 2153,紅色幼龍(紅翼守護),,142,4572404,0,0,6,0,0,0,0,0,0,0,0,0,77071360,0
-2154,飛龍競速 - 個人最佳紀錄 - 甦醒海岸01測試,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2154,Dragon Racing - Personal Best Record - Waking Shores 01 Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
 2155,飛龍競速 - 最佳時間顯示 - 全部,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
 2156,飛龍競速 - 最佳時間顯示 - 組別1,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
 2157,飛龍競速 - 最佳時間顯示 - 組別10,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
@@ -484,16 +486,47 @@ ID,Name_lang,Description_lang,CategoryID,InventoryIconFileID,SpellWeight,SpellCa
 2160,飛龍競速 - 最佳時間顯示 - 進階 - 組別1,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
 2161,飛龍競速 - 最佳時間顯示 - 進階 - 組別10,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
 2162,飛龍競速 - 最佳時間顯示 - 進階 - 組別100,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
-2165,專業技能 - 公開訂單上限 - 鍛造,,142,237184,0,0,20,0,0,0,0,0,0,0,5,86400000,1572864,0
-2166,重生育籃帳號共用貨幣,,142,897131,0,0,0,0,0,0,0,0,0,0,0,0,68681728,0
+2165,專業技能 - 公開訂單上限 - 鍛造,,142,237184,0,0,4,0,0,0,0,0,0,0,1,86400000,1572864,0
+2166,新生生命之血,新生生命之血會為重生育籃補充能量，使其能夠將超凡的力量注入護甲之中。,142,897131,0,0,0,0,5,0,0,0,0,0,0,0,18350082,0
 2167,催化次數,"|cnHEIRLOOM_BLUE_COLOR:帳號共用|r
 完成團隊活動來獲得所有角色共用的次數。
 
 |cnWHITE_FONT_COLOR:每隻角色最多6次上限。|r",142,897143,0,0,0,0,1,0,0,0,0,0,0,0,72876032,0
-2169,專業技能 - 公開訂單上限 - 製皮,,142,0,0,0,20,0,0,0,0,0,0,0,5,86400000,1572864,0
-2170,專業技能 - 公開訂單上限 - 鍊金術,,142,0,0,0,20,0,0,0,0,0,0,0,5,86400000,1572864,0
-2171,專業技能 - 公開訂單上限 - 裁縫,,142,0,0,0,20,0,0,0,0,0,0,0,5,86400000,1572864,0
-2172,專業技能 - 公開訂單上限 - 工程學,,142,237184,0,0,20,0,0,0,0,0,0,0,5,86400000,1572864,0
-2173,專業技能 - 公開訂單上限 - 附魔,,142,0,0,0,20,0,0,0,0,0,0,0,5,86400000,1572864,0
-2174,專業技能 - 公開訂單上限 - 珠寶設計,,142,0,0,0,20,0,0,0,0,0,0,0,5,86400000,1572864,0
-2175,專業技能 - 公開訂單上限 - 銘文學,,142,0,0,0,20,0,0,0,0,0,0,0,5,86400000,1572864,0
+2169,專業技能 - 公開訂單上限 - 製皮,,142,0,0,0,4,0,0,0,0,0,0,0,1,86400000,1572864,0
+2170,專業技能 - 公開訂單上限 - 鍊金術,,142,0,0,0,4,0,0,0,0,0,0,0,1,86400000,1572864,0
+2171,專業技能 - 公開訂單上限 - 裁縫,,142,0,0,0,4,0,0,0,0,0,0,0,1,86400000,1572864,0
+2172,專業技能 - 公開訂單上限 - 工程學,,142,237184,0,0,4,0,0,0,0,0,0,0,1,86400000,1572864,0
+2173,專業技能 - 公開訂單上限 - 附魔,,142,0,0,0,4,0,0,0,0,0,0,0,1,86400000,1572864,0
+2174,專業技能 - 公開訂單上限 - 珠寶設計,,142,0,0,0,4,0,0,0,0,0,0,0,1,86400000,1572864,0
+2175,專業技能 - 公開訂單上限 - 銘文學,,142,0,0,0,4,0,0,0,0,0,0,0,1,86400000,1572864,0
+2176,Dragon Racing - Personal Best Record - Waking Shores 02 Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2177,Dragon Racing - Personal Best Record - Waking Shores 03 Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2178,Dragon Racing - Personal Best Record - Waking Shores 04 Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2179,Dragon Racing - Personal Best Record - Waking Shores 05 Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2180,Dragon Racing - Personal Best Record - Waking Shores 06 Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2181,Dragon Racing - Personal Best Record - Waking Shores 07 Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2182,Dragon Racing - Personal Best Record - Waking Shores 08 Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2183,Dragon Racing - Personal Best Record - Ohn'ahran Plains01Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2184,Dragon Racing - Personal Best Record - Ohn'ahran Plains02Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2185,Dragon Racing - Personal Best Record - Ohn'ahran Plains03Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2186,Dragon Racing - Personal Best Record - Ohn'ahran Plains04Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2187,Dragon Racing - Personal Best Record - Ohn'ahran Plains07Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2188,Dragon Racing - Personal Best Record - Azure Span 01 Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2189,Dragon Racing - Personal Best Record - Azure Span 02 Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2190,Dragon Racing - Personal Best Record - Azure Span 03 Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2191,Dragon Racing - Personal Best Record - Azure Span 04 Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2192,Dragon Racing - Personal Best Record - Azure Span 05 Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2193,Dragon Racing - Personal Best Record - Azure Span 06 Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2194,Dragon Racing - Personal Best Record - Thaldraszus 01 Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2195,Dragon Racing - Personal Best Record - Thaldraszus 02 Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2196,Dragon Racing - Personal Best Record - Thaldraszus 03 Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2197,Dragon Racing - Personal Best Record - Thaldraszus 04 Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2198,Dragon Racing - Personal Best Record - Thaldraszus 05 Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2199,Dragon Racing - Personal Best Record - Thaldraszus 06 Reverse,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2224,Dragon Racing - Best Time Display - Reverse - Whole,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2225,Dragon Racing - Best Time Display - Reverse - Fraction 1,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2226,Dragon Racing - Best Time Display - Reverse - Fraction 10,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2227,Dragon Racing - Best Time Display - Reverse - Fraction 100,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2235,10.0 Dragonrider PVP - Whirling Surge Dismounts 10.0.2 [DNT],,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2236,飛龍競速 - 記分板 - 競速完成時間MS,,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2237,10.0 Dragonrider PVP - Whirling Surge Dismounts 10.0.5 [DNT],,251,0,0,0,0,0,0,0,0,0,0,0,0,0,68682752,0

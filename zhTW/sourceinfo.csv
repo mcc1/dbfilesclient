@@ -622,11 +622,11 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 3264,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200寶藏：|r世界掉落,0,0,16725
 3265,|cFFFFD200商人：|r德拉姆‧河角|n|cFFFFD200區域：|r安戈洛環形山|n|cFFFFD200花費：|r4|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,16726
 3266,|cFFFFD200專業技能訓練師：|r鍛造(300)|n|cFFFFD200花費：|r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t20|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,16730
-3267,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200寶藏：|r外域,0,0,16728
-3268,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200寶藏：|r外域,0,0,16729
+3267,|cFFFFD200掉落：|r世界生物,0,0,16728
+3268,|cFFFFD200掉落：|r世界生物,0,0,16729
 3270,|cFFFFD200商人：|r德拉姆‧河角|n|cFFFFD200區域：|r安戈洛環形山|n|cFFFFD200花費：|r6|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,16732
-3271,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200寶藏：|r外域,0,0,16741
-3275,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200寶藏：|r外域,0,0,16746
+3271,|cFFFFD200掉落：|r世界生物,0,0,16741
+3275,|cFFFFD200掉落：|r世界生物,0,0,16746
 3279,|cFFFFD200專業技能訓練師：|r鍛造(275)|n|cFFFFD200花費：|r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t50|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,16969
 3281,|cFFFFD200專業技能訓練師：|r鍛造(280)|n|cFFFFD200花費：|r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t50|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,16971
 3285,|cFFFFD200寶藏：|r鍛造設計圖|n|cFFFFD200區域：|r斯坦索姆,-1,0,16983
@@ -704,8 +704,8 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 3371,|cFFFFD200專業技能訓練師：|r裁縫(300)|n|cFFFFD200花費：|r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t50|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,18451
 3372,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200寶藏：|r世界掉落,0,0,18452
 3373,|cFFFFD200專業技能訓練師：|r裁縫(300)|n|cFFFFD200花費：|r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t50|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,18453
-3374,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200寶藏：|r外域,0,0,18454
-3375,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200寶藏：|r外域,0,0,18455
+3374,|cFFFFD200掉落：|r世界生物,0,0,18454
+3375,|cFFFFD200掉落：|r世界生物,0,0,18455
 3376,|cFFFFD200掉落：|r巴納札爾|n|cFFFFD200區域：|r斯坦索姆,-1,0,18456
 3377,|cFFFFD200掉落：|r火印火占師|n|cFFFFD200區域：|r黑石塔,-1,0,18457
 3379,|cFFFFD200商人：|r琪亞|n|cFFFFD200區域：|r冬泉谷|n|cFFFFD200花費：|r2|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,18560
@@ -1015,9 +1015,9 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 3763,|cFFFFD200掉落：|r博學者卡雷迪斯|n|cFFFFD200區域：|r厄運之槌,-1,0,27660
 3764,|cFFFFD200商人：|r米希塔|n|cFFFFD200區域：|r希利蘇斯|n|cFFFFD200陣營：|r塞納里奧議會 - 友好|n|cFFFFD200花費：|r2|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,27724
 3765,|cFFFFD200商人：|r米希塔|n|cFFFFD200區域：|r希利蘇斯|n|cFFFFD200陣營：|r塞納里奧議會 - 崇敬|n|cFFFFD200花費：|r5|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,27725
-3766,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200寶藏：|r外域,0,0,27830
+3766,|cFFFFD200掉落：|r世界生物,0,0,27830
 3767,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200寶藏：|r世界掉落,0,0,27829
-3768,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200寶藏：|r外域,0,0,27832
+3768,|cFFFFD200掉落：|r世界生物,0,0,27832
 3769,|cFFFFD200商人：|r梅羅什|n|cFFFFD200區域：|r費伍德森林|n|cFFFFD200陣營：|r木喉要塞 - 友好|n|cFFFFD200花費：|r2|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t50|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,2,27837
 3771,|cFFFFD200專業技能訓練師：|r外域附魔(5)|n|cFFFFD200花費：|r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t25|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,27899
 3772,|cFFFFD200專業技能訓練師：|r外域附魔(15)|n|cFFFFD200花費：|r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t25|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,27905
@@ -5046,7 +5046,7 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 8848,|cFFFFD200任務：|r每日任務|n|cFFFFD200區域：|r撒塔斯城|n|cFFFFD200物品：|r魚桶|n|n|cFFFFD200任務：|r每日任務|n|cFFFFD200區域：|r撒塔斯城|n|cFFFFD200物品：|r肉品木箱,-1,1,43779
 8850,|cFFFFD200商人：|r世界商人|n|cFFFFD200花費：|r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人：|r世界商人|n|cFFFFD200花費：|r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,45022
 8851,|cFFFFD200區域：|r撒塔斯城|n|cFFFFD200任務給予者：|r洛克|n|cFFFFD200任務：|r每日任務|n|cFFFFD200物品：|r魚桶|n|n|cFFFFD200區域：|r撒塔斯城|n|cFFFFD200任務給予者：|r洛克|n|cFFFFD200任務：|r每日任務|n|cFFFFD200物品：|r肉品木箱,-1,1,43772
-8852,|cFFFFD200區域：|r剃刀高地|n|cFFFFD200訓練師：|r亨利‧斯特恩,-1,0,13028
+8852,|cFFFFD200寶藏：|r亨利的提袋|n|cFFFFD200區域：|r剃刀高地,-1,0,13028
 8855,|cFFFFD200任務：|r每日任務|n|cFFFFD200區域：|r撒塔斯城|n|cFFFFD200物品：|r魚桶|n|n|cFFFFD200任務：|r每日任務|n|cFFFFD200區域：|r撒塔斯城|n|cFFFFD200物品：|r肉品木箱,-1,1,45695
 8856,|cFFFFD200專業技能訓練師：|r烹飪(250)|n|cFFFFD200花費：|r65|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,46684
 8857,|cFFFFD200專業技能訓練師：|r烹飪(250)|n|cFFFFD200花費：|r65|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,46688
@@ -5675,8 +5675,8 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 9862,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200寶藏：|r世界掉落,1,0,16659
 9863,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200寶藏：|r世界掉落,1,0,16724
 9864,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200寶藏：|r世界掉落,1,0,16725
-9865,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200寶藏：|r外域,1,0,16728
-9866,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200寶藏：|r外域,1,0,16729
+9865,|cFFFFD200掉落：|r世界生物,1,0,16728
+9866,|cFFFFD200掉落：|r世界生物,1,0,16729
 9867,|cFFFFD200掉落：|r世界生物,1,0,16741
 9868,|cFFFFD200掉落：|r世界生物,1,0,16746
 9869,|cFFFFD200商人：|r蘇雷‧漿泡|n|cFFFFD200區域：|r丹莫洛|n|cFFFFD200花費：|r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t30|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,1,2,17554
@@ -9242,7 +9242,7 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 18022,|cFFFFD200PvP勝利：|r競技場、戰場、戰爭模式|n|cFFFFD200配方：|r可於拍賣場購買,-1,0,374495
 18023,|cFFFFD200PvP勝利：|r競技場、戰場、戰爭模式|n|cFFFFD200配方：|r可於拍賣場購買,-1,0,374496
 18024,|cFFFFD200專精：|r鑲嵌 - 戒指,-1,3,374497
-18025,|cFFFFD200掉落：|r元素寶箱|n|cFFFFD200區域：|r洪荒使者將來|n|cFFFFD200配方：|r可於拍賣場購買,-1,0,374498
+18025,|cFFFFD200掉落：|r元素寶箱|n|cFFFFD200區域：|r洪荒使者未來|n|cFFFFD200配方：|r可於拍賣場購買,-1,0,374498
 18026,|cFFFFD200掉落：|r洪荒風暴內的強大生物|n|cFFFFD200配方：|r可於拍賣場購買,-1,0,374499
 18027,|cFFFFD200掉落：|r首領|n|cFFFFD200區域：|r洪荒化身牢獄|n|cFFFFD200配方：|r可於拍賣場購買,-1,0,374501
 18028,|cFFFFD200專精：|r鑲嵌,-1,3,374502
@@ -9799,3 +9799,20 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 18580,|cFFFFD200專業技能訓練師：|r巨龍群島烹飪(5)|n|cFFFFD200費用：|r60|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,381369
 18581,|cFFFFD200專業技能訓練師：|r巨龍群島烹飪(35)|n|cFFFFD200費用：|r150|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,381370
 18582,|cFFFFD200專業技能訓練師：|r巨龍群島工程學(40)|n|cFFFFD200費用：|r160|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,396777
+18591,|cFFFFD200商人：|r諾恩‧三棘|n|cFFFFD200區域：|r戰爭之矛|n|cFFFFD200費用：|r5|Hitem:118720|h|TInterface\ICONS\INV_Misc_Book_11.blp:0|t|h|n|n|cFFFFD200商人：|r羅伊斯‧大鬍子|n|cFFFFD200區域：|r暴風之盾|n|cFFFFD200費用：|r5|Hitem:118720|h|TInterface\ICONS\INV_Misc_Book_11.blp:0|t|h,-1,2,397853
+18592,|cFFFFD200商人：|r諾恩‧三棘|n|cFFFFD200區域：|r戰爭之矛|n|cFFFFD200費用：|r5|Hitem:118720|h|TInterface\ICONS\INV_Misc_Book_11.blp:0|t|h|n|n|cFFFFD200商人：|r羅伊斯‧大鬍子|n|cFFFFD200區域：|r暴風之盾|n|cFFFFD200費用：|r5|Hitem:118720|h|TInterface\ICONS\INV_Misc_Book_11.blp:0|t|h,-1,2,397855
+18593,|cFFFFD200商人：|r諾恩‧三棘|n|cFFFFD200區域：|r戰爭之矛|n|cFFFFD200費用：|r5|Hitem:118720|h|TInterface\ICONS\INV_Misc_Book_11.blp:0|t|h|n|n|cFFFFD200商人：|r羅伊斯‧大鬍子|n|cFFFFD200區域：|r暴風之盾|n|cFFFFD200費用：|r5|Hitem:118720|h|TInterface\ICONS\INV_Misc_Book_11.blp:0|t|h,-1,2,397856
+18594,|cFFFFD200商人：|r諾恩‧三棘|n|cFFFFD200區域：|r戰爭之矛|n|cFFFFD200費用：|r5|Hitem:118720|h|TInterface\ICONS\INV_Misc_Book_11.blp:0|t|h|n|n|cFFFFD200商人：|r羅伊斯‧大鬍子|n|cFFFFD200區域：|r暴風之盾|n|cFFFFD200費用：|r5|Hitem:118720|h|TInterface\ICONS\INV_Misc_Book_11.blp:0|t|h,-1,2,397857
+18595,|cFFFFD200商人：|r尼克‧鋼環|n|cFFFFD200區域：|r戰爭之矛|n|cFFFFD200費用：|r5|Hitem:119299|h|TInterface\ICONS\INV_Misc_Book_08.blp:0|t|h|n|n|cFFFFD200商人：|r西恩‧捕樁|n|cFFFFD200區域：|r暴風之盾|n|cFFFFD200費用：|r5|Hitem:119299|h|TInterface\ICONS\INV_Misc_Book_08.blp:0|t|h,-1,2,397858
+18596,|cFFFFD200商人：|r尼克‧鋼環|n|cFFFFD200區域：|r戰爭之矛|n|cFFFFD200費用：|r5|Hitem:119299|h|TInterface\ICONS\INV_Misc_Book_08.blp:0|t|h|n|n|cFFFFD200商人：|r西恩‧捕樁|n|cFFFFD200區域：|r暴風之盾|n|cFFFFD200費用：|r5|Hitem:119299|h|TInterface\ICONS\INV_Misc_Book_08.blp:0|t|h,-1,2,397859
+18597,|cFFFFD200商人：|r尼克‧鋼環|n|cFFFFD200區域：|r戰爭之矛|n|cFFFFD200費用：|r5|Hitem:119299|h|TInterface\ICONS\INV_Misc_Book_08.blp:0|t|h|n|n|cFFFFD200商人：|r西恩‧捕樁|n|cFFFFD200區域：|r暴風之盾|n|cFFFFD200費用：|r5|Hitem:119299|h|TInterface\ICONS\INV_Misc_Book_08.blp:0|t|h,-1,2,397860
+18598,|cFFFFD200商人：|r尼克‧鋼環|n|cFFFFD200區域：|r戰爭之矛|n|cFFFFD200費用：|r5|Hitem:119299|h|TInterface\ICONS\INV_Misc_Book_08.blp:0|t|h|n|n|cFFFFD200商人：|r西恩‧捕樁|n|cFFFFD200區域：|r暴風之盾|n|cFFFFD200費用：|r5|Hitem:119299|h|TInterface\ICONS\INV_Misc_Book_08.blp:0|t|h,-1,2,397861
+18599,|cFFFFD200商人：|r加姆‧林行|n|cFFFFD200區域：|r戰爭之矛|n|cFFFFD200費用：|r5|Hitem:118721|h|TInterface\ICONS\INV_Misc_Book_09.blp:0|t|h|n|n|cFFFFD200商人：|r莉菈‧月絲|n|cFFFFD200區域：|r暴風之盾|n|cFFFFD200費用：|r5|Hitem:118721|h|TInterface\ICONS\INV_Misc_Book_09.blp:0|t|h,-1,2,397862
+18600,|cFFFFD200商人：|r加姆‧林行|n|cFFFFD200區域：|r戰爭之矛|n|cFFFFD200費用：|r5|Hitem:118721|h|TInterface\ICONS\INV_Misc_Book_09.blp:0|t|h|n|n|cFFFFD200商人：|r莉菈‧月絲|n|cFFFFD200區域：|r暴風之盾|n|cFFFFD200費用：|r5|Hitem:118721|h|TInterface\ICONS\INV_Misc_Book_09.blp:0|t|h,-1,2,397863
+18601,|cFFFFD200商人：|r培提爾‧星洋|n|cFFFFD200區域：|r戰爭之矛|n|cFFFFD200費用：|r5|Hitem:118722|h|TInterface\ICONS\INV_Misc_Book_03.blp:0|t|h|n|n|cFFFFD200商人：|r史蒂芬‧科克瑞|n|cFFFFD200區域：|r暴風之盾|n|cFFFFD200費用：|r5|Hitem:118722|h|TInterface\ICONS\INV_Misc_Book_03.blp:0|t|h,-1,2,397864
+18602,|cFFFFD200商人：|r培提爾‧星洋|n|cFFFFD200區域：|r戰爭之矛|n|cFFFFD200費用：|r5|Hitem:118722|h|TInterface\ICONS\INV_Misc_Book_03.blp:0|t|h|n|n|cFFFFD200商人：|r史蒂芬‧科克瑞|n|cFFFFD200區域：|r暴風之盾|n|cFFFFD200費用：|r5|Hitem:118722|h|TInterface\ICONS\INV_Misc_Book_03.blp:0|t|h,-1,2,397865
+18603,|cFFFFD200商人：|r裘奧‧卡韓多|n|cFFFFD200區域：|r暴風之盾|n|cFFFFD200費用：|r5|Hitem:119297|h|TInterface\ICONS\INV_Misc_Book_08.blp:0|t|h|n|n|cFFFFD200商人：|r瑪露莎|n|cFFFFD200區域：|r戰爭之矛|n|cFFFFD200費用：|r5|Hitem:119297|h|TInterface\ICONS\INV_Misc_Book_08.blp:0|t|h,-1,2,397866
+18604,|cFFFFD200商人：|r裘奧‧卡韓多|n|cFFFFD200區域：|r暴風之盾|n|cFFFFD200費用：|r5|Hitem:119297|h|TInterface\ICONS\INV_Misc_Book_08.blp:0|t|h|n|n|cFFFFD200商人：|r瑪露莎|n|cFFFFD200區域：|r戰爭之矛|n|cFFFFD200費用：|r5|Hitem:119297|h|TInterface\ICONS\INV_Misc_Book_08.blp:0|t|h,-1,2,397867
+18605,|cFFFFD200商人|r戰地管理員安柏瑞斯|n|cFFFFD200區域：|r沃卓肯|n|cFFFFD200費用：|r3|Hitem:190450|h|TInterface\ICONS\INV_10_ElementalCombinedFoozles_Blood.BLP:0|t|h,-1,2,400026
+18606,|cFFFFD200商人|r戰地管理員安柏瑞斯|n|cFFFFD200區域：|r沃卓肯|n|cFFFFD200費用：|r3|Hitem:190450|h|TInterface\ICONS\INV_10_ElementalCombinedFoozles_Blood.BLP:0|t|h,-1,2,400027
+18607,|cFFFFD200商人|r戰地管理員安柏瑞斯|n|cFFFFD200區域：|r沃卓肯|n|cFFFFD200費用：|r3|Hitem:190450|h|TInterface\ICONS\INV_10_ElementalCombinedFoozles_Blood.BLP:0|t|h,-1,2,400028

@@ -2710,7 +2710,7 @@ Grand Hunting Party,Join Clan Shikaar on a Grand Hunt.,7099,1057.71,-2002.9,416.
 Aylaag Camp,Clan Aylaag has stopped at this location for the time being.,7101,-1777.05,1481,418.645,0,99990,16583,398756,0,0,0,0,0,2444,13645,0,719,0,0,2,0
 Aylaag Camp,Clan Aylaag has stopped at this location for the time being.,7102,-171.721,1415.38,343.603,0,99991,16583,398756,0,0,0,0,0,2444,13645,0,718,0,0,2,0
 Aylaag Camp,Clan Aylaag has stopped at this location for the time being.,7103,-1218.46,2613.8,427.258,0,99992,16583,398756,0,0,0,0,0,2444,13645,0,720,0,0,2,0
-Siege on Dragonbane Keep,The Obsidian Outcasts are attempting to take Dragonbane Keep. Assistance is requested.,7104,1645.59,2239.53,90.0601,0,102374,18454,2233766,0,0,0,0,0,2444,13644,0,713,0,2510,0,0
+Siege on Dragonbane Keep,"The siege is active, and the Outcasts could use your help!",7104,1645.59,2239.53,90.0601,0,102374,18454,2233766,0,0,0,0,0,2444,13644,0,713,0,2510,0,0
 The Burning Cauldron,,7105,-123.32,-500.79,108.251,0,0,6781,4356,67601,3,2080,0,0,2519,0,0,0,0,0,0,0
 Chamber of Flames,,7106,-131.232,-503.683,106.061,0,0,6784,4356,67601,3,2081,0,0,2519,0,0,0,0,0,0,0
 Ruby Lifeshrine,,7107,1535.31,-263.941,126.015,0,0,6784,0,67860,3,2094,0,0,2521,0,0,0,0,0,0,0
@@ -2745,14 +2745,14 @@ Elemental Storm,"A Primalist thunderstorm buffets the Ohn'iri Springs, imbuing c
 Elemental Storm,"A Primalist sandstorm engulfs the Ohn'iri Springs, imbuing creatures with new powers and strengths.",7226,-2383.36,2703.97,611.112,0,101772,17394,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
 Elemental Storm,"A Primalist firestorm rages through the Ohn'iri Springs, imbuing creatures with new powers and strengths.",7227,-2383.36,2703.97,611.112,0,101773,17395,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
 Elemental Storm,"A Primalist snowstorm chills the Ohn'iri Springs, imbuing creatures with new powers and strengths.",7228,-2383.36,2703.97,611.112,0,101774,17396,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
-Elemental Storm,"A Primalist thunderstorm buffets Brackenhide Hollow, imbuing creatures with new powers and strengths.",7229,-3473.72,3782.85,109.677,0,101785,17393,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
-Elemental Storm,"A Primalist sandstorm engulfs Brackenhide Hollow, imbuing creatures with new powers and strengths.",7230,-3473.72,3782.85,109.677,0,101786,17394,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
-Elemental Storm,"A Primalist firestorm rages through Brackenhide Hollow, imbuing creatures with new powers and strengths.",7231,-3473.72,3782.85,109.677,0,101787,17395,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
-Elemental Storm,"A Primalist snowstorm chills Brackenhide Hollow, imbuing creatures with new powers and strengths.",7232,-3473.72,3782.85,109.677,0,101788,17396,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
-Elemental Storm,"A Primalist thunderstorm buffets the Cobalt Assembly, imbuing creatures with new powers and strengths.",7233,-2686.5,243.03,875.855,0,101792,17393,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
-Elemental Storm,"A Primalist sandstorm engulfs the Cobalt Assembly, imbuing creatures with new powers and strengths.",7234,-2686.5,243.03,875.855,0,101793,17394,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
-Elemental Storm,"A Primalist firestorm rages through the Cobalt Assembly, imbuing creatures with new powers and strengths.",7235,-2686.5,243.03,875.855,0,101794,17395,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
-Elemental Storm,"A Primalist snowstorm chills the Cobalt Assembly, imbuing creatures with new powers and strengths.",7236,-2686.5,243.03,875.855,0,101796,17396,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
+Elemental Storm,"A Primalist thunderstorm buffets Brackenhide Hollow, imbuing creatures with new powers and strengths.",7229,-3625.81,4188.61,100.091,0,101785,17393,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
+Elemental Storm,"A Primalist sandstorm engulfs Brackenhide Hollow, imbuing creatures with new powers and strengths.",7230,-3625.81,4188.61,100.091,0,101786,17394,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
+Elemental Storm,"A Primalist firestorm rages through Brackenhide Hollow, imbuing creatures with new powers and strengths.",7231,-3625.81,4188.61,100.091,0,101787,17395,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
+Elemental Storm,"A Primalist snowstorm chills Brackenhide Hollow, imbuing creatures with new powers and strengths.",7232,-3625.81,4188.61,100.091,0,101788,17396,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
+Elemental Storm,"A Primalist thunderstorm buffets the Cobalt Assembly, imbuing creatures with new powers and strengths.",7233,-2524.3,335.899,874.776,0,101792,17393,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
+Elemental Storm,"A Primalist sandstorm engulfs the Cobalt Assembly, imbuing creatures with new powers and strengths.",7234,-2524.3,335.899,874.776,0,101793,17394,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
+Elemental Storm,"A Primalist firestorm rages through the Cobalt Assembly, imbuing creatures with new powers and strengths.",7235,-2524.3,335.899,874.776,0,101794,17395,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
+Elemental Storm,"A Primalist snowstorm chills the Cobalt Assembly, imbuing creatures with new powers and strengths.",7236,-2524.3,335.899,874.776,0,101796,17396,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
 Elemental Storm,"A Primalist thunderstorm buffets Imbu, imbuing creatures with new powers and strengths.",7237,-5761.48,-875.561,406.836,0,101797,17393,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
 Elemental Storm,"A Primalist sandstorm engulfs Imbu, imbuing creatures with new powers and strengths.",7238,-5761.48,-875.561,406.836,0,101798,17394,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
 Elemental Storm,"A Primalist firestorm rages through Imbu, imbuing creatures with new powers and strengths.",7239,-5761.48,-875.561,406.836,0,101799,17395,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
@@ -2769,10 +2769,10 @@ Elemental Storm,"A Primalist thunderstorm buffets Dragonbane Keep, imbuing creat
 Elemental Storm,"A Primalist sandstorm engulfs Dragonbane Keep, imbuing creatures with new powers and strengths.",7250,1592.04,2345.35,104.449,0,101823,17394,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
 Elemental Storm,"A Primalist firestorm rages through Dragonbane Keep, imbuing creatures with new powers and strengths.",7251,1592.04,2345.35,104.449,0,101824,17395,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
 Elemental Storm,"A Primalist snowstorm chills Dragonbane Keep, imbuing creatures with new powers and strengths.",7252,1592.04,2345.35,104.449,0,101825,17396,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
-Elemental Storm,"A Primalist thunderstorm buffets the Slagmire, imbuing creatures with new powers and strengths.",7253,2440.55,2199.57,189.59,0,101826,17393,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
-Elemental Storm,"A Primalist sandstorm engulfs the Slagmire, imbuing creatures with new powers and strengths.",7254,2440.55,2199.57,189.59,0,101827,17394,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
-Elemental Storm,"A Primalist firestorm rages through the Slagmire, imbuing creatures with new powers and strengths.",7255,2440.55,2199.57,189.59,0,101828,17395,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
-Elemental Storm,"A Primalist snowstorm chills the Slagmire, imbuing creatures with new powers and strengths.",7256,2440.55,2199.57,189.59,0,101829,17396,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
+Elemental Storm,"A Primalist thunderstorm buffets the Slagmire, imbuing creatures with new powers and strengths.",7253,2500.27,2282.98,199.305,0,101826,17393,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
+Elemental Storm,"A Primalist sandstorm engulfs the Slagmire, imbuing creatures with new powers and strengths.",7254,2500.27,2282.98,199.305,0,101827,17394,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
+Elemental Storm,"A Primalist firestorm rages through the Slagmire, imbuing creatures with new powers and strengths.",7255,2500.27,2282.98,199.305,0,101828,17395,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
+Elemental Storm,"A Primalist snowstorm chills the Slagmire, imbuing creatures with new powers and strengths.",7256,2500.27,2282.98,199.305,0,101829,17396,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
 Elemental Storm,"A Primalist thunderstorm buffets Scalecracker Keep, imbuing creatures with new powers and strengths.",7257,3970.704,-508.84897,99.09904,0,101831,17393,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
 Elemental Storm,"A Primalist sandstorm engulfs Scalecracker Keep, imbuing creatures with new powers and strengths.",7258,3970.7744,-509.00174,99.07129,0,101832,17394,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
 Elemental Storm,"A Primalist firestorm rages through Scalecracker Keep, imbuing creatures with new powers and strengths.",7259,3970.7908,-509.4271,98.75229,0,101833,17395,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
@@ -2783,7 +2783,7 @@ Azure Span Rally,Join the multiplayer Dragonriding race.,7263,-1939.15,-1338.11,
 Thaldraszus Rally,Join the multiplayer Dragonriding race.,7264,-46.8404,-1526.4,818.14,0,101844,16793,5508,65714,0,0,0,0,2444,13647,0,0,0,0,0,0
 Water-Bound Chest,Face the Trial of the Flood.,7265,-2557.2,2579.34,627.547,0,102173,4727,4484,0,0,0,0,0,2444,0,0,674,0,0,1,0
 Grimtusk's Fishing Hole,The Tuskarr have noted that this area is perfect for ice fishing.,7266,-3329.07,-840.191,0,0,102191,19220,398756,64864,0,0,0,0,2444,13646,0,671,0,0,2,0
-Siege on Dragonbane Keep,The Obsidian Outcasts are gathering. The siege will begin soon.,7267,1220.4,2218.29,99.9586,0,102359,18454,136614,0,0,0,0,0,2444,13644,0,713,0,2510,0,0
+Siege on Dragonbane Keep,The Outcasts will begin their siege soon!,7267,1220.4,2218.29,99.9586,0,102359,18454,136614,0,0,0,0,0,2444,13644,0,713,0,2510,0,0
 Infusion Chamber,,7268,-282.409,-226.651,-58.021,0,0,6782,0,67774,3,2083,0,0,2527,0,0,0,0,0,0,0
 Infuser's Rotunda,,7269,-293.213,-213.812,-57.5056,0,0,6783,0,67900,3,2082,0,0,2527,0,0,0,0,0,0,0
 Roaring Dragonsprings Fishing Hole,The Tuskarr have noted that fish at this elevation are surprisingly active.,7270,-2534.03,687.018,667.817,0,102626,19220,398756,64864,0,0,0,0,2444,13645,0,677,0,0,2,0
@@ -2794,10 +2794,10 @@ The Headteacher's Enclave,,7274,1531.14,-3097.53,941.191,0,0,6783,0,67427,3,2099
 The Pitch,,7275,1871.731,-3131.9045,914.13995,0,0,6784,0,65504,3,2098,0,0,2526,0,0,0,0,0,0,0
 The Pitch,,7276,2034.5608,-2931.3906,896.592,0,0,6784,0,65504,3,2098,0,0,2526,0,0,0,0,0,0,0
 Algeth'ar Academy,,7277,2092.53,-3112.33,925.11,0,0,6781,0,64899,3,2097,0,0,2526,0,0,0,0,0,0,0
-Elemental Bound Chest,Face the Trial of the Elements.,7294,-980.651,-2213.83,1093.54,0,102949,4727,4484,67505,0,0,0,0,2512,0,0,685,0,0,1,0
+Elemental Bound Chest,Face the Trial of the Elements.,7294,-980.651,-2213.83,1093.54,0,102949,4727,4231,67505,0,0,0,13992,2512,13992,0,685,0,0,0,0
 Engine of Innovation,,7295,129.436,-1422.06,942.337,0,101628,4679,1444,0,0,0,0,0,2444,13862,0,0,0,0,0,0
-Great Vault,"Defeat bosses in Vault of the Incarnates, complete Mythic Keystone dungeons, and earn Honor in Rated PvP to unlock rewards in the Great Vault.",7296,87.3879,-1054.39,838.641,0,103088,11995,1447,62179,0,0,0,13862,2444,13862,0,0,5397,0,0,0
-Great Vault,|cff20ff20Rewards are now available. Return to the Great Vault to claim your reward.|r,7297,87.3879,-1054.39,838.641,0,103089,11995,1050023,62179,0,0,0,13862,2444,13862,0,0,0,0,0,0
+Great Vault,"Defeat bosses in Vault of the Incarnates, complete Mythic Keystone dungeons, and earn Honor in Rated PvP to unlock rewards in the Great Vault.",7296,87.3879,-1054.39,838.641,0,103088,17608,1447,62179,0,0,0,13862,2444,13862,0,0,5397,0,0,0
+Great Vault,|cff20ff20Rewards are now available. Return to the Great Vault to claim your reward.|r,7297,87.3879,-1054.39,838.641,0,103089,17608,1050023,62179,0,0,0,13862,2444,13862,0,0,0,0,0,0
 Elemental Storm,"A Primalist thunderstorm buffets the Primalist Future, imbuing creatures with new powers and strengths.",7298,-1344.97,-2950.09,1174.59,0,103106,17393,2232452,67743,0,0,0,0,2444,0,0,0,0,0,0,0
 Elemental Storm,"A Primalist sandstorm engulfs the Primalist Future, imbuing creatures with new powers and strengths.",7299,-1344.97,-2950.09,1174.59,0,103113,17394,2232452,66256,0,0,0,0,2444,0,0,0,0,0,0,0
 Elemental Storm,"A Primalist firestorm rages through the Primalist Future, imbuing creatures with new powers and strengths.",7300,-1344.97,-2950.09,1174.59,0,103116,17395,2232452,66256,0,0,0,0,2444,0,0,0,0,0,0,0
@@ -2850,3 +2850,7 @@ The Seat of the Aspects,"All five dragonflights join together here, in the heart
 Maruukai,"While the centaur clans can be found hunting all over the Dragon Isles, the Maruuk Centaur always return here, to their ancestral village.",7392,-490.289,2505.66,497.914,0,99309,16583,136612,0,0,0,0,0,2444,13645,0,721,0,0,0,0
 Iskaara,"Most of the Iskaara Tuskarr make their home here, fishing and brewing soup in this village by the sea.",7393,-4718.23,4007.81,-41.7088,0,99309,16585,136612,0,0,0,0,0,2444,13646,0,723,0,0,0,0
 Obsidian Citadel and Dragonbane Keep,"Black dragons and vicious djaradin war over Obsidian Citadel, the ancient home of the black dragonflight.",7394,2135.99,2844.26,496.45,0,99309,16586,136612,0,0,0,0,0,2444,13644,0,724,0,0,0,0
+T&W Trading Post,,7396,-8828.24,834.976,99.4681,0,104831,19009,4231,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zen'shiri Trading Post,,7397,1608.63,-4347.36,21.1202,0,104831,19009,4231,0,0,0,0,0,1,0,0,0,0,0,0,0
+The Storm's Fury,Primalists are assaulting the Temporal Conflux within the Primalist Future.,7407,-1344.21,-2938.67,1174.49,0,104646,17392,4287,0,0,0,0,0,2444,0,0,707,0,0,0,0
+Siege on Dragonbane Keep,"The siege is over, and the keep is controlled by the Obsidian Outcasts.",7413,1645.59,2239.53,90.0601,0,102374,18454,2233766,0,0,0,0,0,2444,13644,0,713,0,2510,0,0

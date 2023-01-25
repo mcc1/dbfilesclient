@@ -24,4 +24,4 @@ ID,Tooltip_lang,Name_lang,Field_8_2_0_30430_003
 102,Number of Ingredients Gathered,Ingredients Gathered,0
 1092,Number of times enemy base banners have been removed,Mines Assaulted,0
 1093,Number of times you have captured the flag,Flag Captures,0
-1097,Rounds Won,Rounds Won,0
+1097,Rounds Won,Rounds|nWon,0

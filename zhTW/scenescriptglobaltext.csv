@@ -2074,6 +2074,7 @@ function AttachmentData:Default()
 		useParentAsMount = false;
 		targetOffset = Transform:New();
 		transitionTime = 0;
+		respectGroundSnap = false;
 	}
 
 	setmetatable(d, self.__meta)
@@ -2415,11 +2416,21 @@ end"
 
 local wrappers =
 {
-	creature = 'cid',
+    animationData = 'adid',
+    animKit = 'akid',
+    broadcastText = 'btid',
+    cameraEffect = 'ceid',
+    cameraMode = 'cmid',
+    creature = 'cid',
+    creatureDisplayInfo = 'cdiid',
 	fileData = 'fid',
 	gameObjectDisplayInfo = 'gdi',
 	item = 'iid',
+    movie = 'mid',
+    screenEffect = 'seid',
+    soundKit = 'skid',
 	spell = 'sid',
+    spellVisual = 'svid',
 }
 
 local env = getfenv();

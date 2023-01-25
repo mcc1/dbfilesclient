@@ -8217,7 +8217,7 @@ ID,ZoneName,AreaName_lang,ContinentID,ParentAreaID,AreaBit,SoundProviderPref,Sou
 13834,KirinTorMainHub,Camp Antonidas,2444,13646,12437,0,0,2552,2511,2648,0,0,0,0,0,15,-1,0,0,0,0,1073758272,8192,0,0,0,0
 13835,DrakonidCitadel,Cobalt Assembly,2444,13646,12438,0,0,2490,2511,2647,0,0,0,0,0,15,-1,0,0,0,0,1073758272,8192,0,0,0,0
 13836,GiantCaves,Slyvern Plunge,2444,13646,12439,0,0,0,0,2648,0,0,0,0,0,15,-1,0,0,0,0,1073758272,8192,0,0,0,0
-13837,LargeTuskarFishingVillage,Iskaara,2444,13646,12440,0,0,2531,2511,2650,0,0,0,6,0,15,-1,0,0,0,0,1075857472,8192,0,0,0,0
+13837,LargeTuskarFishingVillage,Iskaara,2444,13646,12440,0,0,2531,2511,2650,0,0,0,6,0,15,-1,0,0,0,0,1075857408,8192,0,0,0,0
 13838,GorlocShore,Gorloc Shore,2444,13646,12441,0,0,2498,2511,2642,0,0,0,0,0,15,-1,0,0,0,0,1073758272,8192,0,0,0,0
 13839,ChamberofShaping,Chamber of Shaping,2374,13536,12442,0,0,0,0,0,0,0,0,0,0,15,-1,25,25,0,2057,1073758272,0,0,0,0,0
 13840,ProtoformRepository,Protoform Repository,2374,13536,12443,0,0,0,0,0,0,0,0,0,0,15,-1,25,25,0,2057,1073758272,0,0,0,0,0
@@ -8242,7 +8242,7 @@ ID,ZoneName,AreaName_lang,ContinentID,ParentAreaID,AreaBit,SoundProviderPref,Sou
 13859,ExplorerLeagueCamp1,Camp Nowhere,2444,13646,12462,0,0,0,0,2655,0,0,0,0,0,15,-1,0,0,0,0,1073758272,8192,0,0,0,0
 13860,NorthernFrostlands,Upper Frostlands,2444,13646,12463,0,0,0,0,2648,0,0,0,0,0,15,-1,0,0,0,0,1073758272,8192,0,0,0,0
 13861,BluefeatherCliffs,Bluefeather Cliffs,2444,13647,12464,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073741888,0,0,0,0,0
-13862,Valdrakken,Valdrakken,2444,13647,12465,0,0,0,0,2651,0,0,0,0,0,15,-1,25,25,0,0,12585320,0,0,0,0,0
+13862,Valdrakken,Valdrakken,2444,13647,12465,0,0,0,0,2651,0,0,0,6,0,15,-1,25,25,0,0,2344,4096,0,0,0,0
 13863,OribosScenario,Oribos,2504,0,12466,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,64,0,0,0,0,0
 13864,GelikyrPost,Gelikyr Post,2444,13647,12467,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1086324800,0,0,0,0,0
 13865,EastShrine,East Shrine,2444,13647,12468,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073741888,0,0,0,0,0
@@ -8345,7 +8345,7 @@ ID,ZoneName,AreaName_lang,ContinentID,ParentAreaID,AreaBit,SoundProviderPref,Sou
 13993,TheGnollWar,The Gnoll War,2512,0,12581,0,0,35,0,1,0,0,0,0,0,13,-1,0,0,0,0,524352,0,0,0,0,0
 13994,WaroftheShiftingSands,War of the Shifting Sands,2512,0,12582,0,0,590,0,598,0,0,0,0,0,13,-1,0,0,0,0,524352,0,0,0,0,0
 13995,PandarenRevolution,Pandaren Revolution,2512,0,12583,86,0,922,0,1109,0,0,0,0,0,13,-1,0,0,0,0,524352,0,0,0,0,0
-13996,TheBlackEmpireTimeAdventure,The Black Empire,2512,0,12584,0,0,0,0,0,0,0,0,0,0,13,-1,0,0,0,2393,528448,0,0,0,0,0
+13996,TheBlackEmpireTimeAdventure,The Black Empire,2512,0,12584,0,0,0,0,0,0,0,0,0,0,13,-1,0,0,0,2393,530496,0,0,0,0,0
 13997,GnollCamp1Cave,Creektooth Den - Decayve,2444,13646,12585,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073758272,8192,0,0,0,0
 13998,BrackenideHollowOutdoorFarExterior,Brackenhide Outskirts,2444,13646,12586,0,0,2557,2511,2649,0,0,0,0,0,15,-1,0,0,0,0,1073758272,8192,0,0,0,0
 13999,TheSiegeCreche,The Siege Creche,2570,13769,12587,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073741888,0,0,0,0,0
@@ -8434,9 +8434,9 @@ ID,ZoneName,AreaName_lang,ContinentID,ParentAreaID,AreaBit,SoundProviderPref,Sou
 14158,Hissinggrotto,Hissing Grotto,2444,13644,0,0,0,2588,2589,0,0,0,0,0,0,15,-1,0,0,0,2078,1140867136,8320,0,0,0,0
 14159,CreektoothDenDeathCave,Creektooth Den,2444,13646,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,1073741888,128,0,0,0,0
 14160,FlayscaleCavern,Flayscale Cavern,2444,13644,0,0,0,2440,2476,2640,0,0,0,0,0,15,-1,0,0,0,2078,1141162048,41088,0,0,0,0
-14343,HallOfRecords,Hall of Records,2444,13647,0,0,0,0,0,0,0,0,0,0,0,13,-1,0,0,0,0,1073741888,128,0,0,0,0
+14343,HallOfRecords,Hall of Records,2444,13647,0,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073741888,128,0,0,0,0
 14344,HallOfSamples,Hall of Samples,2444,13647,0,0,0,0,0,0,0,0,0,0,0,13,-1,0,0,0,0,1073741888,128,0,0,0,0
-14345,HallOfAspects,Hall of Aspects,2444,13647,0,0,0,0,0,0,0,0,0,0,0,13,-1,0,0,0,0,1073741888,128,0,0,0,0
+14345,HallOfAspects,Hall of the Aspects,2444,13647,0,0,0,0,0,0,0,0,0,0,0,13,-1,0,0,0,0,1073741888,128,0,0,0,0
 14346,UktulutPier,Uktulut Pier,2444,13644,12276,0,0,0,0,2657,0,0,0,0,0,15,-1,0,0,0,2078,1140867136,8192,0,0,0,0
 14347,MountainviewPost,Mountainview Post,2444,13645,0,0,0,0,0,2641,0,0,0,0,0,15,-1,0,0,0,2078,1140867136,8320,0,0,0,0
 14348,FlutteringCavern,Fluttering Cavern,2444,13644,0,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,2078,1140867136,8320,0,0,0,0
@@ -8465,7 +8465,7 @@ ID,ZoneName,AreaName_lang,ContinentID,ParentAreaID,AreaBit,SoundProviderPref,Sou
 14450,LifePoolsDungeonHallway,Infusion Chambers,2521,14063,0,84,0,2196,675,0,0,0,0,0,0,13,-1,0,0,0,0,1342193664,140,0,0,0,0
 14451,LifePoolsDungeonFinalPlatform,Ruby Overlook,2521,14063,0,0,0,0,675,0,0,0,0,0,0,13,-1,0,0,0,0,1342193664,140,0,0,0,0
 14452,ShadySanctuaryInn,Greenscale Inn,2444,13645,0,85,0,997,675,1255,0,1059,0,0,0.6,15,-1,0,0,0,2152,1088438336,128,0,0,0,0
-14454,TemporalConfluxPrimalistTomorrow,Temporal Conflux,2512,13992,12504,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,2385,1086347265,0,0,0,0,0
+14454,TemporalConfluxPrimalistTomorrow,Temporal Conflux,2512,13992,12504,0,0,0,0,0,0,0,0,6,0,15,-1,0,0,0,2385,1073764385,0,0,0,0,0
 14455,ForgeofArcanum,Forge of Arcanum,2444,13646,0,0,0,2490,2511,2646,0,0,0,0,0,15,-1,0,0,0,0,1073758272,8320,0,0,0,0
 14456,KilpiIsle,Kilpi Isle,2444,13644,0,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,2078,1073741888,128,0,0,0,0
 14457,SullyTestStart,Sully Test Start,2576,0,0,0,0,0,0,0,0,0,0,6,0,15,-1,0,0,0,0,12582976,4224,0,0,0,0
@@ -8493,18 +8493,18 @@ ID,ZoneName,AreaName_lang,ContinentID,ParentAreaID,AreaBit,SoundProviderPref,Sou
 14487,AncientLook,Ancient Outlook,2444,13646,0,0,0,0,0,2647,0,0,0,0,0,15,-1,0,0,0,0,1073758272,8320,0,0,0,0
 14488,AlgetharTower,Algeth'ar Tower,2444,13647,0,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073741888,128,0,0,0,0
 14489,SeatoftheAspects,The Seat of the Aspects,2444,13862,12629,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073743936,0,0,0,0,0
-14490,TheVictoriousVisage,The Victorious Visage,2444,13862,12628,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073741888,0,0,0,0,0
+14490,TheVictoriousVisage,The Victorious Visage,2444,13862,12628,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073743936,0,0,0,0,0
 14491,AlgetheraCourtInn,The Late Night Lab,2444,13647,0,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1119879168,128,0,0,0,0
-14492,TheBlackMarketThaldraszus,The Black Market,2444,13862,12637,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1107296320,0,0,0,0,0
-14493,AzureArchivesAnnex,Azure Archives Annex,2444,13862,12642,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1107296256,0,0,0,0,0
-14494,FallingwaterOverlook,Fallingwater Overlook,2444,13862,12641,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1107296320,0,0,0,0,0
+14492,TheBlackMarketThaldraszus,The Black Market,2444,13862,12637,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1107298368,0,0,0,0,0
+14493,AzureArchivesAnnex,Azure Archives Annex,2444,13862,12642,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1107298304,0,0,0,0,0
+14494,FallingwaterOverlook,Fallingwater Overlook,2444,13862,12641,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1107298368,0,0,0,0,0
 14495,TheHighCreche,The High Creche,2570,13769,0,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073741888,128,0,0,0,0
-14497,CascadesEdge,Cascade's Edge,2444,13862,12539,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073741888,0,0,0,0,0
-14498,TheRubyFeast,The Ruby Feast,2444,13862,12631,0,0,0,0,2730,0,0,0,0,0,15,-1,0,0,0,0,1073741888,0,0,0,0,0
+14497,CascadesEdge,Cascade's Edge,2444,13862,12539,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073743936,0,0,0,0,0
+14498,TheRubyFeast,The Ruby Feast,2444,13862,12631,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073743936,0,0,0,0,0
 14499,GladiatorsRefuge,Gladiator's Refuge,2444,13862,12640,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1107298368,0,0,0,0,0
 14500,MistyCanyonOverlook,Misty Canyon Overlook,2444,13646,0,0,0,0,0,2642,0,0,0,0,0,15,-1,0,0,0,0,1073758272,8320,0,0,0,0
 14501,Thebubblebath,The Bubble Bath,2444,13644,0,0,0,2440,2476,0,0,0,0,0,0,15,-1,0,0,0,0,1140867136,8320,0,0,0,0
-14502,ThePartingGlass,The Parting Glass,2444,13862,12633,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073741888,0,0,0,0,0
+14502,ThePartingGlass,The Parting Glass,2444,13862,12633,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073743936,0,0,0,0,0
 14504,SapphireEnclave,The Sapphire Enclave,2444,13862,12630,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073743936,0,0,0,0,0
 14505,RubyEnclave,The Ruby Enclave,2444,13862,12632,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073743936,0,0,0,0,0
 14506,ObsidianEnclave,The Obsidian Enclave,2444,13862,12634,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073743936,0,0,0,0,0
@@ -8517,6 +8517,6 @@ ID,ZoneName,AreaName_lang,ContinentID,ParentAreaID,AreaBit,SoundProviderPref,Sou
 14515,LeyPools,Ley Pools,2444,13646,0,0,0,2481,2511,0,0,0,0,0,0,15,-1,0,0,0,0,1073758272,8320,0,0,0,0
 14516,LostCanal,Lost Canal,2444,13644,0,0,0,2451,675,0,0,0,0,0,0,15,-1,0,0,0,2078,1142964288,8320,0,0,0,0
 14524,UktulutOutpost,Uktulut Outpost,2444,13644,12596,0,0,0,0,2657,0,0,0,0,0,15,-1,0,0,0,2078,1140867136,8192,0,0,0,0
-14530,ValdrakkenBank,Valdrakken Treasury Hoard,2444,13862,12627,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073741888,0,0,0,0,0
+14530,ValdrakkenBank,Valdrakken Treasury Hoard,2444,13862,12627,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073743936,0,0,0,0,0
 14617,PrimalistRaidSeatoftheAspects,The Seat of the Aspects,2522,14030,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,2158,1342193664,140,0,0,0,0
 14618,AzureVaultDungeon,Azure Vault (delete me),2515,0,12603,0,0,0,0,0,0,0,0,0,0,13,-1,0,0,0,2155,0,8,0,0,0,0

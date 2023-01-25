@@ -2409,7 +2409,7 @@ ID,Name,Field_9_1_5_39977_001
 3457,10.0.0 [DFL] Dragon Flight Lunedane (Ambient) - IGC,106
 3458,10.0 Dragon Riding - Clearing the Skies 1,807
 3459,10_Azure_Ch2_Leave_Camp_Antonidas,1
-3460,10Azure_Ch3_Q7_FuneralProcession,57
+3460,10Azure_Ch3_Q7_FuneralProcession,61
 3461,10.0  Azure - Level Up - Ch 3 - Q7 - Placeholder Tuskarr Funeral (LAS),1
 3462,Tuskarr_Leave_Big_Tree_Hills,9
 3463,10_Azure_Ch2_Leave_Fishing_Outpost_OLD,6
@@ -2443,7 +2443,7 @@ ID,Name,Field_9_1_5_39977_001
 3511,10.0.0_[WMA]_Wrathion_Meets_Alliance_Leaders_IGC,46
 3512,10.0 The Forbidden Reach - Ch5 - Kurog Summons the Storm (ZTO),1
 3515,10_Azure_Ch1_PrimalistAttack_STM,4
-3522,10Z1Ch04Q04LifePoolsLandingDTM,8
+3522,10Z1Ch04Q04LifePoolsLandingDTM,9
 3525,10.0 Azure - Ch 3 - Romp (LAS),2865
 3527,10_Plains_PLACEHOLDER_GreenOathstoneCeremony_HMC,3
 3532,10_Plains_PLACEHOLDER_PBH_HMC,4
@@ -2522,8 +2522,9 @@ ID,Name,Field_9_1_5_39977_001
 3620,10.0.0_[CZR]_Camera_Zoom_Riders_IGC,8
 3621,10.0.0_[CZD]_Camera_Zoom_Djaradin_IGC,11
 3622,10.0.0_[RST]_Rymek_Springs_His_Trap_IGC,21
+3623,10.0.0_[MOM]_Mother_Oathstone_Malfunction_IGC,184
 3624,10.0 Azure - Lost Ruins - Ambient Spiderlings Going Squish - (STM) (copy),818
-3625,10.0.0_[EFT]_Eranog_Fire_Transformation_IGC,157
+3625,10.0.0_[EFT]_Eranog_Fire_Transformation_IGC,158
 3626,10.0.0_Azure_LostRuins_AliaDeparts_STM,2
 3632,10.0.0_Azure_LostRuins_SoulsRedeemed_STM,1
 3633,Generic - Draw Runes ,82
@@ -2568,17 +2569,18 @@ ID,Name,Field_9_1_5_39977_001
 3682,10.0_[CAP]_Camp_Antonidas_Protection_IGC,11
 3683,10.0.0_[KPC]_Koroleth_Pylon_CloseUp_IGC,34
 3684,10.0.0_[MOK]_Meeting_Of_The_Khans_IGC,127
-3685,10.0_[RBD]_Recalling_the_Blue_Dragons_IGC,24
+3685,10.0_[RBD]_Recalling_the_Blue_Dragons_IGC,25
 3686,10.0_[AFR]_Abandoning_Forbidden_Reach_IGC,22
 3687,10.0.0_[KPR]_Kalecgos_Primalist_Report_IGC,151
 3688,10.0_[ITF]_Iskaaran_Tuskarr_Funeral_IGC,52
 3689,10.0_DEPRECATED_OLD_IGC,2
+3690,10.0.0_[RPS]_Razageth_Post_Raid_IGC,42
 3691,10.0.0_[KET]_Koranos_Explains_Tyrhold_IGC,66
 3693,10.0_[KMS]_Kalecgos_Meets_Sindragosa_IGC,22
-3694,10.0.0_[NCE]_Nozdormu_Chromie_Epilogue_IGC,62
+3694,10.0.0_[NCE]_Nozdormu_Chromie_Epilogue_IGC,63
 3695,10.0.0 [DFA] Dragons Flying Academy - IGC,109
-3696,10.0.0_[BEA]_Black_Empire_Arrival_IGC,15
-3697,10.0.0_[LIT]_Lost_In_Time_IGC,31
+3696,10.0.0_[BEA]_Black_Empire_Arrival_IGC,19
+3697,10.0.0_[LIT]_Lost_In_Time_IGC,33
 3698,9.2.5 Dungeon - Blackrock Foundry - Motion Sickness Alternate World Scene,49
 3699,10.0.0_TRANSPORTS_Org_ToZ1_STM,1
 3702,10.0 Transport - Orgrimmar - Test (JDA),1
@@ -2586,9 +2588,8 @@ ID,Name,Field_9_1_5_39977_001
 3709,10.0.0_[tmp]_Timeline_Cutscene_Template_v3_IGC_IGC,1
 3711,10.0_Thaldraszus_SouthHold_Boss_01_LWB,1
 3712,10.0_Thaldraszus_SouthHold_Boss_01_LWB,2
-3717,10.0.0_[test]_yuni-export-test_IGC,18
-3718,10.0.0_[test]_yuni-export-test_IGC,15
-3719,10.0.0_[test]_yuni-export-test_IGC,1
+3717,10.0.0_[test]_yuni-export-test_IGC,19
+3719,10.0.0_[test]_yuni-export-test_IGC,13
 3720,10.0_Thaldraszus_SouthHold_Boss_02_LWB,2
 3721,10.0 Azure Span -  Ley Line Crystal Caves - One-Time Chest - Puzzle - Circuit Game - Easy,750
 3722,10.0 Dragon Racing - Client Scene - Race Course Display Debug,1
@@ -2598,18 +2599,42 @@ ID,Name,Field_9_1_5_39977_001
 3726,10.0.0_Plains_EmeraldIsle_CentaurCrowd_NJS,1
 3727,10.0.0_Plains_EmeraldIsle_CentaurCrowd_NJS,2
 3730,10.0.0_[DEI]_Dracthyr_Evoker_Intro_IGC,17
-3731,10.0_[RAK]_Reinforcements_Arrive_for_Kalecgos_IGC,22
+3731,10.0_[RAK]_Reinforcements_Arrive_for_Kalecgos_IGC,23
 3732,10.0 Azure - Finale Gallery - (STM),2862
 3733,PetBattle - Unique Spells - Slime,161
 3736,PetBattle - Unique Spells - Magic Tome,157
 3737,10.0.2_[AzureSpanFinale]_RaszagethZoom_STM,3
 3738,10.0 Dragon Riding - Glyphs,807
+3740,10.0 Dragon Racing - Client Scene - Race Course Display Shared - 10.0.5,809
+3741,10.0 Dragon Racing - Client Scene - Race Course Display Shared - 10.1,808
+3742,10.0 Dragon Racing - Client Scene - Race Course Display Shared - 10.1.5,808
+3743,10.0 Dragon Racing - Client Scene - Race Course Display Shared - 10.2,808
+3744,10.0 Dragon Racing - Client Scene - Race Course Display Shared - 10.2.5,808
 3747,10.0 Dragon Racing - Client Scene - Race Course Display - Training 1,808
 3748,10.0 Dragon Racing - Client Scene - Race Course Display - Training 2,808
 3749,10.0 Dragon Racing - Client Scene - Race Course Display - Training 3,808
 3750,10.0_[KSF]_Kalec_and_Sindragosa_Finale_IGC,20
-3751,10.0.0_[BEL]_PartB_Black_Empire_Leaving_IGC,22
+3751,10.0.0_[BEL]_PartB_Black_Empire_Leaving_IGC,27
 3752,10.0.0_[BEL]_PartA_Black_Empire_Leaving_IGC,14
 3753,10_Azure_Ch2_Leave_Fishing_Outpost_V3,1
 3754,10.0_[TCM]_Tuskarr_Cooks_a_Meal_IGC,11
 3755,10.0 Exploration Reward - Vista Camera - IGC,2
+3770,10.0 Dragonriding - Client Scene - Chase,810
+3782,10.0.5_[test]_hanging_dialog_IGC,3
+3786,10.0.0_[test]_yuni-export-test_IGC,12
+3789,10.0.5_[test]_hanging_dialog_IGC,11
+3790,10.0.5_[test]_hanging_dialog_IGC,3
+3791,10.0.5_[test]_hanging_dialog_IGC,1
+3792,10.0.5_[test]_hanging_dialog_IGC,1
+3793,10.0.5_Primalist_Tomorrow_Event_Portal00_Water_LWB,5
+3795,10.0.5_Primalist_Tomorrow_Event_Portal00_Air_LWB,3
+3799,10.0.5_Primalist_Tomorrow_Event_Portal00_Earth_LWB,3
+3801,10.0.5_Primalist_Tomorrow_Event_Portal01_Water_LWB,2
+3802,10.0.5_Primalist_Tomorrow_Event_Portal01_Earth_LWB,2
+3803,10.0.5_Primalist_Tomorrow_Event_Portal01_Air_LWB,2
+3804,10.0.5_Primalist_Tomorrow_Event_Portal02_Water_LWB,2
+3805,10.0.5_Primalist_Tomorrow_Event_Portal02_Earth_LWB,2
+3806,10.0.5_Primalist_Tomorrow_Event_Portal02_Air_LWB,2
+3807,10.0.5_Primalist_Tomorrow_Event_Portal03_Water_LWB,2
+3808,10.0.5_Primalist_Tomorrow_Event_Portal03_Earth_LWB,2
+3809,10.0.5_Primalist_Tomorrow_Event_Portal03_Air_LWB,2

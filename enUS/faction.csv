@@ -688,7 +688,7 @@ ID,ReputationRaceMask[0],ReputationRaceMask[1],ReputationRaceMask[2],ReputationR
 2419,0,0,0,0,Nzoth,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2422,-1,0,0,0,Night Fae,"Called to serve the Winter Queen in times of dire need, the Wild Hunt assembles the finest huntresses and hunters in all of Ardenweald. In the face of drought and peril, the Wild Hunt stands ready to defend the forest.",328,2465,0,0,0,0,0,0,-1,0,0,0,20,0,0,0,0,0,0,0,42000,0,0,0,1,1,7,7
 2427,-1,0,0,0,Aqir Hatchling,,329,2104,0,365,0,0,0,0,-1,0,0,0,4,0,0,0,0,0,0,0,42000,0,0,0,0,0,0,0
-2431,2969585664,1308635136,0,0,Owen Test,,330,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2431,2969651200,1308635136,0,0,Owen Test,,330,0,0,0,0,0,0,0,4095,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2432,-1,0,0,0,Ve'nari,"Ve'nari knows more about the Maw than anyone, and she might share a fraction of that information with you if you earn her regard.",331,2414,0,366,0,2474,0,0,-1,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,0,0,0,0
 2437,0,0,0,0,Torghast - Guard,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2438,0,0,0,0,Torghast - Prisoner,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -744,7 +744,7 @@ ID,ReputationRaceMask[0],ReputationRaceMask[1],ReputationRaceMask[2],ReputationR
 2517,-1,0,0,0,Wrathion,"Long focused on protecting Azeroth, Wrathion's gaze has now turned to the future of the black dragonflight... and his destiny.",381,2510,9,396,0,0,0,0,-1,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,0,0,0,0
 2518,-1,0,0,0,Sabellian,"Sabellian has established a new generation of uncorrupt black dragons, and works to protect it at all costs.",382,2510,9,397,0,0,0,0,-1,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,0,0,0,0
 2519,0,0,0,0,Reclaimers,,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2520,-1,0,0,0,Clan Nokhud,,383,2506,0,0,0,0,0,0,-1,0,0,0,2054,0,0,0,-40000,0,0,0,42000,0,0,0,0,0,0,0
+2520,-1,0,0,0,Clan Nokhud,,414,2506,0,0,0,0,0,0,-1,0,0,0,2054,0,0,0,-40000,0,0,0,42000,0,0,0,0,0,0,0
 2521,-1,0,0,0,Clan Nokhud (Paragon),,384,2506,9,0,0,0,0,0,-1,0,0,0,2068,0,0,0,0,0,0,0,42000,0,0,0,0,0,0,0
 2522,-1,0,0,0,Clan Teerai,,385,2503,9,0,0,0,0,0,-1,0,0,0,2068,0,0,0,0,0,0,0,42000,0,0,0,0,0,0,0
 2523,1308636082,6130900294268439629,32768,0,Dark Talons,"Led by the brave Scalecommander Cindrethresh, the Dark Talons were trained to be the secret weapon of the black dragonflight. Today, these dracthyr use their skills to turn the tide of any battle regardless of how outnumbered they are.",386,67,9,0,0,0,0,0,-1,-1,-1,0,16,2,17,0,0,-42000,3000,0,42000,-42000,42000,0,0,0,0,0
@@ -753,10 +753,6 @@ ID,ReputationRaceMask[0],ReputationRaceMask[1],ReputationRaceMask[2],ReputationR
 2526,-1,0,0,0,Winterpelt Furbolg,The Winterpelt Furbolg speak a language no one seems to understand. Perhaps more will be revealed in the future.,411,2506,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2900,0,0,0,42000,0,0,0,0,0,0,0
 2542,-1,0,0,0,Clan Ukhel,,372,2506,0,0,0,0,0,0,-1,0,0,0,2054,0,0,0,-42000,0,0,0,-42000,0,0,0,0,0,0,0
 2544,-1,0,0,0,Artisan's Consortium - Dragon Isles Branch,,402,2510,0,398,0,0,0,0,-1,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,0,0,0,0
-2545,-1,0,0,0,Maruuk Centaur (Renown),"Centaur clans roam the Ohn'ahran Plains, where they follow the call of the wind and seek the thrill of the hunt.",403,2506,9,0,0,2504,0,0,-1,0,0,0,16,0,0,0,0,0,0,0,1000,0,0,0,0,0,0,0
-2546,-1,0,0,0,Iskaara Tuskarr (Renown),"The Iskaara Tuskarr have been on the Dragon Isles for generations, living in harmony and telling tales of the world around them.",404,2506,9,0,0,0,0,0,-1,0,0,0,16,0,0,0,0,0,0,0,1000,0,0,0,0,0,0,0
-2547,-1,0,0,0,Dragonscale Expedition (Renown),"A joint expedition of the Explorer's League and Reliquary, this fearless group of adventurers, scholars, and crafters seek to uncover the many mysteries of the Dragon Isles.",405,2506,9,0,0,0,0,0,-1,0,0,0,16,0,0,0,0,0,0,0,1000,0,0,0,0,0,0,0
-2548,-1,0,0,0,Valdrakken Accord (Renown),"Centered in their most ancient city, the Valdrakken Accord is the unified might of all dragonkind, seeking to protect not only their island home but all of Azeroth.",406,2506,9,0,0,0,0,0,-1,0,0,0,16,0,0,0,0,0,0,0,1000,0,0,0,0,0,0,0
 2550,-1,0,0,0,Cobalt Assembly,The Cobalt Assembly was once a place where blue dragons would conjure marvelous creations with arcane magic. Now it has fallen into the hands of the Sundered Flame who intend to use its magic for war.,408,2510,0,400,0,0,0,0,-1,0,0,0,16,0,0,0,100,0,0,0,42000,0,0,0,0,0,0,0
 2551,-1,0,0,0,Iskaara Tuskarr (Paragon),"The Iskaara Tuskarr have been on the Dragon Isles for generations, living in harmony and telling tales of the world around them.",409,2506,9,0,2,0,0,0,-1,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,0,0,0,0
 2552,-1,0,0,0,Valdrakken Accord (Paragon),"Centered in their most ancient city, the Valdrakken Accord is the unified might of all dragonkind, seeking to protect not only their island home but all of Azeroth.",410,2506,9,0,2,0,0,0,-1,0,0,0,16,0,0,0,0,0,0,0,42000,0,0,0,0,0,0,0

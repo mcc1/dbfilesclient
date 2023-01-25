@@ -1,4 +1,4 @@
-ID,SequenceSpellID,PlayerConditionID,Field_10_0_0_44999_002,Field_10_0_0_44999_003
+ID,SequenceSpellID,PlayerConditionID,ItemExtendedCostID,ItemLogicalCostGroupID
 1,0,0,0,0
 4,0,0,0,0
 5,0,0,0,0
@@ -138,3 +138,7 @@ ID,SequenceSpellID,PlayerConditionID,Field_10_0_0_44999_002,Field_10_0_0_44999_0
 276,391005,104439,0,2
 277,391013,104439,0,3
 278,391015,104439,0,4
+280,0,0,0,0
+281,0,0,0,0
+282,401423,0,0,11
+288,403325,0,0,18

@@ -696,7 +696,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200寶藏：|r軟泥包覆箱|n|cFFFFD200區域：|r瑪卓薩斯,1099,184447,0,0
 |cFFFFD200掉落：|r冒泡之血|n|cFFFFD200區域：|r瑪卓薩斯,1100,184476,0,0
 |cFFFFD200成就：|r暗影之境對戰|n|cFFFFD200類別：|r戰鬥,1101,184508,0,5
-|cFFFFD200寶藏：|r獎品袋|n|cFFFFD200區域：|r瑪卓薩斯,1102,200640,2,0
+|cFFFFD200商人：|r沙彌亞‧暗示者|n|cFFFFD200區域：|r甦醒海岸|n|cFFFFD200花費：|r1|Hitem:201399|h|TInterface\ICONS\INV_SkeletonSpinePet_Green.blp:0|t|h1|Hitem:201402|h|TInterface\ICONS\INV_Leatherworking_90_Bone.blp:0|t|h100|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人: |r蕭德拉斯|n|cFFFFD200區域：|r甦醒海岸|n|cFFFFD200花費：|r1|Hitem:201399|h|TInterface\ICONS\INV_SkeletonSpinePet_Green.blp:0|t|h1|Hitem:201402|h|TInterface\ICONS\INV_Leatherworking_90_Bone.blp:0|t|h100|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,1102,200640,2,2
 |cFFFFD200掉落：|r不死軍團補給品,1103,184495,0,0
 |cFFFFD200掉落：|r晉升者補給品,1104,184396,0,-1
 ,1105,184487,0,-1
@@ -854,9 +854,14 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200區域：|r蒼藍高地,1267,201927,0,0
 |cFFFFD200掉落：|r失落黑曜貯藏箱,1269,201933,0,0
 |cFFFFD200區域：|r甦醒海岸,1270,202019,0,0
+|cFFFFD200商人：|r布瑞恩多米|n|cFFFFD200費用：|r75|Hitem:202039|h|TInterface\ICONS\inv_misc_stormlordsfavor.blp:0|t|h1200|Hcurrency:2118|h|TInterface\ICONS\INV_Misc_Powder_Thorium.blp:0|t|h,1271,202020,0,2
 |cFFFFD200區域：|r甦醒海岸,1272,202022,0,0
 |cFFFFD200商人：|r戰地管理員安柏瑞斯|n|cFFFFD200區域：|r沃卓肯|n|cFFFFD200費用：|r350|Hitem:190451|h|TInterface\ICONS\INV_10_ElementalShardFoozles_Blood.BLP:0|t|h,1273,202021,0,2
 |cFFFFD200掉落：|r無瑕史瓦格蛙珍寶囊,1274,202042,0,0
 |cFFFFD200任務：|r為了他人的愛,1275,200926,0,0
+|cFFFFD200成就：|r超乎常理|n|cFFFFD200類別：|r釣魚,1276,202207,0,5
+|cFFFFD200專業技能：|r巨龍群島工程學|n,1279,202309,0,3
 |cFFFFD200區域：|r蒼藍高地,1280,202711,0,0
 |cFFFFD200專業技能：|r巨龍群島工程學|n,1281,198173,0,3
+|cFFFFD200商人：|r阿提克斯‧貝利|n|cFFFFD200區域：|r甦醒海岸|n|cFFFFD200花費：|r20|Hitem:193050|h|TInterface\ICONS\INV_10_Tailoring_ClothCommon_Color2.BLP:0|t|h100|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人：|r洛蓮娜‧貝利|n|cFFFFD200區域：|r甦醒海岸|n|cFFFFD200花費：|r20|Hitem:193050|h|TInterface\ICONS\INV_10_Tailoring_ClothCommon_Color2.BLP:0|t|h100|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,1282,200707,0,2
+《魔獸世界》電競：《巨龍崛起》第1季,1289,203716,2,-1

@@ -2819,19 +2819,19 @@ ID,Description_lang,Title_lang,ScenarioID,CriteriatreeID,RewardQuestID,RelatedSt
 5322,Hop into the pot and stir!,Stir the Pot,2119,137692,0,0,0,0,0,0,663
 5323,Kick those fish back into the pot!,Loss Prevention,2120,137694,0,0,0,0,0,0,663
 5324,Stomp on them before they ruin the soup!,Bittershell Hermits,2121,137696,0,0,0,0,0,0,663
-5325,Throw the Salted Fish Scraps into the pot!,Salted Fish Scraps,2096,137366,70925,0,0,1,0,0,663
-5335,Throw them into the pot!,Spicy Fishies,2097,137453,70925,0,0,1,0,0,663
-5336,Throw them into the pot!,Assorted Kelp,2098,137455,70925,0,0,1,0,0,663
-5337,Throw it into the pot!,Hunk o' Blubber,2099,137457,70925,0,0,1,0,0,663
-5338,Pour it into the pot!,Nappa's Famous Tea,2100,137459,70925,0,0,1,0,0,663
-5339,Pour it into the pot!,Piping-Hot Orca Milk,2101,137461,70925,0,0,1,0,0,663
-5340,Throw them into the pot!,Ancheevies!,2102,137463,70925,0,0,1,0,0,663
-5341,Throw it into the pot!,Tiny Leviathan Bone,2103,137465,70925,0,0,1,0,0,663
-5342,Throw it into the pot!,Clubfish,2106,137589,70925,0,0,1,0,0,663
-5343,Throw it into the pot!,Grungle,2107,137591,70925,0,0,1,0,0,663
-5344,Throw it into the pot!,Iceback Sculpin,2108,137593,70925,0,0,1,0,0,663
-5345,Throw it into the pot!,Lakkamuk Blenny,2109,137595,70925,0,0,1,0,0,663
-5346,Throw it into the pot!,Manasucker,2110,137597,70925,0,0,1,0,0,663
+5325,Throw the Salted Fish Scraps into the pot!,Salted Fish Scraps,2096,137366,74382,0,0,1,0,0,663
+5335,Throw them into the pot!,Spicy Fishies,2097,137453,74382,0,0,1,0,0,663
+5336,Throw them into the pot!,Assorted Kelp,2098,137455,74382,0,0,1,0,0,663
+5337,Throw it into the pot!,Hunk o' Blubber,2099,137457,74382,0,0,1,0,0,663
+5338,Pour it into the pot!,Nappa's Famous Tea,2100,137459,74382,0,0,1,0,0,663
+5339,Pour it into the pot!,Piping-Hot Orca Milk,2101,137461,74382,0,0,1,0,0,663
+5340,Throw them into the pot!,Ancheevies!,2102,137463,74382,0,0,1,0,0,663
+5341,Throw it into the pot!,Tiny Leviathan Bone,2103,137465,74382,0,0,1,0,0,663
+5342,Throw it into the pot!,Clubfish,2106,137589,74382,0,0,1,0,0,663
+5343,Throw it into the pot!,Grungle,2107,137591,74382,0,0,1,0,0,663
+5344,Throw it into the pot!,Iceback Sculpin,2108,137593,74382,0,0,1,0,0,663
+5345,Throw it into the pot!,Lakkamuk Blenny,2109,137595,74382,0,0,1,0,0,663
+5346,Throw it into the pot!,Manasucker,2110,137597,74382,0,0,1,0,0,663
 5347,Clan Aylaag has begun to move to their next location and could use extra defense.,Defend Clan Aylaag,2123,137998,0,0,0,0,0,0,0
 5348,Aggressive beasts have been attracted by the caravan! Clear them out!,Beast Ambush!,2123,138030,70922,0,0,1,0,0,0
 5349,Clan Aylaag has begun to move to their next location and could use extra defense.,Defend Clan Aylaag,2123,138002,0,0,0,2,0,0,0
@@ -2862,3 +2862,5 @@ ID,Description_lang,Title_lang,ScenarioID,CriteriatreeID,RewardQuestID,RelatedSt
 5386,[DNT]Description,[DNT]Major Storm Boss Step,2135,140644,0,0,0,1,0,0,0
 5391,,Null script only,2138,0,0,0,0,0,0,0,0
 5392,,All possible null fields,2138,0,0,0,0,1,0,0,0
+5394,Close the Elemental Portals,The Storm's Fury,2139,142292,0,0,0,0,0,0,0
+5395,Defeat the Primalist monster!,March of the Primalists,2139,142294,74378,0,0,1,0,0,0

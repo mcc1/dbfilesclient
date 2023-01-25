@@ -175,3 +175,4 @@ ID,DisplayName_lang,DisplayNameShort_lang,Flags,RangeMin[0],RangeMin[1],RangeMax
 490,Just Under Twenty to Twenty,Just Under Twenty to Twenty,0,19.9,19.9,20,20
 491,"Min Range 5, 35",Five-to-35,0,5,5,35,35
 492,300 (Melee Combat),Combat,1,0,0,300,300
+497,"Min Range, 15, 50",15-50,0,15,15,50,50

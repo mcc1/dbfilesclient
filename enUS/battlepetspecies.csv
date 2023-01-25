@@ -1732,7 +1732,7 @@ This thing is equally as evil as it is adorable.,|cFFFFD200Achievement: |rRaidin
 ,,2612,150925,0,134180,5,1056,-1,6,7,0
 ,,2613,150929,0,133729,3,1056,-1,6,7,0
 "This pocket-sized Lord of Blackrock is too small to call out any classes, but he can still dish up a good insult.",|cFFFFD200WoW's 15th Anniversary|r|n,2621,151779,294206,2615850,1,82,6,6,7,0
-These dazzling hatchlings have a distinctive coat color that has been highly sought after by leatherworkers for generations.,|cFFFFD200World Event:|r Feast of Winter Veil |n,2622,151780,294211,2741548,7,82,6,6,7,0
+These dazzling hatchlings have a distinctive coat color that has been highly sought after by leatherworkers for generations.,|cFFFFD200World Event:|r Feast of Winter Veil |n,2622,151780,294211,2741548,7,2130,6,6,7,0
 "Don't be fooled by Dottie's soft coat and big eyes, her tiny, sharp teeth are for more than just munching on grass.",|cFFFFD200In-Game Shop|r,2623,151788,294231,2735061,7,82,9,6,7,0
 "Some argue that the beard is what grants a spell caster their power, but they're wrong. The hat is where the magic is really from.",|cFFFFD200Achievement: |rPet Battle Challenge: Stratholme|n|cFFFFD200Category: |rPet Battles,2638,154445,300387,1337422,3,82,5,6,7,0
 The crabs of Nazjatar seem relatively unfazed by the sudden absence of the water.,|cFFFFD200Pet Battle: |rNazjatar,2645,154697,0,2027869,8,26,4,6,7,0
@@ -2223,10 +2223,19 @@ Lihuvim's geomental creations are the most majestic of walking rock piles.,|cFFF
 "Where some viperids lie in wait for their prey, this variety stalks their intended meals for hours.",|cFFFFD200Profession:|r Protoform Synthesis|n,3234,184197,364256,4095289,7,2,3,6,7,0
 "Since synthesized creatures come into being fully grown, why would anyone design an immature helicid?",|cFFFFD200Profession: |rProtoform Synthesis,3235,184195,364252,3764238,4,2,3,6,7,0
 "A little ambystan that was too big, then too little, and finally just right. He followed you home!",|cFFFFD200Quest:|r Can I Keep Him?,3237,184923,366069,3934488,8,82,1,6,7,0
+Looks like Ben'jin and Maka'fon have kept busy since you last saw them. Maka'jin is ready for adventure but will settle for a large pile of leafy greens.,|cFFFFD200Trading Post|r,3242,185322,366833,1881827,7,16466,2,6,7,0
+He has a heart of gold. Literally. These shiny good-boys are all the rage with affluent gnomes everywhere.,|cFFFFD200Trading Post|r,3243,183686,366841,1567069,9,16466,2,6,7,0
+"Fooled aeons ago by the clever loa of death into a bargain of unceasing service, this tiny ancient being carries out his duties eternally red with rage.",|cFFFFD200Trading Post|r,3244,185324,366842,2027568,3,16466,2,6,7,0
 ,,3246,185475,0,236446,2,33840,-1,6,7,0
 "This isn't the real Pocopoc, but it provided this replica to you for use outside Zereth Mortis. Its details are so accurate as to be utterly convincing to anyone who hasn't spent lots of time with the real one.",|cFFFFD200Vendor: |rOlea Manu|n|cFFFFD200Zone: |rZereth Mortis|n|cFFFFD200Cost: |r500|Hcurrency:1979|h|TInterface\ICONS\INV_Trinket_ProgenitorRaid_02_Blue.BLP:0|t|h,3247,185477,367376,4327611,5,147,2,41,7,0
-"Ichabod began his existence as a prototype for the fearsome harvest golems terrorizing the farmers of Westfall, but a little gnomish ingenuity has since made him far less likely to attack your knees.",|cFFFFD200In-Game Shop|r |n,3248,183638,367696,4206469,9,16466,9,6,7,0
+"Ichabod began his existence as a prototype for the fearsome harvest golems terrorizing the farmers of Westfall, but a little gnomish ingenuity has since made him far less likely to attack your knees.",|cFFFFD200Promotion|r |n,3248,183638,367696,4206469,9,16466,9,6,7,0
 "Before he was known as one of the Wild Gods, Ursoc roamed the Grizzly Hills as a cub.",|cFFFFD200In-Game Shop|r|n,3249,185586,367702,4208901,7,82,9,6,7,0
+Some hawkstriders are destined to be great. Others are destined to be Egbob.,|cFFFFD200Trading Post|r,3250,183708,367732,294475,4,16466,2,6,7,0
+"Some species of red bees are known to lead solitary lives. Still, this busy bee seems happy to make time for you.",|cFFFFD200Trading Post|r,3251,185604,367748,2027854,2,16466,2,6,7,0
+"Ancient Gorian blood runs through Garrlok's veins. As far as anyone knows, only his diminutive stature keeps his imperial ambitions in check.",|cFFFFD200Trading Post|r,3252,185606,367768,4215254,0,16466,2,6,7,0
+Siege training begins early for kodo calflings that show a predilection for violence and a lack of inhibitions towards breaking things. Mind your shins.,|cFFFFD200Trading Post|r,3253,185611,367778,4205812,7,16466,2,33,7,0
+"To its foes, this Watcher's innocent eyes belie the lethal danger of a prowling Huntress, waiting in the shadows.",|cFFFFD200Trading Post|r,3254,185621,367800,133247,2,16466,2,6,7,0
+His pink antlers make him the life of any party.,|cFFFFD200Trading Post|r,3255,185756,368314,2481371,7,16466,2,6,7,0
 The master jewelcrafters of the Dragon Isles have perfected their craft so much that their gemmed statues can be brought to life. This whelp forged of obsidian is now not to be trifled with.,|cFFFFD200Profession:|r Jewelcrafting|n,3256,186844,369723,4397690,1,2,3,6,7,0
 ,,3257,186884,0,3922922,4,56,-1,6,7,0
 "There was a time when she was just a normal rabbit. That time might be in the past or the future, but no one really knows for sure.",,3259,188709,371534,3733064,4,16416,-1,6,7,0
@@ -2235,7 +2244,7 @@ The master jewelcrafters of the Dragon Isles have perfected their craft so much 
 Some very clever wizard or dragon or other magical being thought they were being clever when they decided to color an ice elemental purple for a very elaborate bit of wordplay. They were probably right.,|cFFFFD200Achievement:|r What Can I Say? They Love Me.|n,3262,188849,371621,4572524,7,82,5,6,7,0
 It looks like a duck and it smells like a duck and it quacks like a duck... what's a duck?,|cFFFFD200Achievement:|r Proven Pet Parent,3263,188861,371636,4533201,8,82,5,6,7,0
 "A shard of a fragment of a piece of a sliver of a piece of crystal, but walking around like it owns the place. Good thing it likes you.",|cFFFFD200Achievement:|r Many More Mini Minions,3264,188885,371655,133244,5,82,5,6,7,0
-"Truly, the most dignified of stinky musken.",|cFFFFD200Achievement:|r Good Things Come in Small Packages,3265,188901,371675,4572410,7,82,5,6,7,0
+"Truly, the most dignified of stinky musken.",|cFFFFD200Achievement:|r Good Things Come in Small Packages,3265,188901,371675,4572410,7,16496,5,6,7,0
 "Above the vast green plains and rolling hills the slyvern fly, leaving only tiny shadows on the ground to mark their path through the sky.",|cFFFFD200Pet Battle: |rOhn'ahran Plains,3266,189160,0,4215000,2,26,4,6,7,0
 "You met this Slyvern next week from your point of view, but last year from its point of view.",,3267,189211,371930,4215003,2,16416,-1,6,7,0
 ,,3268,189376,0,2399293,8,33840,-1,6,7,0
@@ -2299,7 +2308,7 @@ Gnawing at the roots of magic trees have given this creature the ability to tran
 Is it normal for a fish to have fangs?,,3331,189694,375511,4539688,8,16416,-1,6,7,0
 This frillfish is a no-frills kind of frillfish.,,3332,189696,375536,4539690,8,16416,-1,6,7,0
 The vorquin of the dragon isles have manes that come in a variety of stunning colors.,,3333,191287,375553,4218747,7,16416,-1,6,7,0
-It's quite possible this creature is aging backwards. It looks a bit younger every time you see it.,,3334,191298,375567,4218748,7,16416,-1,6,7,0
+It's quite possible this creature is aging backwards. It looks a bit younger every time you see it.,|cFFFFD200Vendor:|r Brendormi|n|cFFFFD200Cost:|r 105|Hitem:202039|h|TInterface\ICONS\inv_misc_stormlordsfavor.blp:0|t|h 1500|Hcurrency:2118|h|TInterface\ICONS\INV_Misc_Powder_Thorium.blp:0|t|h,3334,191298,375567,4218748,7,18,2,6,7,0
 Behold! A pale vorquin.,|cFFFFD200Pet Battle: |rThe Azure Span,3335,191316,0,4218751,7,26,4,6,7,0
 It will probably grow bigger. Probably.,"|cFFFFD200Pet Battle: |rThaldraszus, The Azure Span, The Waking Shores",3336,191323,0,4218749,7,26,4,6,7,0
 "Sharp crystal needles protrude from this creature's back, and yet it still wants you to pet it somehow.",,3338,191435,375642,4572405,5,16416,-1,6,7,0
@@ -2318,8 +2327,8 @@ A playful splash from this otter will give you quite a shock.,|cFFFFD200Pet Batt
 "Despite its name, its shell is actually much tougher than chalk.",|cFFFFD200Pet Battle:|r The Azure Span|n,3356,192260,0,1738684,8,26,4,6,7,0
 These creatures are highly sought after by hunters looking to make weapons from the sharp crystals on its back.,|cFFFFD200Pet Battle: |rThe Azure Span,3357,192265,0,4572407,5,26,4,6,7,0
 "The blood of a crimsonspine flows through the clear crystal structures that make up its body, which causes its unique coloration.",|cFFFFD200Pet Battle: |rThaldraszus,3358,192268,0,4572409,5,26,4,6,7,0
-An adult Snowclaw can rattle the very trees with its roar. A cub can rattle one of the smaller branches.,,3359,192343,377361,4532351,7,16416,-1,6,7,0
-"This turtle eats bugs, as you'd expect from its name, but you wouldn't believe how large the bugs are",,3360,192350,377392,1738683,8,16416,-1,6,7,0
+An adult Snowclaw can rattle the very trees with its roar. A cub can rattle one of the smaller branches.,|cFFFFD200World Event:|r Primal Bear Cub|n|cFFFFD200Zone:|r Azure Span,3359,192343,377361,4532351,7,0,6,6,7,0
+"This turtle eats bugs, as you'd expect from its name, but you wouldn't believe how large the bugs are.",|cFFFFD200World Event:|r A Small Favor for Cymre Brightblade|n|cFFFFD200Zone:|r Waking Shores|n,3360,192350,377392,1738683,8,2,6,6,7,0
 "Exposure to magic, minerals, and water pressure has left this crab looking very sharp.",,3361,192363,377401,2027876,8,16416,-1,6,7,0
 These crabs build their own shells from small fragments of rocks and gems.,,3362,192365,377407,2027883,8,16416,-1,6,7,0
 "Oooh, shiny!",,3363,192366,377410,2027885,8,16416,-1,6,7,0
@@ -2366,4 +2375,4 @@ I wish that I could bind the tides and bend them to my will. But in its depths t
 "After finding a clutch of black proto-whelps, Wrathion took them under his wing.",|cFFFFD200Faction: |rWrathion|n|cFFFFD200Vendor: |rLorena Belle|n|cFFFFD200Location: |rObsidian Citadel,3414,198316,393330,4452486,1,18,2,6,7,0
 Cubbly's extended proximity to time magic has given him powers far beyond the average bear.,|cFFFFD200NPC:|r Strange Bear Cub,3415,198480,374887,4532349,7,82,0,6,7,0
 Do you dare to open this book of draconic secrets?,|cFFFFD200Vendor: |rPatchu|n|cFFFFD200Zone: |rThe Azure Span|n|cFFFFD200Cost: |r200|Hitem:163036|h|TInterface\ICONS\INV_Currency_PetBattle.BLP:0|t|h,3416,198511,375036,4549126,5,2,2,6,7,0
-"Wiith her distinctive coloration and impeccable work ethic, Pinkie has propelled herself to the top of the tallstrider fashion world.",|cFFFFD200Vendor: |rPatchu|n|cFFFFD200Zone: |rThe Azure Span|n|cFFFFD200Cost: |r500|Hitem:163036|h|TInterface\ICONS\INV_Currency_PetBattle.BLP:0|t|h,3417,198543,375043,4037556,7,2,2,6,7,0
+"With her distinctive coloration and impeccable work ethic, Pinkie has propelled herself to the top of the tallstrider fashion world.",|cFFFFD200Vendor: |rPatchu|n|cFFFFD200Zone: |rThe Azure Span|n|cFFFFD200Cost: |r500|Hitem:163036|h|TInterface\ICONS\INV_Currency_PetBattle.BLP:0|t|h,3417,198543,375043,4037556,7,2,2,6,7,0

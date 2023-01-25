@@ -1,4 +1,4 @@
-Requirement_lang,ID,TraitCurrencyID,Field_10_0_0_44649_003,Field_10_0_0_44649_004,AchievementID,PlayerLevel,TraitNodeEntryID,OrderIndex
+Requirement_lang,ID,TraitCurrencyID,Amount,QuestID,AchievementID,PlayerLevel,TraitNodeEntryID,OrderIndex
 ,14,25,4,0,0,10,0,0
 ,423,84,31,0,0,60,0,0
 ,424,85,30,0,0,60,0,0
@@ -492,26 +492,26 @@ Requirement_lang,ID,TraitCurrencyID,Field_10_0_0_44649_003,Field_10_0_0_44649_00
 ,3451,226,1,0,0,30,0,0
 ,3863,14,1,0,15861,0,0,0
 Requires level 50 of Dragon Isles Enchanting to unlock an additional specialization.,3864,14,1,0,15862,0,0,1
-Requires level 100 of Dragon Isles Enchanting to unlock an additional specialization.,3865,14,1,0,15863,0,0,2
+Requires level 75 of Dragon Isles Enchanting to unlock an additional specialization.,3865,14,1,0,15863,0,0,2
 ,3866,15,1,0,15864,0,0,0
 Requires level 50 of Dragon Isles Engineering to unlock an additional specialization.,3867,15,1,0,15865,0,0,1
-Requires level 100 of Dragon Isles Engineering to unlock an additional specialization.,3868,15,1,0,15866,0,0,3
+Requires level 75 of Dragon Isles Engineering to unlock an additional specialization.,3868,15,1,0,15866,0,0,3
 ,3869,16,1,0,15867,0,0,0
 Requires level 50 of Dragon Isles Herbalism to unlock an additional specialization.,3870,16,1,0,15868,0,0,1
-Requires level 100 of Dragon Isles Herbalism to unlock an additional specialization.,3871,16,1,0,15869,0,0,2
+Requires level 75 of Dragon Isles Herbalism to unlock an additional specialization.,3871,16,1,0,15869,0,0,2
 ,3872,17,1,0,15870,0,0,0
 Requires level 50 of Dragon Isles Inscription to unlock an additional specialization.,3873,17,1,0,15871,0,0,1
-Requires level 100 of Dragon Isles Inscription to unlock an additional specialization.,3874,17,1,0,15872,0,0,2
+Requires level 75 of Dragon Isles Inscription to unlock an additional specialization.,3874,17,1,0,15872,0,0,2
 ,3875,18,1,0,15873,0,0,0
-Requires level 75 of Dragon Isles Jewelcrafting to unlock an additional specialization.,3876,18,1,0,16664,0,0,2
-Requires level 100 of Dragon Isles Jewelcrafting to unlock an additional specialization.,3877,18,1,0,15875,0,0,3
+Requires level 60 of Dragon Isles Jewelcrafting to unlock an additional specialization.,3876,18,1,0,16664,0,0,2
+Requires level 75 of Dragon Isles Jewelcrafting to unlock an additional specialization.,3877,18,1,0,15875,0,0,3
 ,3881,20,1,0,15879,0,0,0
 Requires level 50 of Dragon Isles Mining to unlock an additional specialization.,3882,20,1,0,15880,0,0,1
-Requires level 100 of Dragon Isles Mining to unlock an additional specialization.,3883,20,1,0,15881,0,0,2
+Requires level 75 of Dragon Isles Mining to unlock an additional specialization.,3883,20,1,0,15881,0,0,2
 ,3924,3,1,0,15655,0,0,0
 Requires level 50 of Dragon Isles Blacksmithing to unlock an additional specialization.,3925,3,1,0,15656,0,0,1
-Requires level 100 of Dragon Isles Blacksmithing to unlock an additional specialization.,3926,3,1,0,15657,0,0,3
-Requires level 100 of Dragon Isles Alchemy to unlock an additional specialization.,4526,13,1,0,15660,0,0,2
+Requires level 75 of Dragon Isles Blacksmithing to unlock an additional specialization.,3926,3,1,0,15657,0,0,3
+Requires level 75 of Dragon Isles Alchemy to unlock an additional specialization.,4526,13,1,0,15660,0,0,2
 Requires level 50 of Dragon Isles Alchemy to unlock an additional specialization.,4527,13,1,0,15659,0,0,1
 ,4528,13,1,0,15658,0,0,0
 Requires 20 points in Potion Lore to unlock an additional sub-specialization.,5495,892,1,0,0,0,24470,1
@@ -593,8 +593,8 @@ Requires 15 |4point:points; in Leatherworking Discipline to learn an additional 
 Requires 5 |4point:points; in Leatherworking Discipline to learn an additional sub-specialization.,10542,1543,1,0,0,0,40858,0
 ,10543,19,1,0,15876,0,0,0
 Requires level 50 of Dragon Isles Leatherworking to unlock an additional specialization.,10544,19,1,0,15877,0,0,1
-Requires level 75 of Dragon Isles Leatherworking to unlock an additional specialization.,10545,19,1,0,15878,0,0,2
-Requires level 100 of Dragon Isles Leatherworking to unlock an additional specialization.,10546,19,1,0,16109,0,0,3
+Requires level 60 of Dragon Isles Leatherworking to unlock an additional specialization.,10545,19,1,0,15878,0,0,2
+Requires level 75 of Dragon Isles Leatherworking to unlock an additional specialization.,10546,19,1,0,16109,0,0,3
 Requires 25 |4point:points; in Tanning to learn an additional sub-specialization.,11977,1667,1,0,0,0,45604,1
 Requires 10 |4point:points; in Tanning to learn an additional sub-specialization.,11978,1667,1,0,0,0,45607,0
 Requires 35 |4point:points; in Harvesting to learn an additional sub-specialization.,11982,1671,1,0,0,0,45645,2
@@ -604,7 +604,7 @@ Requires 25 |4point:points; in Bait Crafter to learn an additional sub-specializ
 Requires 10 |4point:points; in Bait Crafter to learn an additional sub-specialization.,11989,1674,1,0,0,0,45684,0
 ,11990,21,1,0,15882,0,0,0
 Requires level 50 of Dragon Isles Skinning to unlock an additional specialization.,11991,21,1,0,15883,0,0,1
-Requires level 100 of Dragon Isles Skinning to unlock an additional specialization.,11992,21,1,0,15884,0,0,2
+Requires level 75 of Dragon Isles Skinning to unlock an additional specialization.,11992,21,1,0,15884,0,0,2
 Requires 40 |4point:points; in Rune Mastery to learn an additional sub-specialization.,12000,1684,1,0,0,0,45762,3
 Requires 30 |4point:points; in Rune Mastery to learn an additional sub-specialization.,12001,1684,1,0,0,0,45764,2
 Requires 20 |4point:points; in Rune Mastery to learn an additional sub-specialization.,12002,1684,1,0,0,0,45766,1
@@ -638,8 +638,8 @@ Requires 25 |4point:points; in Garmentcrafting to learn an additional sub-specia
 Requires 15 |4point:points; in Garmentcrafting to learn an additional sub-specialization.,14858,1821,1,0,0,0,51995,1
 Requires 5 |4point:points; in Garmentcrafting to learn an additional sub-specialization.,14859,1821,1,0,0,0,51997,0
 ,14860,22,1,0,15885,0,0,0
-Requires level 75 of Dragon Isles Tailoring to unlock an additional specialization.,14861,22,1,0,16663,0,0,2
-Requires level 100 of Dragon Isles Tailoring to unlock an additional specialization.,14862,22,1,0,15887,0,0,3
+Requires level 60 of Dragon Isles Tailoring to unlock an additional specialization.,14861,22,1,0,16663,0,0,2
+Requires level 75 of Dragon Isles Tailoring to unlock an additional specialization.,14862,22,1,0,15887,0,0,3
 Requires 20 |4point:points; in Hammer Control to learn an additional sub-specialization.,15859,1871,1,0,0,0,54897,1
 Requires 10 |4point:points; in Hammer Control to learn an additional sub-specialization.,15860,1871,1,0,0,0,54899,0
 Requires 20 |4point:points; in Scale Sigils to learn an additional sub-specialization.,16028,1914,1,0,0,0,55619,4
@@ -1109,8 +1109,8 @@ Requires 40 |4point:points; in Mastering the Elements to learn an additional sub
 ,29428,2778,1,0,0,42,0,29
 ,29429,2778,1,0,0,46,0,30
 ,29430,2778,1,0,0,50,0,31
-Requires level 75 of Dragon Isles Blacksmithing to unlock an additional specialization.,29431,3,1,0,16662,0,0,2
-Requires level 75 of Dragon Isles Engineering to unlock an additional specialization.,29432,15,1,0,16665,0,0,2
+Requires level 60 of Dragon Isles Blacksmithing to unlock an additional specialization.,29431,3,1,0,16662,0,0,2
+Requires level 60 of Dragon Isles Engineering to unlock an additional specialization.,29432,15,1,0,16665,0,0,2
 Requires level 50 of Dragon Isles Jewelcrafting to unlock an additional specialization.,29433,18,1,0,15874,0,0,1
 Requires level 50 of Dragon Isles Tailoring to unlock an additional specialization.,29434,22,1,0,15886,0,0,1
 ,29498,2785,1,0,0,11,0,1

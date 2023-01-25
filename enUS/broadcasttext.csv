@@ -6406,8 +6406,8 @@ What do you mean? Commander Eranog said it would be here.,,219806,0,0,0,68,0,4,2
 "A delay, unfortunately. They are still looking for it at South Hold Gate.",,219912,0,0,0,68,0,4,210746,0,0,0,0,0,0,0
 ,Still?! Should they not have found it by now?,219913,0,0,0,68,0,4,0,210512,0,0,0,0,0,0
 I am sure everything will be handled by the time our benefactors are ready. He will make sure of it.,,219914,0,0,0,68,0,4,210747,0,0,0,0,0,0,0
-,"Careful! We speak too casually, there are unfamiliar faces about.",219923,0,0,0,68,0,4,0,210513,0,0,0,0,0,0
-,"My apologies, there is nothing here awaiting you.",221180,0,0,0,68,0,4,0,207925,0,0,0,0,0,0
+,Careful! We speak too casually. There are unfamiliar faces about.,219923,0,0,0,68,0,4,0,210513,0,0,0,0,0,0
+,My apologies. There is nothing here awaiting you.,221180,0,0,0,68,0,4,0,207925,0,0,0,0,0,0
 Enough! Take the vault! I will liberate the Storm-Eater!,,221369,0,0,0,68,0,4,202502,0,0,0,0,0,0,0
 "During the dark days of the Cataclysm, the Aspects made great sacrifices to save our world.",,221563,0,0,0,102,0,6,202790,0,0,0,0,0,0,0
 "I am pleased that you have accepted our invitation to the Dragon Isles, Lord Commander.",,221564,0,0,0,102,0,6,204532,0,0,0,0,0,0,0
@@ -6488,6 +6488,7 @@ It seems there is... much you do not know.,,222431,0,0,0,102,0,4,202487,0,0,0,0,
 ,"We will fight beside you, but you do not give the orders here, dragons.",222434,0,0,0,102,0,4,0,202493,0,0,0,0,0,0
 So be it.,,222435,0,0,0,102,0,4,202494,0,0,0,0,0,0,0
 Fine.,,222436,0,0,0,102,0,4,202495,0,0,0,0,0,0,0
+GY's test record! TimeKellyEvent is cool!,,222487,0,0,0,68,0,4,199975,0,0,0,0,0,0,0
 ,A storm...,222685,0,0,0,102,0,6,0,204995,0,0,0,0,0,0
 ,"Ah, Nozdormu. I am pleased that not all the Aspects have met a bitter end. Not yet.",222850,0,0,0,70,0,4,0,202525,0,0,0,0,0,0
 ,Tell your queen I am coming for her. The storm's reckoning comes for you all!,222851,0,0,0,70,0,4,0,202526,0,0,0,0,0,0
@@ -6579,6 +6580,56 @@ There is none.,,225687,0,0,0,102,0,6,204622,0,0,0,0,0,0,0
 Chronormu...,,225692,0,0,0,102,0,6,204623,0,0,0,0,0,0,0
 In all timelines please know.,,225693,0,0,0,102,0,6,204624,0,0,0,0,0,0,0
 I am and always have been proud of you.,,225694,0,0,0,102,0,6,204625,0,0,0,0,0,0,0
+,I owe you my thanks.,225743,0,0,0,102,0,6,0,203318,0,0,0,0,0,0
+,You have helped the dragonflights remember our calling.,225744,0,0,0,102,0,6,0,203319,0,0,0,0,0,0
+,"With the oathstones renewed, we can finally reclaim our aspectral power.",225745,0,0,0,102,0,6,0,203320,0,0,0,0,0,0
+,This has to work.,225746,0,0,0,102,0,6,0,203321,0,0,0,0,0,0
+,Nothing...,225747,0,0,0,102,0,6,0,203322,0,0,0,0,0,0
+,But the oathstones were renewed...,225748,0,0,0,102,0,6,0,203323,0,0,0,0,0,0
+,<cackles>,225752,0,0,0,102,0,6,0,203324,0,0,0,0,0,0
+,It seems your titans have abandoned you.,225755,0,0,0,102,0,6,0,203325,0,0,0,0,0,0
+,Raszageth! What have you done?!,225756,0,0,0,102,0,6,0,203326,0,0,0,0,0,0
+,[DNT] Me?,225757,0,0,0,38,0,6,0,0,0,0,0,0,0,0
+,[DNT] Oh no.,225758,0,0,0,38,0,6,0,0,0,0,0,0,0,0
+,You proved yourself unworthy all on your own...,225759,0,0,0,102,0,6,0,203329,0,0,0,0,0,0
+,"""Queen of the Dragons"".",225760,0,0,0,102,0,6,0,203330,0,0,0,0,0,0
+,"Now, it is our time.",225763,0,0,0,102,0,6,0,203331,0,0,0,0,0,0
+,The age of the Incarnates... has come.,225764,0,0,0,102,0,6,0,203332,0,0,0,0,0,0
+,She's going to release them...,225767,0,0,0,102,0,6,0,203333,0,0,0,0,0,0
+,No!,225768,0,0,0,102,0,6,0,203334,0,0,0,0,0,0
+,My friends.,225782,0,0,0,102,0,6,0,206216,0,0,0,0,0,0
+,We sensed a great upheaval beneath the earth...,225783,0,0,0,102,0,6,0,206217,0,0,0,0,0,0
+,and feared the worst.,225784,0,0,0,102,0,6,0,206218,0,0,0,0,0,0
+We barely survived.,,225785,0,0,0,102,0,6,206229,0,0,0,0,0,0,0
+"Raszageth is dead, but...",,225786,0,0,0,102,0,6,206230,0,0,0,0,0,0,0
+,Her kin have been freed.,225787,0,0,0,102,0,6,0,206219,0,0,0,0,0,0
+Nozdormu?,,225788,0,0,0,102,0,6,206231,0,0,0,0,0,0,0
+,What is it?,225789,0,0,0,102,0,6,0,206220,0,0,0,0,0,0
+The timeways.,,225790,0,0,0,102,0,6,206240,0,0,0,0,0,0,0
+"They are... chaotic, but still obscured.",,225793,0,0,0,102,0,6,206241,0,0,0,0,0,0,0
+A dark future looms on the horizon.,,225794,0,0,0,102,0,6,206242,0,0,0,0,0,0,0
+We haven't long to prepare for their onslaught.,,225795,0,0,0,102,0,6,201849,0,0,0,0,0,0,0
+,"Raszageth's reckless haste cost her life, and they will not make that mistake again.",225796,0,0,0,102,0,6,0,206221,0,0,0,0,0,0
+,They will regain their strength and choose their next moment carefully.,225798,0,0,0,102,0,6,0,206222,0,0,0,0,0,0
+Then we must take the fight to them.,,225799,0,0,0,102,0,6,206232,0,0,0,0,0,0,0
+Strike before they are recovered.,,225800,0,0,0,102,0,6,206233,0,0,0,0,0,0,0
+,That... will be difficult.,225801,0,0,0,102,0,6,0,206223,0,0,0,0,0,0
+,Iridikron's mastery of the earth will harbor them and keep them out of our reach.,225803,0,0,0,102,0,6,0,206224,0,0,0,0,0,0
+"What is it about this ""Iridikron"" that vexes you so?",,225804,0,0,0,102,0,6,201850,0,0,0,0,0,0,0
+"Of the three that remain, Vyranoth and Fyrakk were ever loyal to the Incarnate's ideals.",,225805,0,0,0,102,0,6,206243,0,0,0,0,0,0,0
+But it was Iridkron who truly embraced the war.,,225806,0,0,0,102,0,6,206244,0,0,0,0,0,0,0
+"The last captured, and the most difficult to contain.",,225807,0,0,0,102,0,6,206245,0,0,0,0,0,0,0
+,"At the end, he struck terrible bargains to keep their cause alive.",225808,0,0,0,102,0,6,0,206225,0,0,0,0,0,0
+,His violent desperation makes him dangerous.,225809,0,0,0,102,0,6,0,206226,0,0,0,0,0,0
+,I believe the other incarnates never knew the true depths of his depravity.,225810,0,0,0,102,0,6,0,206227,0,0,0,0,0,0
+We must not despair.,,225811,0,0,0,102,0,6,206234,0,0,0,0,0,0,0
+Their war is coming.,,225812,0,0,0,102,0,6,206235,0,0,0,0,0,0,0
+"And while we may not yet have our aspectral powers, we can rebuild our unity.",,225813,0,0,0,102,0,6,206236,0,0,0,0,0,0,0
+Heal the wounded flights.,,225817,0,0,0,102,0,6,206237,0,0,0,0,0,0,0
+Embrace our allies.,,225818,0,0,0,102,0,6,206238,0,0,0,0,0,0,0
+Only together do we stand any chance of victory.,,225819,0,0,0,102,0,6,206239,0,0,0,0,0,0,0
+Together.,,225820,0,0,0,102,0,6,201851,0,0,0,0,0,0,0
+,Together.,225821,0,0,0,102,0,6,0,206228,0,0,0,0,0,0
 "I am well known among the heroes of the Alliance, my dear Azurathel.",,226110,0,0,0,102,0,4,202538,0,0,0,0,0,0,0
 "With my endorsement, I am certain they will welcome you into their ranks.",,226111,0,0,0,102,0,4,202539,0,0,0,0,0,0,0
 "The Obsidian Warders have trained relentlessly to protect our kin, Wrathion.",,226112,0,0,0,102,0,4,202540,0,0,0,0,0,0,0
@@ -6787,6 +6838,7 @@ You have always been the strength of our people.,,229035,0,0,0,102,0,6,206345,0,
 "They will follow you ever onward, and you will never be alone.",,229037,0,0,0,102,0,6,206346,0,0,0,0,0,0,0
 ,Until I see you again...,229038,0,0,0,100,0,6,0,206347,0,0,0,0,0,0
 ,I will dream of the night we may truly rest... together.,229039,0,0,0,102,0,6,0,206348,0,0,0,0,0,0
+,How is this possible...,229042,0,0,0,102,0,6,0,206350,0,0,0,0,0,0
 ,"The Maruuk, too, have been plagued by these Primalists.",229043,0,0,0,102,0,6,0,206901,0,0,0,0,0,0
 ,"If Ohn'ahra wills it, I will blow the Horn of Drusahl on the morrow to signal our accord with the green dragonflight.",229046,0,0,0,102,0,6,0,206903,0,0,0,0,0,0
 ,"Merithra, daughter of Ysera, is grateful for your...",229047,0,0,0,102,0,6,0,206905,0,0,0,0,0,0
@@ -6864,8 +6916,9 @@ Gah! Not again!,,231258,0,0,0,68,0,4,0,0,1,0,0,0,0,0
 Don't worry! It's not the first time something up here has exploded like that. We've got tough scales!,Don't worry! It's not the first time something up here has exploded like that. We've got tough scales!,231340,0,0,0,68,0,4,0,0,0,0,0,0,0,0
 "What? The wild magic is up here, too? You've been hurt?","What? The wild magic is up here, too? You've been hurt?",231341,0,0,6,68,0,4,0,0,0,0,0,0,0,0
 "Oh-! Uh, no--no! Nobody's been hurt, we're totally safe alone up here! Don't... don't send us away...","Oh-! Uh, no--no! Nobody's been hurt, we're totally safe alone up here! Don't... don't send us away...",231342,0,0,669,68,0,4,0,0,0,0,0,0,0,0
-You're kids! Even I know kids shouldn't be left unsupervised...,You're kids! Even I know kids shouldn't be left unsupervised...,231343,0,0,1005,68,0,4,0,0,0,0,0,0,0,0
+You're children! Even I know children shouldn't be left unsupervised...,You're children! Even I know children shouldn't be left unsupervised...,231343,0,0,1005,68,0,4,0,0,0,0,0,0,0,0
 ,Almost there....,231592,0,0,0,102,0,4,0,209884,0,0,0,0,0,0
+<Pained groan.>,,232128,0,0,0,102,0,6,211288,0,0,0,0,0,0,0
 <Shocked gasp.>,,232159,0,0,0,102,0,6,211321,0,0,0,0,0,0,0
 Excellent! You've found another misaligned ley line. Restoring the uninterrupted flow of magic is crucial for the Azure Span's recovery.,,232247,0,0,0,68,0,4,0,0,0,0,0,0,0,0
 "Thank you, $n. Each ley line we restore contributes to the health of the Dragon Isles as a whole.",,232249,0,0,0,68,0,4,0,0,0,0,0,0,0,0
@@ -6877,3 +6930,5 @@ Excellent! You've found another misaligned ley line. Restoring the uninterrupted
 ,<breath> NO SBT,232817,0,0,0,68,0,6,0,216076,0,0,0,0,0,0
 ,I believe we can channel the essence of each into the Mother Oathstone and restore our Aspectral powers.,233018,0,0,0,102,0,6,0,215861,0,0,0,0,0,0
 ,Until I see you again...,233377,0,0,0,102,0,6,0,0,0,0,0,0,0,0
+|cffdb453dRequires: Primal Mote|r,|cffdb453dRequires: Primal Mote|r,233777,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+|cff34ccebRequires: Primal Mote|r,|cff34ccebRequires: Primal Mote|r,233778,0,0,0,68,0,4,0,0,0,0,0,0,0,0

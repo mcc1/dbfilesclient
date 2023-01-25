@@ -1,6 +1,6 @@
-ID,Directory,MapName_lang,MapDescription0_lang,MapDescription1_lang,PvpShortDescription_lang,PvpLongDescription_lang,Corpse[0],Corpse[1],MapType,InstanceType,ExpansionID,AreaTableID,LoadingScreenID,TimeOfDayOverride,ParentMapID,CosmeticParentMapID,TimeOffset,MinimapIconScale,CorpseMapID,MaxPlayers,WindSettingsID,ZmpFileDataID,WdtFileDataID,Field_10_0_0_44649_022,Flags[0],Flags[1],Flags[2]
-0,Azeroth,Eastern Kingdoms,,,,,0,0,1,0,0,0,4,-1,-1,-1,0,1,-1,0,17,804940,775971,0,159399517,134479888,8
-1,Kalimdor,Kalimdor,,,,,0,0,1,0,0,0,3,-1,-1,-1,0,1,-1,0,17,804935,782779,0,159399517,134479888,8
+ID,Directory,MapName_lang,MapDescription0_lang,MapDescription1_lang,PvpShortDescription_lang,PvpLongDescription_lang,Corpse[0],Corpse[1],MapType,InstanceType,ExpansionID,AreaTableID,LoadingScreenID,TimeOfDayOverride,ParentMapID,CosmeticParentMapID,TimeOffset,MinimapIconScale,CorpseMapID,MaxPlayers,WindSettingsID,ZmpFileDataID,WdtFileDataID,NavigationMaxDistance,Flags[0],Flags[1],Flags[2]
+0,Azeroth,Eastern Kingdoms,,,,,0,0,1,0,0,0,4,-1,-1,-1,0,1,-1,0,17,804940,775971,0,142622301,134479888,8
+1,Kalimdor,Kalimdor,,,,,0,0,1,0,0,0,3,-1,-1,-1,0,1,-1,0,17,804935,782779,0,142622301,134479888,8
 30,PVPZone01,Alterac Valley,"Hidden within the Alterac Mountains, Alterac Valley is the home of the Frostwolf clan.  The Stormpike dwarves have established a foothold in the valley and seek to plumb its depths for riches and links to their ancestral past.
 
 A large-scale battleground, each side attempts to destroy each other's tower fortifications and slay the enemy General (Vanndar Stormpike or Drek'Thar).","Hidden within the Alterac Mountains, Alterac Valley is the home of the Frostwolf clan.  The Stormpike dwarves have established a foothold in the valley and seek to plumb its depths for riches and links to their ancestral past.
@@ -619,7 +619,7 @@ Gold Rush is a 15 vs 15 resource battle",Capture the objectives,"- Capture and h
 1456,NagaDungeon,Eye of Azshara,,,,,0,0,1,1,6,0,416,-1,-1,1220,0,1,-1,0,11,0,1094973,0,-2139079139,134480144,0
 1458,7_DungeonExteriorNeltharionsLair,Neltharion's Lair,,,,,0,0,1,1,6,0,407,-1,-1,-1,0,1,-1,0,0,0,1097290,0,8404573,134479872,0
 1459,Transport_The_Iron_Mountain,Transport: The Iron Mountain,,,,,0,0,3,0,5,0,0,-1,-1,-1,0,1,-1,0,0,0,0,0,3585,134479880,0
-1460,BrokenShoreScenario,Broken Shore Scenario,,,,,0,0,1,5,5,0,411,-1,-1,-1,0,1,-1,0,0,0,1098373,0,159399517,134481922,0
+1460,BrokenShoreScenario,Broken Shore Scenario,,,,,0,0,1,5,5,0,411,-1,-1,-1,0,1,-1,0,0,0,1098373,0,142622301,134481922,0
 1461,AzsunaScenario,Azsuna Scenario,,,,,0,0,1,5,6,0,411,-1,1220,1220,0,1,-1,0,11,0,1101662,0,545275485,134479888,0
 1462,IllidansRock,Illidans Rock,,,,,0,0,1,0,6,0,0,-1,-1,-1,0,1,-1,0,0,0,1106852,0,7773,134479872,0
 1463,HelhiemExteriorArea,Helhiem Exterior Area,,,,,0,0,1,0,6,0,411,-1,-1,-1,0,1,-1,0,11,0,1106912,0,8404573,134479872,0
@@ -701,7 +701,7 @@ Gold Rush is a 15 vs 15 resource battle",Capture the objectives,"- Capture and h
 1571,SuramarCityDungeon,Court of Stars,,,,,0,0,1,1,6,0,419,-1,-1,1220,0,1,-1,0,12,0,1315461,0,-2139087267,134480144,0
 1572,MaelstromShamanHubIntroScenario,The Maelstrom,,,,,0,0,1,5,3,0,272,-1,-1,-1,0,1,-1,0,0,0,1319015,0,1629,134479872,0
 1579,UdluarScenario,Ulduar,,,,,0,0,1,5,5,0,244,0,-1,-1,0,1,-1,0,0,0,1325930,0,7773,134479920,0
-1580,MaelstromTitanScenario,The Maelstrom,,,,,0,0,1,5,6,0,272,-1,-1,-1,0,1,-1,0,0,0,1326466,0,15965,134479880,0
+1580,MaelstromTitanScenario,The Maelstrom,,,,,0,0,1,5,6,0,272,-1,-1,-1,0,1,-1,0,0,0,1326466,0,15965,134479872,0
 1582,Artifact�DalaranVaultAcquisition,Delete,,,,,0,0,1,5,6,0,0,-1,-1,0,0,1,-1,0,0,0,2449144,0,679493213,134479888,0
 1583,Artifact-DalaranVaultAcquisition,Nexus Vault,,,,,0,0,1,5,6,0,227,-1,-1,-1,0,1,-1,0,0,0,1327887,0,679485021,134479888,0
 1586,AssualtOnStormwind,Assault on Stormwind,,,,,0,0,1,0,6,0,4,1020,-1,0,0,1,-1,0,0,0,1328459,0,142622301,134479888,0
@@ -819,7 +819,7 @@ Cooking: Impossible is a 10 flag capture style battle",Complete Nomi's Chili Rec
 1750,Azuremyst Isle (7.3 Intro),Azuremyst Isle,,,,,0,0,1,0,6,0,198,-1,-1,530,0,1,-1,0,0,0,1610885,0,-2147475875,134479904,0
 1751,AllianceBattleship73Intro,Alliance Battleship (7.3 Intro),,,,,0,0,4,0,6,0,0,-1,-1,-1,0,1,-1,0,0,0,2449133,0,3585,134479872,0
 1752,SunstriderShip73Intro,Sunstrider Battleship (7.3 Intro),,,,,0,0,4,0,6,0,0,-1,-1,-1,0,1,-1,0,0,0,2449137,0,3585,134479872,0
-1753,ArgusDungeon,Seat of the Triumvirate,,,,,0,0,1,1,6,0,430,-1,-1,-1,0,1,-1,0,12,0,1618081,0,25173597,134480432,0
+1753,ArgusDungeon,Seat of the Triumvirate,,,,,0,0,1,1,6,0,430,-1,-1,-1,0,1,-1,0,12,0,1618081,0,8396381,134480432,0
 1754,PirateTownDungeon,Freehold,,,,,0,0,1,1,7,0,547,360,-1,-1,0,1,-1,0,12,0,1618501,0,8404573,134480432,0
 1756,ChromieScenario,The Deaths of Chromie,,,,,0,0,1,5,6,0,428,-1,-1,-1,0,1,-1,0,0,0,1619285,0,7773,134479920,0
 1760,LordaeronScenario,Lordaeron,,,,,0,0,1,5,6,0,4,720,-1,-1,0,1,-1,0,12,0,1629013,0,142622301,134480658,0
@@ -1000,7 +1000,7 @@ An ancient Titan stronghold built to protect the Vault of Archavon.  Horde and A
 2155,2155,Halls of Stone Scenario,,,,,0,0,1,5,7,0,0,-1,-1,-1,0,1,-1,0,12,0,2451869,0,8396381,134218768,0
 2160,2160,Maw Prototype - Dragonblight,,,,,0,0,1,0,0,0,0,-1,-1,-1,0,1,-1,0,12,0,2461708,0,8396381,134218768,0
 2161,2161,Maw Prototype - Torment Chambers,,,,,0,0,1,5,0,0,0,-1,-1,-1,0,1,-1,0,12,0,2461951,0,8396381,134218768,0
-2162,2162,"Torghast, Tower of the Damned",,,,,0,0,1,5,8,0,590,-1,-1,-1,0,1,-1,0,12,0,2461919,0,428875357,404751380,0
+2162,2162,"Torghast, Tower of the Damned",,,,,0,0,1,5,8,0,590,-1,-1,-1,0,1,-1,0,12,0,2461919,0,412098141,404751380,0
 2163,2163,Gnomeregan Scenario,,,,,0,0,1,5,7,0,0,-1,-1,-1,0,1,-1,0,12,0,2458539,0,8396381,134218768,0
 2164,2164,The Eternal Palace,,,,,0,0,1,2,7,0,570,-1,-1,-1,0,1,-1,0,11,0,2475876,0,142614109,134481424,0
 2165,2165,SpawnedMO: Night Elf Warship,,,,,0,0,4,0,7,0,0,-1,-1,-1,0,1,-1,0,12,0,2486841,0,3649,134218768,0
@@ -1046,12 +1046,12 @@ A large-scale battleground, each side attempts to destroy each other's tower for
 2209,2209,Emerald Dream - HoA Scenario,,,,,0,0,1,5,7,0,418,0,-1,-1,0,1,-1,0,12,0,2819980,0,8404573,134480912,0
 2210,2210,Siege of Orgrimmar - Coup Scenario,,,,,0,0,1,5,7,0,369,-1,-1,-1,0,1,-1,0,12,0,2821940,0,8404573,134480912,0
 2211,2211,Gilneas - Worgen Heritage Scenario,,,,,0,0,1,5,7,0,0,-1,0,0,0,1,-1,0,12,0,2827797,0,8396381,134218768,0
-2212,2212,Horrific Vision of Orgrimmar,,,,,0,0,1,5,7,0,577,0,-1,1,0,1,-1,0,12,0,2828486,0,159391325,171967764,0
-2213,2213,Horrific Vision of Stormwind,,,,,0,0,1,5,7,0,577,0,-1,0,0,1,-1,0,12,0,2828487,0,159391325,171967764,0
+2212,2212,Horrific Vision of Orgrimmar,,,,,0,0,1,5,7,0,577,0,-1,1,0,1,-1,0,12,0,2828486,0,142614109,171967764,0
+2213,2213,Horrific Vision of Stormwind,,,,,0,0,1,5,7,0,577,0,-1,0,0,1,-1,0,12,0,2828487,0,142614109,171967764,0
 2214,2214,The Maelstrom - Heart of Azeroth,,,,,0,0,1,5,7,0,272,-1,-1,-1,0,1,-1,0,12,0,2832121,0,1629,134479872,0
 2215,2215,Chamber of Heart - Repaired,,,,,0,0,1,0,7,0,434,-1,-1,-1,0,1,-1,0,12,0,2832122,0,142614109,134479888,0
 2217,2217,"Ny'alotha, the Waking City",,,,,0,0,1,2,7,0,575,-1,-1,-1,0,1,-1,0,12,0,2842322,0,142614109,263696,0
-2222,2222,The Shadowlands,,,,,0,0,1,0,8,0,576,-1,-1,-1,0,1,-1,0,11,0,2852007,0,162537053,679478288,8
+2222,2222,The Shadowlands,,,,,0,0,1,0,8,0,576,-1,-1,-1,0,1,-1,0,11,0,2852007,0,145759837,679478288,8
 2223,2223,The Eye of Eternity - HoA Scenario,,,,,3869.9814,6984.33,1,5,7,0,236,-1,-1,-1,0,1,571,5,12,0,2887359,0,1565,134479872,0
 2232,2232,Karazhan Catacombs - HoA Scenario,,,,,0,0,1,5,7,0,200,-1,-1,0,0,1,-1,0,12,0,2915729,0,679493213,134479889,0
 2233,2233,Temple of the Jade Serpent - HoA Scenario,,,,,957.706,-2473.41,1,1,7,0,311,-1,-1,-1,0,1,870,0,12,0,2915791,0,8404573,134479872,0
@@ -1110,21 +1110,21 @@ A large-scale battleground, each side attempts to destroy each other's tower for
 2370,2370,Maldraxxus Arena,,,,,0,0,1,0,8,0,576,-1,-1,2222,0,1,-1,0,12,0,3505090,0,8396381,134218768,0
 2371,2371,9.0 Ardenweald Covenant Finale Drust Scenario,,,,,0,0,1,5,8,0,576,-1,-1,2222,0,1,-1,0,12,0,3505789,0,-2139087267,134218768,0
 2373,2373,Empyrean Domain,,,,,0,0,1,4,8,0,583,720,-1,-1,0,1,-1,0,12,0,3534288,0,8396381,134218768,0
-2374,2374,Zereth Mortis,,,,,0,0,1,0,8,0,593,-1,-1,-1,0,1,-1,0,11,0,3546386,0,25181789,671089680,0
+2374,2374,Zereth Mortis,,,,,0,0,1,0,8,0,593,-1,-1,-1,0,1,-1,0,11,0,3546386,0,8404573,671089680,0
 2375,2375,9.0 Bastion Arena - Path of Ascension,,,,,0,0,1,5,8,0,583,720,-1,-1,0,1,-1,0,12,0,3557117,0,8396381,1207960592,0
 2439,2439,De Other Side (Ardenweald Campaign),,,,,0,0,1,0,8,0,585,1320,-1,-1,0,1,-1,0,12,0,3643212,0,8396381,1040,0
 2441,2441,"Tazavesh, the Veiled Market",,,,,0,0,1,1,8,0,592,720,-1,-1,0,1,-1,0,0,0,3649248,0,8396381,788016,0
 2444,2444,10.0 Dragon Isles,,,,,0,0,1,0,9,0,603,-1,-1,-1,0,1,-1,0,11,4763832,3694921,1600,160448093,134218768,12
-2450,2450,Sanctum of Domination,,,,,0,0,1,2,8,0,591,720,-1,-1,0,1,-1,0,12,0,3753685,0,161488477,671352336,0
-2451,2451,Uldaman: Legacy of Tyr,,,,,0,0,1,1,8,0,597,-1,-1,-1,0,1,-1,0,12,0,3760927,0,9444957,1040,0
+2450,2450,Sanctum of Domination,,,,,0,0,1,2,8,0,591,720,-1,-1,0,1,-1,0,12,0,3753685,0,144711261,671352336,0
+2451,2451,Uldaman: Legacy of Tyr,,,,,0,0,1,1,9,0,597,-1,-1,-1,0,1,-1,0,12,0,3760927,0,9444957,1040,0
 2453,2453,Torghast,,,,,0,0,1,0,8,0,576,-1,-1,-1,0,1,-1,0,12,0,3777022,0,8396381,263184,0
-2456,2456,The Maw,,,,,0,0,1,0,8,0,576,-1,-1,-1,0,1,-1,0,12,0,3889778,0,162537053,679478288,0
+2456,2456,The Maw,,,,,0,0,1,0,8,0,576,-1,-1,-1,0,1,-1,0,12,0,3889778,0,145759837,679478288,0
 2464,2464,9.1 Battle of Ardenweald,,,,,0,0,1,5,8,0,576,-1,-1,2222,0,1,-1,0,12,0,3994581,0,-2139087267,134218768,0
 2465,2465,9.1 Andorhal - Kyrian Chapter Scenario,,,,,0,0,1,5,8,0,4,-1,-1,0,0,1,-1,0,12,804940,3995304,0,7773,134479920,0
 2469,2469,Torghast,,,,,0,0,4,0,8,0,0,-1,-1,-1,0,1,-1,0,12,0,3996660,0,3585,262144,0
 2471,2471,Torghast,,,,,0,0,1,5,8,0,576,-1,-1,2453,0,1,-1,0,12,0,4001186,0,142614109,263184,0
 2472,2472,Skyhold,,,,,0,0,1,0,8,0,415,-1,-1,-1,0,1,-1,0,12,0,4004601,0,679485021,262144,0
-2481,2481,Sepulcher of the First Ones,,,,,0,0,1,2,8,0,595,-1,-1,-1,0,1,-1,0,11,0,4062863,0,159391325,134481680,0
+2481,2481,Sepulcher of the First Ones,,,,,0,0,1,2,8,0,595,-1,-1,-1,0,1,-1,0,11,0,4062863,0,142614109,134481680,0
 2482,2482,Font of Fealty,,,,,0,0,1,0,8,0,582,720,-1,-1,0,1,-1,0,12,0,4066524,0,8396381,1040,0
 2485,2485,Torghast,,,,,0,0,4,0,8,0,0,-1,-1,-1,0,1,-1,0,12,0,4182236,0,3585,262144,0
 2486,2486,Torghast,,,,,0,0,4,0,8,0,0,-1,-1,-1,0,1,-1,0,12,0,4182237,0,3585,262144,0
@@ -1154,7 +1154,7 @@ A large-scale battleground, each side attempts to destroy each other's tower for
 2556,2556,Emerald Dreamway,,,,,0,0,1,5,9,0,418,0,-1,-1,0,1,-1,0,12,0,4541813,0,8404573,134480912,0
 2559,2559,Shadowlands,,,,,0,0,1,2,8,0,576,-1,-1,-1,0,1,-1,0,12,0,4550305,0,144711261,671352336,0
 2563,2563,Nokhudon Proving Grounds,,,,,0,0,1,4,9,0,607,-1,-1,-1,0,1,-1,0,12,0,4579690,0,8396381,1040,0
-2570,2570,10.0 The Forbidden Reach (Child of 2444),,,,,0,0,1,0,8,0,603,-1,-1,2444,0,1,-1,0,12,0,4637866,0,160710237,134218768,0
+2570,2570,10.0 The Forbidden Reach (Child of 2444),,,,,0,0,1,0,8,0,603,-1,-1,2444,0,1,-1,0,12,0,4637866,0,143933021,134218768,0
 2573,2573,Lost Arvillo,,,,,0,0,3,0,9,0,0,-1,-1,-1,0,1,-1,0,12,0,0,0,1553,262144,0
 2574,2574,Dragon Isles,,,,,0,0,1,2,9,0,411,-1,-1,-1,0,1,-1,0,12,0,4668131,0,144711261,671352336,0
 2576,2576,Sully Test Space,,,,,0,0,1,0,9,0,205,-1,-1,-1,0,1,-1,0,12,0,4676136,0,8404575,1040,0
